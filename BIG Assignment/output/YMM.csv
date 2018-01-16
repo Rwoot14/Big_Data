@@ -1,0 +1,4462 @@
+vin_prefix,year,make,model
+137ZA90_W,1998,AM General,Hummer
+19UYA22_X,1999,Acura,CL
+19UYA42_1,2001,Acura,CL
+19UDE2F_G,2016,Acura,ILX
+JH4DC44_R,1994,Acura,Integra
+JH4KA76_P,1993,Acura,Legend
+2HNYD18_1,2001,Acura,MDX
+2HNYD18_2,2002,Acura,MDX
+2HNYD18_3,2003,Acura,MDX
+2HNYD18_4,2004,Acura,MDX
+2HNYD18_5,2005,Acura,MDX
+2HNYD18_6,2006,Acura,MDX
+2HNYD28_7,2007,Acura,MDX
+2HNYD28_8,2008,Acura,MDX
+2HNYD2H_A,2010,Acura,MDX
+2HNYD2H_B,2011,Acura,MDX
+2HNYD2H_D,2013,Acura,MDX
+5FRYD3H_E,2014,Acura,MDX
+5FRYD3H_G,2016,Acura,MDX
+5J8TB18_7,2007,Acura,RDX
+5J8TB18_8,2008,Acura,RDX
+5J8TB18_9,2009,Acura,RDX
+5J8TB3H_D,2013,Acura,RDX
+5J8TB4H_D,2013,Acura,RDX
+5J8TB3H_E,2014,Acura,RDX
+JH4KA96_4,2004,Acura,RL
+JH4KB16_6,2006,Acura,RL
+JH4KB16_8,2008,Acura,RL
+JH4KB26_9,2009,Acura,RL
+JH4DC54_6,2006,Acura,RSX
+19UUA56_Y,2000,Acura,TL
+19UUA56_2,2002,Acura,TL
+19UUA56_3,2003,Acura,TL
+19UUA65_4,2004,Acura,TL
+19UUA66_4,2004,Acura,TL
+19UUA66_5,2005,Acura,TL
+19UUA66_6,2006,Acura,TL
+19UUA66_7,2007,Acura,TL
+19UUA76_7,2007,Acura,TL
+19UUA66_8,2008,Acura,TL
+19UUA86_9,2009,Acura,TL
+19UUA8F_A,2010,Acura,TL
+19UUA9F_A,2010,Acura,TL
+19UUA8F_C,2012,Acura,TL
+19UUA8F_D,2013,Acura,TL
+19UUB2F_G,2016,Acura,TLX
+JH4CL96_6,2006,Acura,TSX
+JH4CL96_7,2007,Acura,TSX
+JH4CU26_9,2009,Acura,TSX
+JH4CU2F_A,2010,Acura,TSX
+JH4CU2F_B,2011,Acura,TSX
+JH4CU2F_C,2012,Acura,TSX
+JH4CU2F_E,2014,Acura,TSX
+WAUNF78_6,2006,Audi,A3
+WAUNF78_7,2007,Audi,A3
+WAUA7GF_G,2016,Audi,A3
+WAUDA88_T,1996,Audi,A4
+WAULT68_2,2002,Audi,A4
+WAUAC48_5,2005,Audi,A4
+WAUAF78_5,2005,Audi,A4
+WAUBC48_5,2005,Audi,A4
+WAUAC48_6,2006,Audi,A4
+WAUBF78_6,2006,Audi,A4
+WAUDF78_6,2006,Audi,A4
+WAUDF78_7,2007,Audi,A4
+WAUAF78_8,2008,Audi,A4
+WAUDF78_8,2008,Audi,A4
+WAUDH48_8,2008,Audi,A4
+WAUSF78_9,2009,Audi,A4
+WAUAFAF_A,2010,Audi,A4
+WAUFFAF_C,2012,Audi,A4
+WAUAFAF_E,2014,Audi,A4
+WAUFFAF_E,2014,Audi,A4
+WAUBFAF_F,2015,Audi,A4
+WAUFFAF_G,2016,Audi,A4
+WAUCFAF_D,2013,Audi,A5
+WAULT64_4,2004,Audi,A6
+WAUDG74_5,2005,Audi,A6
+WAUDG74_6,2006,Audi,A6
+WAUKGAF_B,2011,Audi,A6
+WAUBGAF_C,2012,Audi,A6
+WAUCFAF_D,2013,Audi,A6
+WAUSGAF_C,2012,Audi,A7
+WAUML44_2,2002,Audi,A8
+WAUML44_4,2004,Audi,A8
+WAUML44_5,2005,Audi,A8
+WAUML44_6,2006,Audi,A8
+WAUMV94_9,2009,Audi,A8
+WA1YD64_4,2004,Audi,Allroad
+WA1UFAF_G,2016,Audi,Allroad
+WA1GFCF_G,2016,Audi,Q3
+WA1KK78_9,2009,Audi,Q5
+WA1CFAF_C,2012,Audi,Q5
+WA1LFAF_C,2012,Audi,Q5
+WA1LFAF_D,2013,Audi,Q5
+WA1LFAF_E,2014,Audi,Q5
+WA1BY74_7,2007,Audi,Q7
+WA1EY74_7,2007,Audi,Q7
+WA1EV74_8,2008,Audi,Q7
+WA1DGAF_D,2013,Audi,Q7
+WA1LMAF_E,2014,Audi,Q7
+WAURD68_1,2001,Audi,S4
+WAUKGAF_A,2010,Audi,S4
+WAUCGAF_E,2014,Audi,S5
+TRUTC28_Y,2000,Audi,TT
+TRUTC28_1,2001,Audi,TT
+TRUUT28_2,2002,Audi,TT
+TRUJF38_9,2009,Audi,TT
+WBAUL73_9,2009,BMW,1 Series
+WBAUP73_9,2009,BMW,1 Series
+WBAUL7C_A,2010,BMW,1 Series
+WBAUC9C_D,2013,BMW,1 Series
+WBAUL7C_D,2013,BMW,1 Series
+WBAUP7C_D,2013,BMW,1 Series
+WBA1L9C_G,2016,BMW,2 Series
+WBA1M1C_G,2016,BMW,2 Series
+WBABJ63_S,1995,BMW,3 Series
+WBABF73_W,1998,BMW,3 Series
+WBABG23_W,1998,BMW,3 Series
+WBAAM33_Y,2000,BMW,3 Series
+WBABR33_Y,2000,BMW,3 Series
+WBAAV33_1,2001,BMW,3 Series
+WBAAV53_1,2001,BMW,3 Series
+WBABS53_1,2001,BMW,3 Series
+WBAEV33_2,2002,BMW,3 Series
+WBAEV53_2,2002,BMW,3 Series
+WBAEV33_3,2003,BMW,3 Series
+WBAEV53_3,2003,BMW,3 Series
+WBAEW53_3,2003,BMW,3 Series
+WBABD33_4,2004,BMW,3 Series
+WBABD53_4,2004,BMW,3 Series
+WBABW33_4,2004,BMW,3 Series
+WBABW53_4,2004,BMW,3 Series
+WBAET37_4,2004,BMW,3 Series
+WBAEU33_4,2004,BMW,3 Series
+WBAEV33_4,2004,BMW,3 Series
+WBAEV53_4,2004,BMW,3 Series
+WBABW33_5,2005,BMW,3 Series
+WBAEU33_5,2005,BMW,3 Series
+WBAEV53_5,2005,BMW,3 Series
+WBABD53_6,2006,BMW,3 Series
+WBABW33_6,2006,BMW,3 Series
+WBAVB13_6,2006,BMW,3 Series
+WBAVB17_6,2006,BMW,3 Series
+WBAVB33_6,2006,BMW,3 Series
+WBAVD13_6,2006,BMW,3 Series
+WBAVA33_7,2007,BMW,3 Series
+WBAVA37_7,2007,BMW,3 Series
+WBAVC93_7,2007,BMW,3 Series
+WBAVD53_7,2007,BMW,3 Series
+WBAWL73_7,2007,BMW,3 Series
+WBAVA33_8,2008,BMW,3 Series
+WBAVA37_8,2008,BMW,3 Series
+WBAVB73_8,2008,BMW,3 Series
+WBAVD53_8,2008,BMW,3 Series
+WBAWB33_8,2008,BMW,3 Series
+WBAWC73_8,2008,BMW,3 Series
+WBAWL13_8,2008,BMW,3 Series
+WBAWL73_8,2008,BMW,3 Series
+WBAPH57_9,2009,BMW,3 Series
+WBAPH73_9,2009,BMW,3 Series
+WBAPH77_9,2009,BMW,3 Series
+WBAPK53_9,2009,BMW,3 Series
+WBAWB73_9,2009,BMW,3 Series
+WBAPN7C_A,2010,BMW,3 Series
+WBAWR3C_A,2010,BMW,3 Series
+WBADW3C_B,2011,BMW,3 Series
+WBADW7C_B,2011,BMW,3 Series
+WBAKG1C_B,2011,BMW,3 Series
+WBAKG7C_B,2011,BMW,3 Series
+WBAPH7C_B,2011,BMW,3 Series
+WBAPH7G_B,2011,BMW,3 Series
+WBA3A5C_D,2013,BMW,3 Series
+WBA3A9G_D,2013,BMW,3 Series
+WBA3B3C_D,2013,BMW,3 Series
+WBA3B5G_D,2013,BMW,3 Series
+WBA3C1C_D,2013,BMW,3 Series
+WBA3C1G_D,2013,BMW,3 Series
+WBADW3C_D,2013,BMW,3 Series
+WBA3B1G_E,2014,BMW,3 Series
+WBA3C3C_E,2014,BMW,3 Series
+WBA3X5C_E,2014,BMW,3 Series
+WBA3B3C_F,2015,BMW,3 Series
+WBA8E3G_G,2016,BMW,3 Series
+WBADN63_3,2003,BMW,5 Series
+WBADT43_3,2003,BMW,5 Series
+WBADT63_3,2003,BMW,5 Series
+WBANA73_4,2004,BMW,5 Series
+WBANB33_4,2004,BMW,5 Series
+WBANA53_5,2005,BMW,5 Series
+WBANA73_5,2005,BMW,5 Series
+WBANB53_6,2006,BMW,5 Series
+WBANE53_6,2006,BMW,5 Series
+WBANE73_6,2006,BMW,5 Series
+WBANF33_6,2006,BMW,5 Series
+WBANN73_6,2006,BMW,5 Series
+WBANE53_7,2007,BMW,5 Series
+WBANE73_7,2007,BMW,5 Series
+WBANV93_8,2008,BMW,5 Series
+WBANU53_9,2009,BMW,5 Series
+WBANV13_9,2009,BMW,5 Series
+WBANU5C_A,2010,BMW,5 Series
+WBANV1C_A,2010,BMW,5 Series
+WBANW1C_A,2010,BMW,5 Series
+WBAFR1C_B,2011,BMW,5 Series
+WBAFR9C_B,2011,BMW,5 Series
+WBAXG5C_C,2012,BMW,5 Series
+WBAFR7C_D,2013,BMW,5 Series
+WBAXG5C_D,2013,BMW,5 Series
+WBAXH5C_D,2013,BMW,5 Series
+WBA5B3C_E,2014,BMW,5 Series
+WBA5B3C_F,2015,BMW,5 Series
+WBAEH73_4,2004,BMW,6 Series
+WBAEH73_5,2005,BMW,6 Series
+WBAEH13_6,2006,BMW,6 Series
+WBAEK13_6,2006,BMW,6 Series
+WBAEK13_7,2007,BMW,6 Series
+WBAEA53_8,2008,BMW,6 Series
+WBAEB53_8,2008,BMW,6 Series
+WBA6A0C_F,2015,BMW,6 Series
+WBAGG83_Y,2000,BMW,7 Series
+WBAGN63_2,2002,BMW,7 Series
+WBAGN83_3,2003,BMW,7 Series
+WBAGN63_5,2005,BMW,7 Series
+WBAHL03_6,2006,BMW,7 Series
+WBAHL83_6,2006,BMW,7 Series
+WBAHN83_6,2006,BMW,7 Series
+WBAHL83_7,2007,BMW,7 Series
+WBAHN83_7,2007,BMW,7 Series
+WBAHN83_8,2008,BMW,7 Series
+WBAKB83_9,2009,BMW,7 Series
+WBAKB8C_A,2010,BMW,7 Series
+WBAYA8C_D,2013,BMW,7 Series
+WBAYE8C_D,2013,BMW,7 Series
+WBAYA8C_E,2014,BMW,7 Series
+WBSBR93_2,2002,BMW,M3
+WBSBR93_5,2005,BMW,M3
+WBSKG9C_C,2012,BMW,M3
+WBS3C9C_F,2015,BMW,M3
+WBS3R9C_F,2015,BMW,M4
+WBSDE93_3,2003,BMW,M5
+WBSNB93_8,2008,BMW,M5
+WBSEK93_7,2007,BMW,M6
+WBXPA73_4,2004,BMW,X3
+WBXPA93_4,2004,BMW,X3
+WBXPA93_5,2005,BMW,X3
+WBXPA93_6,2006,BMW,X3
+WBXPC93_7,2007,BMW,X3
+WBXPC93_8,2008,BMW,X3
+WBXPC93_9,2009,BMW,X3
+5UXWX9C_E,2014,BMW,X3
+5UXWX9C_F,2015,BMW,X3
+5UXWX9C_G,2016,BMW,X3
+5UXFA53_2,2002,BMW,X5
+5UXFA53_3,2003,BMW,X5
+5UXFB33_3,2003,BMW,X5
+5UXFB53_5,2005,BMW,X5
+5UXFB53_6,2006,BMW,X5
+4USFE43_7,2007,BMW,X5
+5UXFE43_7,2007,BMW,X5
+5UXFE43_8,2008,BMW,X5
+5UXFE4C_A,2010,BMW,X5
+5UXZV4C_B,2011,BMW,X5
+5UXZW0C_B,2011,BMW,X5
+5UXZV8C_D,2013,BMW,X5
+5UXKR0C_E,2014,BMW,X5
+5UXKR6C_F,2015,BMW,X5
+5UXKR0C_G,2016,BMW,X5
+5UXKT0C_G,2016,BMW,X5
+5UXFG2C_D,2013,BMW,X6
+4USCJ33_V,1997,BMW,Z3
+4USCH73_W,1998,BMW,Z3
+4USCN53_2,2002,BMW,Z3
+4USBT33_3,2003,BMW,Z4
+4USBT33_4,2004,BMW,Z4
+4USBT53_4,2004,BMW,Z4
+4USBT53_5,2005,BMW,Z4
+4USBU33_6,2006,BMW,Z4
+SCBCR63_4,2004,Bentley,Continental
+SCBCR63_5,2005,Bentley,Continental
+SCBBR53_6,2006,Bentley,Continental
+SCBZR03_L,1990,Bentley,Turbo
+2G4WS52_X,1999,Buick,Century
+2G4WY52_X,1999,Buick,Century
+2G4WS52_Y,2000,Buick,Century
+2G4WS52_1,2001,Buick,Century
+2G4WY55_1,2001,Buick,Century
+2G4WS52_2,2002,Buick,Century
+5GAER13_8,2008,Buick,Enclave
+5GAER23_8,2008,Buick,Enclave
+5GAEV23_8,2008,Buick,Enclave
+5GAER23_9,2009,Buick,Enclave
+5GAEV23_9,2009,Buick,Enclave
+5GALRBE_A,2010,Buick,Enclave
+5GAKRBE_B,2011,Buick,Enclave
+5GAKVCE_B,2011,Buick,Enclave
+5GAKRCE_C,2012,Buick,Enclave
+5GAKVDE_C,2012,Buick,Enclave
+5GAKRAK_E,2014,Buick,Enclave
+5GAKRBK_E,2014,Buick,Enclave
+5GAKVAK_E,2014,Buick,Enclave
+5GAKVCK_E,2014,Buick,Enclave
+5GAKRCK_F,2015,Buick,Enclave
+5GAKRBK_G,2016,Buick,Enclave
+5GAKVBK_G,2016,Buick,Enclave
+5GAKRBK_H,2017,Buick,Enclave
+KL4CJBS_D,2013,Buick,Encore
+KL4CJAS_E,2014,Buick,Encore
+KL4CJBS_E,2014,Buick,Encore
+KL4CJCS_E,2014,Buick,Encore
+KL4CJGS_E,2014,Buick,Encore
+KL4CJBS_F,2015,Buick,Encore
+KL4CJFS_F,2015,Buick,Encore
+KL4CJAS_G,2016,Buick,Encore
+KL4CJCS_G,2016,Buick,Encore
+2G4WC53_5,2005,Buick,LaCrosse
+2G4WC55_6,2006,Buick,LaCrosse
+2G4WC58_6,2006,Buick,LaCrosse
+2G4WD58_6,2006,Buick,LaCrosse
+2G4WE58_6,2006,Buick,LaCrosse
+2G4WD58_7,2007,Buick,LaCrosse
+2G4WC58_8,2008,Buick,LaCrosse
+2G4WD58_8,2008,Buick,LaCrosse
+2G4WD58_9,2009,Buick,LaCrosse
+1G4GC5E_B,2011,Buick,LaCrosse
+1G4GE5E_B,2011,Buick,LaCrosse
+1G4GD5E_C,2012,Buick,LaCrosse
+1G4GF5E_C,2012,Buick,LaCrosse
+1G4GA5E_D,2013,Buick,LaCrosse
+1G4GC5E_D,2013,Buick,LaCrosse
+1G4GB5G_E,2014,Buick,LaCrosse
+1G4GD5G_E,2014,Buick,LaCrosse
+1G4GB5G_G,2016,Buick,LaCrosse
+1G4HP52_V,1997,Buick,LeSabre
+1G4HP54_2,2002,Buick,LeSabre
+1G4HP52_3,2003,Buick,LeSabre
+1G4HR54_3,2003,Buick,LeSabre
+1G4HP52_4,2004,Buick,LeSabre
+1G4HP52_5,2005,Buick,LeSabre
+1G4HP54_5,2005,Buick,LeSabre
+1G4HD57_6,2006,Buick,Lucerne
+1G4HE57_6,2006,Buick,Lucerne
+1G4HR57_6,2006,Buick,Lucerne
+1G4HE5E_A,2010,Buick,Lucerne
+1G4CW52_W,1998,Buick,Park Avenue
+1G4CW52_X,1999,Buick,Park Avenue
+1G4CU52_Y,2000,Buick,Park Avenue
+1G4CU54_Y,2000,Buick,Park Avenue
+2G4WF52_T,1996,Buick,Regal
+2G4WB52_3,2003,Buick,Regal
+2G4WB55_4,2004,Buick,Regal
+2G4GN5E_B,2011,Buick,Regal
+W04GN5E_B,2011,Buick,Regal
+W04GS5E_B,2011,Buick,Regal
+2G4GR5E_C,2012,Buick,Regal
+2G4GS5E_D,2013,Buick,Regal
+2G4GT5G_D,2013,Buick,Regal
+2G4GR5G_E,2014,Buick,Regal
+2G4GT5G_F,2015,Buick,Regal
+2G4GK5E_G,2016,Buick,Regal
+2G4GP5E_G,2016,Buick,Regal
+3G5DA03_2,2002,Buick,Rendezvous
+3G5DA03_3,2003,Buick,Rendezvous
+3G5DB03_4,2004,Buick,Rendezvous
+3G5DA03_6,2006,Buick,Rendezvous
+3G5DA03_7,2007,Buick,Rendezvous
+1G4BN52_T,1996,Buick,Roadmaster
+5GADV33_5,2005,Buick,Terraza
+1G4PP5S_C,2012,Buick,Verano
+1G4PP5S_D,2013,Buick,Verano
+1G4PP5S_E,2014,Buick,Verano
+1G4PN5S_F,2015,Buick,Verano
+1G6AA5R_D,2013,Cadillac,ATS
+1G6AH5R_D,2013,Cadillac,ATS
+1G6AB5R_F,2015,Cadillac,ATS
+1G6AB5R_G,2016,Cadillac,ATS
+1G6VR31_H,1987,Cadillac,Allante
+1G6VS33_P,1993,Cadillac,Allante
+1G6DM57_3,2003,Cadillac,CTS
+1G6DM57_4,2004,Cadillac,CTS
+1G6DM56_5,2005,Cadillac,CTS
+1G6DP56_5,2005,Cadillac,CTS
+1G6DM57_6,2006,Cadillac,CTS
+1G6DP57_6,2006,Cadillac,CTS
+1G6DM57_7,2007,Cadillac,CTS
+1G6DF57_8,2008,Cadillac,CTS
+1G6DJ57_8,2008,Cadillac,CTS
+1G6DM57_8,2008,Cadillac,CTS
+1G6DR57_8,2008,Cadillac,CTS
+1G6DF57_9,2009,Cadillac,CTS
+1G6DG57_9,2009,Cadillac,CTS
+1G6DJ57_9,2009,Cadillac,CTS
+1G6DS57_9,2009,Cadillac,CTS
+1G6DE5E_A,2010,Cadillac,CTS
+1G6DJ5E_A,2010,Cadillac,CTS
+1G6DA5E_B,2011,Cadillac,CTS
+1G6DK1E_B,2011,Cadillac,CTS
+1G6DP1E_C,2012,Cadillac,CTS
+1G6DV8E_C,2012,Cadillac,CTS
+1G6AP5S_E,2014,Cadillac,CTS
+1G6AS5S_E,2014,Cadillac,CTS
+1G6DC1E_E,2014,Cadillac,CTS
+1G6KD57_6,2006,Cadillac,DTS
+1G6KD57_7,2007,Cadillac,DTS
+1G6KD57_8,2008,Cadillac,DTS
+1G6KD52_S,1995,Cadillac,DeVille
+1G6KD52_T,1996,Cadillac,DeVille
+1G6KD54_V,1997,Cadillac,DeVille
+1G6KE57_Y,2000,Cadillac,DeVille
+1G6KD54_1,2001,Cadillac,DeVille
+1G6KD54_2,2002,Cadillac,DeVille
+1G6KF57_2,2002,Cadillac,DeVille
+1G6KD54_5,2005,Cadillac,DeVille
+1G6EL12_2,2002,Cadillac,Eldorado
+1GYEK13_X,1999,Cadillac,Escalade
+1GYEK13_Y,2000,Cadillac,Escalade
+1GYEK63_Y,2000,Cadillac,Escalade
+1GYEK63_2,2002,Cadillac,Escalade
+3GYEK63_2,2002,Cadillac,Escalade
+1GYEC63_3,2003,Cadillac,Escalade
+1GYEK63_3,2003,Cadillac,Escalade
+1GYEK63_4,2004,Cadillac,Escalade
+3GYEK62_4,2004,Cadillac,Escalade
+3GYFK66_4,2004,Cadillac,Escalade
+1GYEC63_5,2005,Cadillac,Escalade
+1GYEK63_5,2005,Cadillac,Escalade
+1GYEC63_6,2006,Cadillac,Escalade
+3GYEK62_6,2006,Cadillac,Escalade
+3GYFK66_6,2006,Cadillac,Escalade
+1GYEC63_7,2007,Cadillac,Escalade
+1GYFK63_7,2007,Cadillac,Escalade
+1GYFK66_7,2007,Cadillac,Escalade
+3GYFK62_7,2007,Cadillac,Escalade
+1GYEC63_8,2008,Cadillac,Escalade
+1GYFK63_8,2008,Cadillac,Escalade
+1GYFK66_8,2008,Cadillac,Escalade
+3GYFK62_8,2008,Cadillac,Escalade
+1GYFK23_9,2009,Cadillac,Escalade
+1GYUCBE_A,2010,Cadillac,Escalade
+1GYS3PK_F,2015,Cadillac,Escalade
+1G6AB69_C,1982,Cadillac,Fleetwood
+1G6DW52_S,1995,Cadillac,Fleetwood
+1GYDE63_4,2004,Cadillac,SRX
+1GYEE63_4,2004,Cadillac,SRX
+1GYEE63_5,2005,Cadillac,SRX
+1GYEE63_6,2006,Cadillac,SRX
+3GYFNDE_A,2010,Cadillac,SRX
+3GYFNGE_A,2010,Cadillac,SRX
+3GYFNJE_A,2010,Cadillac,SRX
+3GYFNAE_B,2011,Cadillac,SRX
+3GYFNBE_B,2011,Cadillac,SRX
+3GYFNAE_D,2013,Cadillac,SRX
+3GYFNCE_D,2013,Cadillac,SRX
+3GYFNBE_F,2015,Cadillac,SRX
+3GYFNBE_G,2016,Cadillac,SRX
+1G6DC67_5,2005,Cadillac,STS
+1G6DW67_5,2005,Cadillac,STS
+1G6DC67_6,2006,Cadillac,STS
+1G6DW67_6,2006,Cadillac,STS
+1G6DC67_7,2007,Cadillac,STS
+1G6KS52_V,1997,Cadillac,Seville
+2G61P5S_D,2013,Cadillac,XTS
+2G61M5S_E,2014,Cadillac,XTS
+2G61U5S_F,2015,Cadillac,XTS
+2G61M5S_G,2016,Cadillac,XTS
+1GNDM15_K,1989,Chevrolet,Astro
+3GNEC13_2,2002,Chevrolet,Avalanche 1500
+3GNEK13_2,2002,Chevrolet,Avalanche 1500
+3GNEC13_3,2003,Chevrolet,Avalanche 1500
+3GNEK13_3,2003,Chevrolet,Avalanche 1500
+3GNEC12_4,2004,Chevrolet,Avalanche 1500
+3GNEK12_4,2004,Chevrolet,Avalanche 1500
+3GNEC12_5,2005,Chevrolet,Avalanche 1500
+3GNEK12_5,2005,Chevrolet,Avalanche 1500
+3GNEC12_6,2006,Chevrolet,Avalanche 1500
+3GNEC12_7,2007,Chevrolet,Avalanche 1500
+3GNFK12_7,2007,Chevrolet,Avalanche 1500
+3GNEC12_8,2008,Chevrolet,Avalanche 1500
+3GNFK12_8,2008,Chevrolet,Avalanche 1500
+3GNEC12_9,2009,Chevrolet,Avalanche 1500
+3GNEC22_9,2009,Chevrolet,Avalanche 1500
+3GNFK32_9,2009,Chevrolet,Avalanche 1500
+3GNNCEE_A,2010,Chevrolet,Avalanche 1500
+3GNVKGE_A,2010,Chevrolet,Avalanche 1500
+3GNTKGE_B,2011,Chevrolet,Avalanche 1500
+3GNMCGE_D,2013,Chevrolet,Avalanche 1500
+KL1TD52_5,2005,Chevrolet,Aveo
+KL1TG56_7,2007,Chevrolet,Aveo
+KL1TD56_8,2008,Chevrolet,Aveo
+KL1TD56_9,2009,Chevrolet,Aveo
+KL1TG56_9,2009,Chevrolet,Aveo
+KL1TD5D_A,2010,Chevrolet,Aveo
+KL1TD6D_B,2011,Chevrolet,Aveo
+KL1TG5D_B,2011,Chevrolet,Aveo
+1GNCT18_K,1989,Chevrolet,Blazer
+1GNDT13_T,1996,Chevrolet,Blazer
+1GNCS13_Y,2000,Chevrolet,Blazer
+1GNCS18_Y,2000,Chevrolet,Blazer
+1GNDT13_Y,2000,Chevrolet,Blazer
+1GNCS13_1,2001,Chevrolet,Blazer
+1GNDT13_1,2001,Chevrolet,Blazer
+1GNDT13_2,2002,Chevrolet,Blazer
+1GNCS18_3,2003,Chevrolet,Blazer
+1GNDT13_3,2003,Chevrolet,Blazer
+1GNCS18_4,2004,Chevrolet,Blazer
+1GNDT13_4,2004,Chevrolet,Blazer
+1GCEK14_B,1981,Chevrolet,C/K 10
+2GCEK14_F,1985,Chevrolet,C/K 10
+1GCEK14_G,1986,Chevrolet,C/K 10
+1GCDC14_L,1990,Chevrolet,C/K 1500
+1GCEC19_P,1993,Chevrolet,C/K 1500
+2GCEK19_P,1993,Chevrolet,C/K 1500
+2GCEC19_S,1995,Chevrolet,C/K 1500
+1GCEK19_T,1996,Chevrolet,C/K 1500
+1GCEC19_V,1997,Chevrolet,C/K 1500
+1GCEK14_W,1998,Chevrolet,C/K 1500
+1GCGC29_R,1994,Chevrolet,C/K 2500
+1GCFC29_T,1996,Chevrolet,C/K 2500
+1GCFC24_W,1998,Chevrolet,C/K 2500
+1GCGC24_W,1998,Chevrolet,C/K 2500
+1GCHC39_S,1995,Chevrolet,C/K 3500
+1GCHK33_V,1997,Chevrolet,C/K 3500
+2G1FP32_W,1998,Chevrolet,Camaro
+2G1FP32_1,2001,Chevrolet,Camaro
+2G1FP22_2,2002,Chevrolet,Camaro
+2G1FB1E_A,2010,Chevrolet,Camaro
+2G1FC1E_A,2010,Chevrolet,Camaro
+2G1FK1E_A,2010,Chevrolet,Camaro
+2G1FS1E_A,2010,Chevrolet,Camaro
+2G1FA1E_B,2011,Chevrolet,Camaro
+2G1FB3D_B,2011,Chevrolet,Camaro
+2G1FC1E_B,2011,Chevrolet,Camaro
+2G1FJ1E_B,2011,Chevrolet,Camaro
+2G1FK1E_B,2011,Chevrolet,Camaro
+2G1FK3D_B,2011,Chevrolet,Camaro
+2G1FA1E_C,2012,Chevrolet,Camaro
+2G1FS1E_C,2012,Chevrolet,Camaro
+2G1FA1E_D,2013,Chevrolet,Camaro
+2G1FA1E_E,2014,Chevrolet,Camaro
+2G1FE1E_E,2014,Chevrolet,Camaro
+2G1FF1E_E,2014,Chevrolet,Camaro
+2G1FJ1E_E,2014,Chevrolet,Camaro
+2G1FD1E_F,2015,Chevrolet,Camaro
+2G1FD3D_F,2015,Chevrolet,Camaro
+2G1FK3D_F,2015,Chevrolet,Camaro
+1G1FB1R_G,2016,Chevrolet,Camaro
+1G1FH1R_H,2017,Chevrolet,Camaro
+3GNAL3E_D,2013,Chevrolet,Captiva Sport
+3GNFL3E_D,2013,Chevrolet,Captiva Sport
+3GNAL1E_E,2014,Chevrolet,Captiva Sport
+3GNAL2E_E,2014,Chevrolet,Captiva Sport
+1G1JF52_X,1999,Chevrolet,Cavalier
+1G1JC12_Y,2000,Chevrolet,Cavalier
+1G1JF12_1,2001,Chevrolet,Cavalier
+1G1JF52_2,2002,Chevrolet,Cavalier
+1G1JS12_2,2002,Chevrolet,Cavalier
+1G1JC52_4,2004,Chevrolet,Cavalier
+1G1JF52_4,2004,Chevrolet,Cavalier
+1G1AK52_5,2005,Chevrolet,Cobalt
+1G1AL12_5,2005,Chevrolet,Cobalt
+1G1AL14_5,2005,Chevrolet,Cobalt
+1G1AK15_6,2006,Chevrolet,Cobalt
+1G1AK55_6,2006,Chevrolet,Cobalt
+1G1AK15_7,2007,Chevrolet,Cobalt
+1G1AK58_7,2007,Chevrolet,Cobalt
+1G1AL15_7,2007,Chevrolet,Cobalt
+1G1AK58_8,2008,Chevrolet,Cobalt
+1G1AL58_8,2008,Chevrolet,Cobalt
+1G1AL18_9,2009,Chevrolet,Cobalt
+1G1AP18_9,2009,Chevrolet,Cobalt
+1G1AS58_9,2009,Chevrolet,Cobalt
+1G1AT58_9,2009,Chevrolet,Cobalt
+1G1AA1F_A,2010,Chevrolet,Cobalt
+1G1AB1F_A,2010,Chevrolet,Cobalt
+1G1AD5F_A,2010,Chevrolet,Cobalt
+1G1AF5F_A,2010,Chevrolet,Cobalt
+1GCCS14_4,2004,Chevrolet,Colorado
+1GCCS19_4,2004,Chevrolet,Colorado
+1GCDT19_4,2004,Chevrolet,Colorado
+1GCCS19_5,2005,Chevrolet,Colorado
+1GCDS19_5,2005,Chevrolet,Colorado
+1GCDT13_5,2005,Chevrolet,Colorado
+1GCCS19_6,2006,Chevrolet,Colorado
+1GCDS13_6,2006,Chevrolet,Colorado
+1GCDT13_6,2006,Chevrolet,Colorado
+1GBDS14_7,2007,Chevrolet,Colorado
+1GCCS19_7,2007,Chevrolet,Colorado
+1GCCS13_8,2008,Chevrolet,Colorado
+1GCCS14_8,2008,Chevrolet,Colorado
+1GCCS29_8,2008,Chevrolet,Colorado
+1GCCS33_8,2008,Chevrolet,Colorado
+1GCCS19_9,2009,Chevrolet,Colorado
+1GCCSCF_B,2011,Chevrolet,Colorado
+1GCGTCF_B,2011,Chevrolet,Colorado
+1GCHSDF_B,2011,Chevrolet,Colorado
+1GCESCF_C,2012,Chevrolet,Colorado
+1GCHTDF_C,2012,Chevrolet,Colorado
+1GCJTCF_C,2012,Chevrolet,Colorado
+1GCHS1E_F,2015,Chevrolet,Colorado
+1GCHSBE_F,2015,Chevrolet,Colorado
+1G1AY87_C,1982,Chevrolet,Corvette
+1G1YY07_F,1985,Chevrolet,Corvette
+1G1YY23_L,1990,Chevrolet,Corvette
+1G1YY33_M,1991,Chevrolet,Corvette
+1G1YY33_P,1993,Chevrolet,Corvette
+1G1YY32_R,1994,Chevrolet,Corvette
+1G1YY22_S,1995,Chevrolet,Corvette
+1G1YY32_S,1995,Chevrolet,Corvette
+1G1YY22_V,1997,Chevrolet,Corvette
+1G1YY22_W,1998,Chevrolet,Corvette
+1G1YY22_X,1999,Chevrolet,Corvette
+1G1YY32_X,1999,Chevrolet,Corvette
+1G1YY32_Y,2000,Chevrolet,Corvette
+1G1YY22_1,2001,Chevrolet,Corvette
+1G1YY12_2,2002,Chevrolet,Corvette
+1G1YY22_2,2002,Chevrolet,Corvette
+1G1YY12_3,2003,Chevrolet,Corvette
+1G1YY32_3,2003,Chevrolet,Corvette
+1G1YY12_4,2004,Chevrolet,Corvette
+1G1YY22_4,2004,Chevrolet,Corvette
+1G1YY32_4,2004,Chevrolet,Corvette
+1G1YY24_5,2005,Chevrolet,Corvette
+1G1YY34_5,2005,Chevrolet,Corvette
+1G1YY25_6,2006,Chevrolet,Corvette
+1G1YY26_7,2007,Chevrolet,Corvette
+1G1YY36_7,2007,Chevrolet,Corvette
+1G1YY26_8,2008,Chevrolet,Corvette
+1G1YY36_8,2008,Chevrolet,Corvette
+1G1YA2D_B,2011,Chevrolet,Corvette
+1G1YF2D_B,2011,Chevrolet,Corvette
+1G1YG3D_B,2011,Chevrolet,Corvette
+1G1YS3D_C,2012,Chevrolet,Corvette
+1G1YJ2D_G,2016,Chevrolet,Corvette
+1G1PC5S_B,2011,Chevrolet,Cruze
+1G1PE5S_B,2011,Chevrolet,Cruze
+1G1PF5S_B,2011,Chevrolet,Cruze
+1G1PG5S_B,2011,Chevrolet,Cruze
+1G1PK5S_B,2011,Chevrolet,Cruze
+1G1PC5S_C,2012,Chevrolet,Cruze
+1G1PD5S_C,2012,Chevrolet,Cruze
+1G1PF5S_C,2012,Chevrolet,Cruze
+1G1PG5S_C,2012,Chevrolet,Cruze
+1G1PA5S_D,2013,Chevrolet,Cruze
+1G1PC5S_D,2013,Chevrolet,Cruze
+1G1PE5S_D,2013,Chevrolet,Cruze
+1G1PK5S_D,2013,Chevrolet,Cruze
+1G1PA5S_E,2014,Chevrolet,Cruze
+1G1PC5S_E,2014,Chevrolet,Cruze
+1G1PD5S_E,2014,Chevrolet,Cruze
+1G1P15S_F,2015,Chevrolet,Cruze
+1G1PC5S_F,2015,Chevrolet,Cruze
+1G1PE5S_F,2015,Chevrolet,Cruze
+1G1BC5S_G,2016,Chevrolet,Cruze
+1G1PC5S_G,2016,Chevrolet,Cruze
+1G1PE5S_G,2016,Chevrolet,Cruze
+1G1PF5S_G,2016,Chevrolet,Cruze
+1G1PG5S_G,2016,Chevrolet,Cruze
+3GCCW80_F,1985,Chevrolet,El Camino
+2CNDL13_5,2005,Chevrolet,Equinox
+2CNDL63_5,2005,Chevrolet,Equinox
+2CNDL73_5,2005,Chevrolet,Equinox
+2CNDL63_6,2006,Chevrolet,Equinox
+2CNDL73_6,2006,Chevrolet,Equinox
+2CNDL13_7,2007,Chevrolet,Equinox
+2CNDL23_7,2007,Chevrolet,Equinox
+2CNDL63_7,2007,Chevrolet,Equinox
+2CNDL33_8,2008,Chevrolet,Equinox
+2CNDL43_8,2008,Chevrolet,Equinox
+2CNDL53_8,2008,Chevrolet,Equinox
+2CNDL93_8,2008,Chevrolet,Equinox
+2CNDL23_9,2009,Chevrolet,Equinox
+2CNDL53_9,2009,Chevrolet,Equinox
+2CNALDE_A,2010,Chevrolet,Equinox
+2CNALFE_A,2010,Chevrolet,Equinox
+2CNFLGE_A,2010,Chevrolet,Equinox
+2CNFLEE_B,2011,Chevrolet,Equinox
+2CNFLPE_B,2011,Chevrolet,Equinox
+2GNALBE_B,2011,Chevrolet,Equinox
+2GNALDE_B,2011,Chevrolet,Equinox
+2GNALBE_C,2012,Chevrolet,Equinox
+2GNALDE_C,2012,Chevrolet,Equinox
+2GNFLCE_C,2012,Chevrolet,Equinox
+2GNALBE_D,2013,Chevrolet,Equinox
+2GNALDE_D,2013,Chevrolet,Equinox
+2GNFLEE_D,2013,Chevrolet,Equinox
+2GNALAE_E,2014,Chevrolet,Equinox
+2GNFLGE_E,2014,Chevrolet,Equinox
+1GNALBE_F,2015,Chevrolet,Equinox
+1GNFLFE_F,2015,Chevrolet,Equinox
+1GNFLGE_F,2015,Chevrolet,Equinox
+2GNALAE_F,2015,Chevrolet,Equinox
+2GNALBE_F,2015,Chevrolet,Equinox
+2GNALCE_F,2015,Chevrolet,Equinox
+2GNALCE_G,2016,Chevrolet,Equinox
+2GNFLEE_G,2016,Chevrolet,Equinox
+2GNFLFE_H,2017,Chevrolet,Equinox
+1GBFG15_X,1999,Chevrolet,Express
+1GBJG31_X,1999,Chevrolet,Express
+1GBJG31_3,2003,Chevrolet,Express
+1GBFH15_4,2004,Chevrolet,Express
+1GCFG15_5,2005,Chevrolet,Express
+1GCGG25_5,2005,Chevrolet,Express
+1GCGG25_6,2006,Chevrolet,Express
+1GCGG29_6,2006,Chevrolet,Express
+1GCGG25_8,2008,Chevrolet,Express
+1GAZG1F_B,2011,Chevrolet,Express
+1GCWGGC_E,2014,Chevrolet,Express
+1GAZG1F_F,2015,Chevrolet,Express
+3GNDA23_6,2006,Chevrolet,HHR
+3GNCA23_8,2008,Chevrolet,HHR
+3GNCA53_8,2008,Chevrolet,HHR
+3GNDA53_8,2008,Chevrolet,HHR
+3GNDA63_8,2008,Chevrolet,HHR
+3GNCA23_9,2009,Chevrolet,HHR
+3GNCA53_9,2009,Chevrolet,HHR
+3GNBAAD_A,2010,Chevrolet,HHR
+3GNBAAF_B,2011,Chevrolet,HHR
+2G1WF52_Y,2000,Chevrolet,Impala
+2G1WF52_1,2001,Chevrolet,Impala
+2G1WF52_2,2002,Chevrolet,Impala
+2G1WH55_2,2002,Chevrolet,Impala
+2G1WF52_3,2003,Chevrolet,Impala
+2G1WF55_3,2003,Chevrolet,Impala
+2G1WH52_3,2003,Chevrolet,Impala
+2G1WF52_4,2004,Chevrolet,Impala
+2G1WH52_4,2004,Chevrolet,Impala
+2G1WH55_4,2004,Chevrolet,Impala
+2G1WP55_4,2004,Chevrolet,Impala
+2G1WH52_5,2005,Chevrolet,Impala
+2G1WH55_5,2005,Chevrolet,Impala
+2G1WB58_6,2006,Chevrolet,Impala
+2G1WD58_6,2006,Chevrolet,Impala
+2G1WS55_6,2006,Chevrolet,Impala
+2G1WT58_6,2006,Chevrolet,Impala
+2G1WU58_6,2006,Chevrolet,Impala
+2G1WB58_7,2007,Chevrolet,Impala
+2G1WD58_7,2007,Chevrolet,Impala
+2G1WT58_7,2007,Chevrolet,Impala
+2G1WB58_8,2008,Chevrolet,Impala
+2G1WT58_8,2008,Chevrolet,Impala
+2G1WU58_8,2008,Chevrolet,Impala
+2G1WB57_9,2009,Chevrolet,Impala
+2G1WS57_9,2009,Chevrolet,Impala
+2G1WT57_9,2009,Chevrolet,Impala
+2G1WA5E_A,2010,Chevrolet,Impala
+2G1WB5E_A,2010,Chevrolet,Impala
+2G1WC5E_A,2010,Chevrolet,Impala
+2G1WB5E_B,2011,Chevrolet,Impala
+2G1WG5E_B,2011,Chevrolet,Impala
+2G1WA5E_C,2012,Chevrolet,Impala
+2G1WB5E_C,2012,Chevrolet,Impala
+2G1WC5E_C,2012,Chevrolet,Impala
+2G1WG5E_C,2012,Chevrolet,Impala
+2G1WB5E_D,2013,Chevrolet,Impala
+2G1WC5E_D,2013,Chevrolet,Impala
+2G1WD5E_D,2013,Chevrolet,Impala
+2G1WF5E_D,2013,Chevrolet,Impala
+2G1WG5E_D,2013,Chevrolet,Impala
+1G11X5S_E,2014,Chevrolet,Impala
+2G1115S_E,2014,Chevrolet,Impala
+2G1125S_E,2014,Chevrolet,Impala
+2G1WC5E_E,2014,Chevrolet,Impala
+1G1115S_F,2015,Chevrolet,Impala
+1G1125S_F,2015,Chevrolet,Impala
+2G1125S_F,2015,Chevrolet,Impala
+2G1WA5E_F,2015,Chevrolet,Impala
+2G1WB5E_F,2015,Chevrolet,Impala
+2G1WC5E_F,2015,Chevrolet,Impala
+1G1115S_G,2016,Chevrolet,Impala
+2G1105S_G,2016,Chevrolet,Impala
+2G1115S_G,2016,Chevrolet,Impala
+2G1145S_G,2016,Chevrolet,Impala
+2G1WB5E_G,2016,Chevrolet,Impala
+2G1WC5E_G,2016,Chevrolet,Impala
+2G1WL52_1,2001,Chevrolet,Lumina
+1G1ND52_X,1999,Chevrolet,Malibu
+1G1ND52_Y,2000,Chevrolet,Malibu
+1G1NE52_Y,2000,Chevrolet,Malibu
+1G1NE52_1,2001,Chevrolet,Malibu
+1G1ND52_3,2003,Chevrolet,Malibu
+1G1NE52_3,2003,Chevrolet,Malibu
+1G1ZS52_4,2004,Chevrolet,Malibu
+1G1ZT52_5,2005,Chevrolet,Malibu
+1G1ZT54_5,2005,Chevrolet,Malibu
+1G1ZU54_5,2005,Chevrolet,Malibu
+1G1ZS51_6,2006,Chevrolet,Malibu
+1G1ZT51_6,2006,Chevrolet,Malibu
+1G1ZT53_6,2006,Chevrolet,Malibu
+1G1ZU53_6,2006,Chevrolet,Malibu
+1G1ZW53_6,2006,Chevrolet,Malibu
+1G1ZS58_7,2007,Chevrolet,Malibu
+1G1ZU57_7,2007,Chevrolet,Malibu
+1G1ZW57_7,2007,Chevrolet,Malibu
+1G1ZG57_8,2008,Chevrolet,Malibu
+1G1ZH57_8,2008,Chevrolet,Malibu
+1G1ZG57_9,2009,Chevrolet,Malibu
+1G1ZH57_9,2009,Chevrolet,Malibu
+1G1ZJ57_9,2009,Chevrolet,Malibu
+1G1ZK57_9,2009,Chevrolet,Malibu
+1G1ZB5E_A,2010,Chevrolet,Malibu
+1G1ZC5E_A,2010,Chevrolet,Malibu
+1G1ZD5E_A,2010,Chevrolet,Malibu
+1G1ZA5E_B,2011,Chevrolet,Malibu
+1G1ZB5E_B,2011,Chevrolet,Malibu
+1G1ZC5E_B,2011,Chevrolet,Malibu
+1G1ZD5E_B,2011,Chevrolet,Malibu
+1G1ZE5E_B,2011,Chevrolet,Malibu
+1G1ZA5E_C,2012,Chevrolet,Malibu
+1G1ZC5E_C,2012,Chevrolet,Malibu
+1G1ZD5E_C,2012,Chevrolet,Malibu
+1G1ZG5E_C,2012,Chevrolet,Malibu
+1G11C5S_D,2013,Chevrolet,Malibu
+1G11D5R_D,2013,Chevrolet,Malibu
+1G11E5S_D,2013,Chevrolet,Malibu
+1G11H5S_D,2013,Chevrolet,Malibu
+1G11B5S_E,2014,Chevrolet,Malibu
+1G11C5S_E,2014,Chevrolet,Malibu
+1G11A5S_F,2015,Chevrolet,Malibu
+1G11B5S_F,2015,Chevrolet,Malibu
+1G11C5S_F,2015,Chevrolet,Malibu
+1G11D5S_F,2015,Chevrolet,Malibu
+1G11F5S_F,2015,Chevrolet,Malibu
+1G11C5S_G,2016,Chevrolet,Malibu
+1G11E5S_G,2016,Chevrolet,Malibu
+1G1ZB5S_G,2016,Chevrolet,Malibu
+1G1ZS58_8,2008,Chevrolet,Malibu Classic
+1G1ZT62_5,2005,Chevrolet,Malibu Maxx
+1G1ZW63_6,2006,Chevrolet,Malibu Maxx
+1G1AZ37_E,1984,Chevrolet,Monte Carlo
+2G1WX15_1,2001,Chevrolet,Monte Carlo
+2G1WW12_2,2002,Chevrolet,Monte Carlo
+2G1WX15_2,2002,Chevrolet,Monte Carlo
+2G1WX12_3,2003,Chevrolet,Monte Carlo
+2G1WJ15_6,2006,Chevrolet,Monte Carlo
+2G1WL15_6,2006,Chevrolet,Monte Carlo
+2G1WM15_6,2006,Chevrolet,Monte Carlo
+2G1WN16_6,2006,Chevrolet,Monte Carlo
+2G1WJ15_7,2007,Chevrolet,Monte Carlo
+1GBJP37_B,1981,Chevrolet,P30
+1Y1SK52_2,2002,Chevrolet,Prizm
+1GCCS19_S,1995,Chevrolet,S-10
+1GCDT14_Y,2000,Chevrolet,S-10
+1GCCS14_1,2001,Chevrolet,S-10
+1GCCS19_1,2001,Chevrolet,S-10
+1GCCS19_2,2002,Chevrolet,S-10
+1GCCT19_2,2002,Chevrolet,S-10
+1GCDT13_2,2002,Chevrolet,S-10
+1GCCS14_3,2003,Chevrolet,S-10
+1GCCS19_3,2003,Chevrolet,S-10
+1GCDT13_3,2003,Chevrolet,S-10
+1GCES14_5,2005,Chevrolet,SSR
+1GCEK19_X,1999,Chevrolet,Silverado 1500
+2GCEK19_X,1999,Chevrolet,Silverado 1500
+1GCEK19_Y,2000,Chevrolet,Silverado 1500
+2GCEC19_Y,2000,Chevrolet,Silverado 1500
+2GCEK19_Y,2000,Chevrolet,Silverado 1500
+1GCEC14_1,2001,Chevrolet,Silverado 1500
+1GCEK19_1,2001,Chevrolet,Silverado 1500
+2GCEK19_1,2001,Chevrolet,Silverado 1500
+1GCEC19_2,2002,Chevrolet,Silverado 1500
+1GCEK19_2,2002,Chevrolet,Silverado 1500
+2GCEC19_2,2002,Chevrolet,Silverado 1500
+1GCEC14_3,2003,Chevrolet,Silverado 1500
+1GCEK19_3,2003,Chevrolet,Silverado 1500
+2GCEC19_3,2003,Chevrolet,Silverado 1500
+2GCEK19_3,2003,Chevrolet,Silverado 1500
+1GCEC19_4,2004,Chevrolet,Silverado 1500
+1GCEK19_4,2004,Chevrolet,Silverado 1500
+2GCEC19_4,2004,Chevrolet,Silverado 1500
+2GCEK19_4,2004,Chevrolet,Silverado 1500
+1GCEC14_5,2005,Chevrolet,Silverado 1500
+1GCEC19_5,2005,Chevrolet,Silverado 1500
+1GCEK14_5,2005,Chevrolet,Silverado 1500
+1GCEK19_5,2005,Chevrolet,Silverado 1500
+2GCEC19_5,2005,Chevrolet,Silverado 1500
+2GCEK13_5,2005,Chevrolet,Silverado 1500
+1GCEC14_6,2006,Chevrolet,Silverado 1500
+1GCEC19_6,2006,Chevrolet,Silverado 1500
+1GCEK19_6,2006,Chevrolet,Silverado 1500
+2GCEC13_6,2006,Chevrolet,Silverado 1500
+2GCEC19_6,2006,Chevrolet,Silverado 1500
+2GCEK13_6,2006,Chevrolet,Silverado 1500
+2GCEK19_6,2006,Chevrolet,Silverado 1500
+1GCEC14_7,2007,Chevrolet,Silverado 1500
+1GCEC19_7,2007,Chevrolet,Silverado 1500
+1GCEK19_7,2007,Chevrolet,Silverado 1500
+2GCEC13_7,2007,Chevrolet,Silverado 1500
+2GCEC19_7,2007,Chevrolet,Silverado 1500
+2GCEK13_7,2007,Chevrolet,Silverado 1500
+2GCEK19_7,2007,Chevrolet,Silverado 1500
+3GCEC13_7,2007,Chevrolet,Silverado 1500
+3GCEK13_7,2007,Chevrolet,Silverado 1500
+1GCEC14_8,2008,Chevrolet,Silverado 1500
+1GCEK14_8,2008,Chevrolet,Silverado 1500
+2GCEC19_8,2008,Chevrolet,Silverado 1500
+2GCEK13_8,2008,Chevrolet,Silverado 1500
+2GCEK19_8,2008,Chevrolet,Silverado 1500
+3GCEC13_8,2008,Chevrolet,Silverado 1500
+3GCEK13_8,2008,Chevrolet,Silverado 1500
+1GCEC14_9,2009,Chevrolet,Silverado 1500
+1GCEC19_9,2009,Chevrolet,Silverado 1500
+1GCEK29_9,2009,Chevrolet,Silverado 1500
+2GCEK29_9,2009,Chevrolet,Silverado 1500
+3GCEC33_9,2009,Chevrolet,Silverado 1500
+3GCEK23_9,2009,Chevrolet,Silverado 1500
+3GCEK33_9,2009,Chevrolet,Silverado 1500
+1GCPCPE_A,2010,Chevrolet,Silverado 1500
+1GCSCSE_A,2010,Chevrolet,Silverado 1500
+3GCRCRE_A,2010,Chevrolet,Silverado 1500
+3GCRCSE_A,2010,Chevrolet,Silverado 1500
+3GCRKSE_A,2010,Chevrolet,Silverado 1500
+1GCNCSE_B,2011,Chevrolet,Silverado 1500
+1GCNKSE_B,2011,Chevrolet,Silverado 1500
+1GCRCPE_B,2011,Chevrolet,Silverado 1500
+1GCRCSE_B,2011,Chevrolet,Silverado 1500
+1GCRKPE_B,2011,Chevrolet,Silverado 1500
+1GCRKSE_B,2011,Chevrolet,Silverado 1500
+3GCPCSE_B,2011,Chevrolet,Silverado 1500
+3GCPKSE_B,2011,Chevrolet,Silverado 1500
+3GCPKTE_B,2011,Chevrolet,Silverado 1500
+1GCNCPE_C,2012,Chevrolet,Silverado 1500
+1GCPKSE_C,2012,Chevrolet,Silverado 1500
+1GCRCRE_C,2012,Chevrolet,Silverado 1500
+1GCRKSE_C,2012,Chevrolet,Silverado 1500
+3GCPCRE_C,2012,Chevrolet,Silverado 1500
+3GCPCSE_C,2012,Chevrolet,Silverado 1500
+3GCPKSE_C,2012,Chevrolet,Silverado 1500
+1GCRCSE_D,2013,Chevrolet,Silverado 1500
+1GCRKSE_D,2013,Chevrolet,Silverado 1500
+3GCPCRE_D,2013,Chevrolet,Silverado 1500
+3GCPCSE_D,2013,Chevrolet,Silverado 1500
+3GCPKSE_D,2013,Chevrolet,Silverado 1500
+1GCRCRE_E,2014,Chevrolet,Silverado 1500
+1GCVKRE_E,2014,Chevrolet,Silverado 1500
+3GCPCRE_E,2014,Chevrolet,Silverado 1500
+3GCUKRE_E,2014,Chevrolet,Silverado 1500
+3GCUKSE_E,2014,Chevrolet,Silverado 1500
+3GCUKTE_E,2014,Chevrolet,Silverado 1500
+3GCPCPE_F,2015,Chevrolet,Silverado 1500
+3GCPCRE_F,2015,Chevrolet,Silverado 1500
+3GCPCSE_F,2015,Chevrolet,Silverado 1500
+3GCUKRE_F,2015,Chevrolet,Silverado 1500
+3GCPCRE_G,2016,Chevrolet,Silverado 1500
+3GCUKRE_G,2016,Chevrolet,Silverado 1500
+1GCGK29_Y,2000,Chevrolet,Silverado 2500
+1GCGC24_2,2002,Chevrolet,Silverado 2500
+1GCGK23_4,2004,Chevrolet,Silverado 2500
+1GCHC24_1,2001,Chevrolet,Silverado 2500HD
+1GCHK29_1,2001,Chevrolet,Silverado 2500HD
+1GCHK29_2,2002,Chevrolet,Silverado 2500HD
+1GCHK23_3,2003,Chevrolet,Silverado 2500HD
+1GCHC24_4,2004,Chevrolet,Silverado 2500HD
+1GCHK23_4,2004,Chevrolet,Silverado 2500HD
+1GCHK29_4,2004,Chevrolet,Silverado 2500HD
+1GCHC29_5,2005,Chevrolet,Silverado 2500HD
+1GCHK23_5,2005,Chevrolet,Silverado 2500HD
+1GCHK23_6,2006,Chevrolet,Silverado 2500HD
+1GCHK24_6,2006,Chevrolet,Silverado 2500HD
+1GCHK29_6,2006,Chevrolet,Silverado 2500HD
+1GBHC24_7,2007,Chevrolet,Silverado 2500HD
+1GCHC23_7,2007,Chevrolet,Silverado 2500HD
+1GCHC24_7,2007,Chevrolet,Silverado 2500HD
+1GCHC29_7,2007,Chevrolet,Silverado 2500HD
+1GCHK23_7,2007,Chevrolet,Silverado 2500HD
+1GCHK29_7,2007,Chevrolet,Silverado 2500HD
+1GBHC23_8,2008,Chevrolet,Silverado 2500HD
+1GCHC29_8,2008,Chevrolet,Silverado 2500HD
+1GCHK23_8,2008,Chevrolet,Silverado 2500HD
+1GCHK43_9,2009,Chevrolet,Silverado 2500HD
+1GCHK53_9,2009,Chevrolet,Silverado 2500HD
+1GC4KYB_A,2010,Chevrolet,Silverado 2500HD
+1GC1KXC_D,2013,Chevrolet,Silverado 2500HD
+1GC2KXC_D,2013,Chevrolet,Silverado 2500HD
+1GC1CXE_E,2014,Chevrolet,Silverado 2500HD
+1GC1KXC_E,2014,Chevrolet,Silverado 2500HD
+1GC1KYC_E,2014,Chevrolet,Silverado 2500HD
+1GC1KUE_F,2015,Chevrolet,Silverado 2500HD
+1GC1KXE_F,2015,Chevrolet,Silverado 2500HD
+1GC1KUE_G,2016,Chevrolet,Silverado 2500HD
+1GC1KVE_G,2016,Chevrolet,Silverado 2500HD
+1GC1KWE_G,2016,Chevrolet,Silverado 2500HD
+1GC2CUE_G,2016,Chevrolet,Silverado 2500HD
+1GC2KUE_G,2016,Chevrolet,Silverado 2500HD
+1GC2KVE_G,2016,Chevrolet,Silverado 2500HD
+1GB4K0C_B,2011,Chevrolet,Silverado 3500HD
+1GB5KZC_B,2011,Chevrolet,Silverado 3500HD
+1GC4K1C_B,2011,Chevrolet,Silverado 3500HD
+1GC4K1C_E,2014,Chevrolet,Silverado 3500HD
+1G1JA6S_C,2012,Chevrolet,Sonic
+1G1JC6S_C,2012,Chevrolet,Sonic
+1G1JA5S_F,2015,Chevrolet,Sonic
+KL8CD6S_E,2014,Chevrolet,Spark
+1GNSCJK_F,2015,Chevrolet,Suburban
+1GNSKJK_F,2015,Chevrolet,Suburban
+1GBER16_M,1991,Chevrolet,Suburban 1500
+1GNFK16_P,1993,Chevrolet,Suburban 1500
+3GNFK16_W,1998,Chevrolet,Suburban 1500
+1GNFK16_X,1999,Chevrolet,Suburban 1500
+1GNFK16_1,2001,Chevrolet,Suburban 1500
+3GNFK16_1,2001,Chevrolet,Suburban 1500
+1GNEC16_2,2002,Chevrolet,Suburban 1500
+1GNFK16_2,2002,Chevrolet,Suburban 1500
+1GNEC16_3,2003,Chevrolet,Suburban 1500
+3GNEC16_3,2003,Chevrolet,Suburban 1500
+3GNFK16_3,2003,Chevrolet,Suburban 1500
+1GNEC16_4,2004,Chevrolet,Suburban 1500
+3GNEC16_4,2004,Chevrolet,Suburban 1500
+3GNFK16_4,2004,Chevrolet,Suburban 1500
+1GNEC16_5,2005,Chevrolet,Suburban 1500
+1GNFK16_5,2005,Chevrolet,Suburban 1500
+3GNEC16_5,2005,Chevrolet,Suburban 1500
+3GNFK16_5,2005,Chevrolet,Suburban 1500
+3GNFK16_6,2006,Chevrolet,Suburban 1500
+1GNFC16_7,2007,Chevrolet,Suburban 1500
+3GNFC16_7,2007,Chevrolet,Suburban 1500
+3GNFK16_7,2007,Chevrolet,Suburban 1500
+1GNFK16_8,2008,Chevrolet,Suburban 1500
+3GNFC16_8,2008,Chevrolet,Suburban 1500
+3GNFK16_8,2008,Chevrolet,Suburban 1500
+1GNFC26_9,2009,Chevrolet,Suburban 1500
+1GNFC36_9,2009,Chevrolet,Suburban 1500
+1GNSCJE_B,2011,Chevrolet,Suburban 1500
+1GNSCKE_B,2011,Chevrolet,Suburban 1500
+1GNSKKE_B,2011,Chevrolet,Suburban 1500
+1GNSCHE_D,2013,Chevrolet,Suburban 1500
+1GNSCKE_E,2014,Chevrolet,Suburban 1500
+3GNGC26_2,2002,Chevrolet,Suburban 2500
+1GNEK13_S,1995,Chevrolet,Tahoe
+1GNEK13_V,1997,Chevrolet,Tahoe
+1GNEK13_X,1999,Chevrolet,Tahoe
+3GNEK18_X,1999,Chevrolet,Tahoe
+1GNEK13_Y,2000,Chevrolet,Tahoe
+1GNEC13_3,2003,Chevrolet,Tahoe
+1GNEK13_3,2003,Chevrolet,Tahoe
+1GNEC13_4,2004,Chevrolet,Tahoe
+1GNEK13_4,2004,Chevrolet,Tahoe
+1GNEC13_5,2005,Chevrolet,Tahoe
+1GNEK13_5,2005,Chevrolet,Tahoe
+1GNEC13_6,2006,Chevrolet,Tahoe
+1GNFC13_7,2007,Chevrolet,Tahoe
+1GNFK13_7,2007,Chevrolet,Tahoe
+1GNFC13_8,2008,Chevrolet,Tahoe
+1GNFK13_8,2008,Chevrolet,Tahoe
+1GNEC03_9,2009,Chevrolet,Tahoe
+1GNFC13_9,2009,Chevrolet,Tahoe
+1GNFC33_9,2009,Chevrolet,Tahoe
+1GNFK23_9,2009,Chevrolet,Tahoe
+1GNFK33_9,2009,Chevrolet,Tahoe
+1GNUKBE_A,2010,Chevrolet,Tahoe
+1GNSCAE_B,2011,Chevrolet,Tahoe
+1GNSCBE_B,2011,Chevrolet,Tahoe
+1GNSCCE_B,2011,Chevrolet,Tahoe
+1GNSKAE_B,2011,Chevrolet,Tahoe
+1GNSKBE_B,2011,Chevrolet,Tahoe
+1GNSKCE_B,2011,Chevrolet,Tahoe
+1GNSCBE_C,2012,Chevrolet,Tahoe
+1GNSKCE_C,2012,Chevrolet,Tahoe
+1GNSCAE_E,2014,Chevrolet,Tahoe
+1GNSCBK_F,2015,Chevrolet,Tahoe
+1GNSKBK_F,2015,Chevrolet,Tahoe
+1GNSKCK_F,2015,Chevrolet,Tahoe
+1GNDS13_2,2002,Chevrolet,TrailBlazer
+1GNES16_2,2002,Chevrolet,TrailBlazer
+1GNDS13_3,2003,Chevrolet,TrailBlazer
+1GNDS13_4,2004,Chevrolet,TrailBlazer
+1GNDT13_4,2004,Chevrolet,TrailBlazer
+1GNES16_4,2004,Chevrolet,TrailBlazer
+1GNET16_4,2004,Chevrolet,TrailBlazer
+1GNDS13_5,2005,Chevrolet,TrailBlazer
+1GNDT13_5,2005,Chevrolet,TrailBlazer
+1GNET16_5,2005,Chevrolet,TrailBlazer
+1GNDS13_6,2006,Chevrolet,TrailBlazer
+1GNES16_6,2006,Chevrolet,TrailBlazer
+1GNDS13_7,2007,Chevrolet,TrailBlazer
+1GNDT13_7,2007,Chevrolet,TrailBlazer
+1GNES13_7,2007,Chevrolet,TrailBlazer
+1GNDS13_8,2008,Chevrolet,TrailBlazer
+1GNDS33_9,2009,Chevrolet,TrailBlazer
+1GNER23_9,2009,Chevrolet,Traverse
+1GNLREE_A,2010,Chevrolet,Traverse
+1GNLRFE_A,2010,Chevrolet,Traverse
+1GNLVEE_A,2010,Chevrolet,Traverse
+1GNLVGE_A,2010,Chevrolet,Traverse
+1GNKRFE_B,2011,Chevrolet,Traverse
+1GNKRGE_B,2011,Chevrolet,Traverse
+1GNKVFE_B,2011,Chevrolet,Traverse
+1GNKVGE_B,2011,Chevrolet,Traverse
+1GNKVJE_C,2012,Chevrolet,Traverse
+1GNKVLE_C,2012,Chevrolet,Traverse
+1GNKRFK_D,2013,Chevrolet,Traverse
+1GNKRJK_D,2013,Chevrolet,Traverse
+1GNKRGK_E,2014,Chevrolet,Traverse
+1GNKRHK_E,2014,Chevrolet,Traverse
+1GNKRGK_F,2015,Chevrolet,Traverse
+1GNKRHK_F,2015,Chevrolet,Traverse
+1GNKRJK_F,2015,Chevrolet,Traverse
+1GNKRHK_G,2016,Chevrolet,Traverse
+1GNKVFE_G,2016,Chevrolet,Traverse
+1GNKVGK_G,2016,Chevrolet,Traverse
+1GNKVHK_G,2016,Chevrolet,Traverse
+KL7CJPS_G,2016,Chevrolet,Trax
+1GNDU23_8,2008,Chevrolet,Uplander
+1GNDV23_8,2008,Chevrolet,Uplander
+1GNDV33_8,2008,Chevrolet,Uplander
+1G1RA6E_E,2014,Chevrolet,Volt
+1C3BC1F_B,2011,Chrysler,200
+1C3BCBE_C,2012,Chrysler,200
+1C3CCBB_C,2012,Chrysler,200
+1C3CCBC_C,2012,Chrysler,200
+1C3CCBA_D,2013,Chrysler,200
+1C3CCBB_D,2013,Chrysler,200
+1C3CCCA_F,2015,Chrysler,200
+2C3AA53_5,2005,Chrysler,300
+2C3JA43_5,2005,Chrysler,300
+2C3JA53_5,2005,Chrysler,300
+2C3JA63_5,2005,Chrysler,300
+2C3KA43_6,2006,Chrysler,300
+2C3KA53_6,2006,Chrysler,300
+2C3KK53_6,2006,Chrysler,300
+2C3LA43_6,2006,Chrysler,300
+2C3LA63_6,2006,Chrysler,300
+2C3LA73_6,2006,Chrysler,300
+2C3KA43_7,2007,Chrysler,300
+2C3KA53_7,2007,Chrysler,300
+2C3KA63_7,2007,Chrysler,300
+2C3LA53_7,2007,Chrysler,300
+2C3KA33_8,2008,Chrysler,300
+2C3KA43_8,2008,Chrysler,300
+2C3KK33_8,2008,Chrysler,300
+2C3LA43_8,2008,Chrysler,300
+2C3KA43_9,2009,Chrysler,300
+2C3KA53_9,2009,Chrysler,300
+2C3LA53_9,2009,Chrysler,300
+2C3CA4C_A,2010,Chrysler,300
+2C3CA5C_A,2010,Chrysler,300
+2C3CA6C_A,2010,Chrysler,300
+2C3CCAB_C,2012,Chrysler,300
+2C3CCAE_D,2013,Chrysler,300
+2C3CCAK_D,2013,Chrysler,300
+2C3CCAA_E,2014,Chrysler,300
+2C3CCAE_E,2014,Chrysler,300
+2C3CCAG_E,2014,Chrysler,300
+2C3CCAA_F,2015,Chrysler,300
+2C3CCAG_F,2015,Chrysler,300
+2C3CCAE_G,2016,Chrysler,300
+2C3HE66_2,2002,Chrysler,300M
+1A8HX58_8,2008,Chrysler,Aspen
+1A8HW58_9,2009,Chrysler,Aspen
+2C3HD46_X,1999,Chrysler,Concorde
+1C3AN65_5,2005,Chrysler,Crossfire
+1C3AN69_5,2005,Chrysler,Crossfire
+1C3AN65_6,2006,Chrysler,Crossfire
+1C3LN65_8,2008,Chrysler,Crossfire
+2C3HC56_X,1999,Chrysler,LHS
+3C4FY78_3,2003,Chrysler,PT Cruiser
+3C8FY68_3,2003,Chrysler,PT Cruiser
+3C8FY68_4,2004,Chrysler,PT Cruiser
+3C3AY75_5,2005,Chrysler,PT Cruiser
+3A4FY48_6,2006,Chrysler,PT Cruiser
+3A4FY58_6,2006,Chrysler,PT Cruiser
+3A4FY48_7,2007,Chrysler,PT Cruiser
+3A8FY58_8,2008,Chrysler,PT Cruiser
+3C3HY55_8,2008,Chrysler,PT Cruiser
+3A8FY48_9,2009,Chrysler,PT Cruiser
+2C4GM68_4,2004,Chrysler,Pacifica
+2C8GF68_4,2004,Chrysler,Pacifica
+2C8GM68_4,2004,Chrysler,Pacifica
+2C4GF68_5,2005,Chrysler,Pacifica
+2C4GM48_5,2005,Chrysler,Pacifica
+2C4GM68_5,2005,Chrysler,Pacifica
+2C8GF78_5,2005,Chrysler,Pacifica
+2A4GM68_6,2006,Chrysler,Pacifica
+2A8GM48_7,2007,Chrysler,Pacifica
+2A8GM68_7,2007,Chrysler,Pacifica
+2A8GM48_8,2008,Chrysler,Pacifica
+3C3EL45_X,1999,Chrysler,Sebring
+1C3EL65_1,2001,Chrysler,Sebring
+1C3EL55_2,2002,Chrysler,Sebring
+1C3EL45_4,2004,Chrysler,Sebring
+1C3EL46_4,2004,Chrysler,Sebring
+1C3EL55_4,2004,Chrysler,Sebring
+1C3EL55_6,2006,Chrysler,Sebring
+1C3LC46_7,2007,Chrysler,Sebring
+1C3LC56_7,2007,Chrysler,Sebring
+1C3LC66_7,2007,Chrysler,Sebring
+1C3LC45_9,2009,Chrysler,Sebring
+1C3LC46_9,2009,Chrysler,Sebring
+1C3BC5E_A,2010,Chrysler,Sebring
+1C3CC4F_A,2010,Chrysler,Sebring
+1C4GP64_W,1998,Chrysler,Town & Country
+1C4GP54_X,1999,Chrysler,Town & Country
+1C4GP64_Y,2000,Chrysler,Town & Country
+2C4GP44_2,2002,Chrysler,Town & Country
+2C4GP54_2,2002,Chrysler,Town & Country
+2C8GP64_2,2002,Chrysler,Town & Country
+2C4GP54_5,2005,Chrysler,Town & Country
+2C8GP54_5,2005,Chrysler,Town & Country
+2C8GP64_5,2005,Chrysler,Town & Country
+2A4GP54_6,2006,Chrysler,Town & Country
+2A8GP64_6,2006,Chrysler,Town & Country
+2A8GP54_7,2007,Chrysler,Town & Country
+2A8GP64_7,2007,Chrysler,Town & Country
+2A8HR44_8,2008,Chrysler,Town & Country
+2A8HR44_9,2009,Chrysler,Town & Country
+2A8HR54_9,2009,Chrysler,Town & Country
+2A4RR4D_A,2010,Chrysler,Town & Country
+2A4RR5D_A,2010,Chrysler,Town & Country
+2A4RR8D_A,2010,Chrysler,Town & Country
+2A4RR8D_B,2011,Chrysler,Town & Country
+2C4RC1C_C,2012,Chrysler,Town & Country
+2C4RC1B_D,2013,Chrysler,Town & Country
+2C4RC1C_D,2013,Chrysler,Town & Country
+2C4RC1B_E,2014,Chrysler,Town & Country
+2C4RC1G_E,2014,Chrysler,Town & Country
+2C4RC1B_F,2015,Chrysler,Town & Country
+2C4RC1B_G,2016,Chrysler,Town & Country
+1B3LC46_8,2008,Dodge,Avenger
+1B3LC56_8,2008,Dodge,Avenger
+1B3LC76_8,2008,Dodge,Avenger
+1B3LC46_9,2009,Dodge,Avenger
+1B3LC56_9,2009,Dodge,Avenger
+1B3CC4F_A,2010,Dodge,Avenger
+1B3BD4F_B,2011,Dodge,Avenger
+1C3CDZA_C,2012,Dodge,Avenger
+1C3CDZA_D,2013,Dodge,Avenger
+1C3CDZC_D,2013,Dodge,Avenger
+1C3CDZA_E,2014,Dodge,Avenger
+1B3HB28_7,2007,Dodge,Caliber
+1B3HB48_7,2007,Dodge,Caliber
+1B3HE78_7,2007,Dodge,Caliber
+1B3HB48_8,2008,Dodge,Caliber
+1B3HB78_8,2008,Dodge,Caliber
+1B3CB4H_A,2010,Dodge,Caliber
+1B3CB3H_B,2011,Dodge,Caliber
+1D4GP25_3,2003,Dodge,Caravan
+1D4GP45_4,2004,Dodge,Caravan
+1D4GP25_5,2005,Dodge,Caravan
+1D4GP25_7,2007,Dodge,Caravan
+1D8GP45_7,2007,Dodge,Caravan
+2B3LJ44_9,2009,Dodge,Challenger
+2B3CJ4D_A,2010,Dodge,Challenger
+2B3CJ5D_A,2010,Dodge,Challenger
+2B3CJ7D_A,2010,Dodge,Challenger
+2B3CJ4D_B,2011,Dodge,Challenger
+2B3CJ5D_B,2011,Dodge,Challenger
+2C3CDYB_C,2012,Dodge,Challenger
+2C3CDYA_D,2013,Dodge,Challenger
+2C3CDYA_E,2014,Dodge,Challenger
+2C3CDYB_E,2014,Dodge,Challenger
+2C3CDYC_E,2014,Dodge,Challenger
+2C3CDZA_F,2015,Dodge,Challenger
+2C3CDZB_F,2015,Dodge,Challenger
+2C3CDZA_G,2016,Dodge,Challenger
+2C3CDZB_G,2016,Dodge,Challenger
+2B3KA43_6,2006,Dodge,Charger
+2B3KA53_6,2006,Dodge,Charger
+2B3LA53_6,2006,Dodge,Charger
+2B3LA73_6,2006,Dodge,Charger
+2B3KA43_7,2007,Dodge,Charger
+2B3KA53_7,2007,Dodge,Charger
+2B3LA43_7,2007,Dodge,Charger
+2B3KA33_8,2008,Dodge,Charger
+2B3KA43_8,2008,Dodge,Charger
+2B3LA53_8,2008,Dodge,Charger
+2B3LK53_8,2008,Dodge,Charger
+2B3KA33_9,2009,Dodge,Charger
+2B3KA53_9,2009,Dodge,Charger
+2B3AA4C_A,2010,Dodge,Charger
+2B3CA3C_A,2010,Dodge,Charger
+2B3CA4C_A,2010,Dodge,Charger
+2B3CA5C_A,2010,Dodge,Charger
+2B3CA8C_A,2010,Dodge,Charger
+2B3CA9C_A,2010,Dodge,Charger
+2B3CL3C_B,2011,Dodge,Charger
+2B3CL5C_B,2011,Dodge,Charger
+2C3CDXA_C,2012,Dodge,Charger
+2C3CDXB_C,2012,Dodge,Charger
+2C3CDXH_C,2012,Dodge,Charger
+2C3CDXC_D,2013,Dodge,Charger
+2C3CDXF_D,2013,Dodge,Charger
+2C3CDXH_D,2013,Dodge,Charger
+2C3CDXB_E,2014,Dodge,Charger
+2C3CDXC_E,2014,Dodge,Charger
+2C3CDXH_E,2014,Dodge,Charger
+2C3CDXB_F,2015,Dodge,Charger
+2C3CDXF_F,2015,Dodge,Charger
+2C3CDXL_F,2015,Dodge,Charger
+2C3CDXB_G,2016,Dodge,Charger
+2C3CDXC_G,2016,Dodge,Charger
+1B7GG22_W,1998,Dodge,Dakota
+1B7GG22_X,1999,Dodge,Dakota
+1B7FL26_1,2001,Dodge,Dakota
+1B7HL2A_1,2001,Dodge,Dakota
+1B7GG42_2,2002,Dodge,Dakota
+1B7GL12_2,2002,Dodge,Dakota
+1B7HG48_2,2002,Dodge,Dakota
+1D7HL38_3,2003,Dodge,Dakota
+1D7HL42_3,2003,Dodge,Dakota
+1D7GL42_4,2004,Dodge,Dakota
+1D7HL48_4,2004,Dodge,Dakota
+1D3HW58_5,2005,Dodge,Dakota
+1D7HE22_5,2005,Dodge,Dakota
+1D7HE28_5,2005,Dodge,Dakota
+1D7HE48_5,2005,Dodge,Dakota
+1D7HW22_5,2005,Dodge,Dakota
+1D7HW42_5,2005,Dodge,Dakota
+1D7HE22_6,2006,Dodge,Dakota
+1D7HE28_6,2006,Dodge,Dakota
+1D7HE48_6,2006,Dodge,Dakota
+1D7HW48_6,2006,Dodge,Dakota
+1D7HW22_7,2007,Dodge,Dakota
+1D7HW48_7,2007,Dodge,Dakota
+1C3CDFB_D,2013,Dodge,Dart
+1C3CDFC_D,2013,Dodge,Dart
+1C3CDFB_E,2014,Dodge,Dart
+1C3CDFB_F,2015,Dodge,Dart
+1C3CDFC_F,2015,Dodge,Dart
+1C3CDFB_G,2016,Dodge,Dart
+1C3CDFE_G,2016,Dodge,Dart
+1B4HS28_W,1998,Dodge,Durango
+1B4HR28_X,1999,Dodge,Durango
+1B4HS28_1,2001,Dodge,Durango
+1B4HR38_2,2002,Dodge,Durango
+1B4HR48_2,2002,Dodge,Durango
+1B4HS58_2,2002,Dodge,Durango
+1D4HR48_3,2003,Dodge,Durango
+1D4HR58_3,2003,Dodge,Durango
+1D4HS48_3,2003,Dodge,Durango
+1D8HR58_3,2003,Dodge,Durango
+1D4HB48_4,2004,Dodge,Durango
+1D4HD38_4,2004,Dodge,Durango
+1D8HD58_4,2004,Dodge,Durango
+1D4HB58_5,2005,Dodge,Durango
+1D4HD38_6,2006,Dodge,Durango
+1D4HD48_6,2006,Dodge,Durango
+1D8HB48_7,2007,Dodge,Durango
+1D8HB58_7,2007,Dodge,Durango
+1D8HD48_8,2008,Dodge,Durango
+1D8HD58_8,2008,Dodge,Durango
+1D4RD2G_B,2011,Dodge,Durango
+1C4RDHD_E,2014,Dodge,Durango
+1C4RDHA_F,2015,Dodge,Durango
+1C4RDHE_G,2016,Dodge,Durango
+1C4RDJD_G,2016,Dodge,Durango
+2B4GP44_W,1998,Dodge,Grand Caravan
+2B4GP44_X,1999,Dodge,Grand Caravan
+1B4GP44_Y,2000,Dodge,Grand Caravan
+2B8GP44_1,2001,Dodge,Grand Caravan
+2D4GP44_5,2005,Dodge,Grand Caravan
+1D4GP24_6,2006,Dodge,Grand Caravan
+2D4GP44_6,2006,Dodge,Grand Caravan
+2D8GP44_6,2006,Dodge,Grand Caravan
+1D4GP24_7,2007,Dodge,Grand Caravan
+2D4GP44_7,2007,Dodge,Grand Caravan
+1D8HN44_8,2008,Dodge,Grand Caravan
+1D8HN54_8,2008,Dodge,Grand Caravan
+2D8HN54_8,2008,Dodge,Grand Caravan
+2D4RN3D_A,2010,Dodge,Grand Caravan
+2D4RN4D_A,2010,Dodge,Grand Caravan
+2D4RN5D_A,2010,Dodge,Grand Caravan
+2D4RN4D_B,2011,Dodge,Grand Caravan
+2D4RN5D_B,2011,Dodge,Grand Caravan
+2C4RDGC_C,2012,Dodge,Grand Caravan
+2C4RDGD_C,2012,Dodge,Grand Caravan
+2C4RDGC_D,2013,Dodge,Grand Caravan
+2C4RDGB_E,2014,Dodge,Grand Caravan
+2C4RDGC_E,2014,Dodge,Grand Caravan
+2C4RDGE_E,2014,Dodge,Grand Caravan
+2C4RDGC_F,2015,Dodge,Grand Caravan
+2C4RDGC_G,2016,Dodge,Grand Caravan
+2C4RDGE_G,2016,Dodge,Grand Caravan
+2B3HD46_1,2001,Dodge,Intrepid
+3D4GG47_9,2009,Dodge,Journey
+3D4GG57_9,2009,Dodge,Journey
+3D4PG5F_A,2010,Dodge,Journey
+3D4PH5F_A,2010,Dodge,Journey
+3C4PDCA_C,2012,Dodge,Journey
+3C4PDCA_E,2014,Dodge,Journey
+3C4PDCE_E,2014,Dodge,Journey
+3C4PDDD_E,2014,Dodge,Journey
+3C4PDCA_F,2015,Dodge,Journey
+3C4PDCB_F,2015,Dodge,Journey
+3C4PDCB_G,2016,Dodge,Journey
+3C4PDDB_G,2016,Dodge,Journey
+2D8GV58_5,2005,Dodge,Magnum
+2D4GV57_6,2006,Dodge,Magnum
+2D4FV47_7,2007,Dodge,Magnum
+2D4FV47_8,2008,Dodge,Magnum
+1B3ES46_2,2002,Dodge,Neon
+1B3ES56_2,2002,Dodge,Neon
+1B3ES56_3,2003,Dodge,Neon
+1B3ES26_4,2004,Dodge,Neon
+1B3ES56_4,2004,Dodge,Neon
+1B3ES66_4,2004,Dodge,Neon
+1B3ES56_5,2005,Dodge,Neon
+1B3ES66_5,2005,Dodge,Neon
+1D8GT28_7,2007,Dodge,Nitro
+1D8GT58_7,2007,Dodge,Nitro
+1D8GT28_8,2008,Dodge,Nitro
+1D4PT5G_A,2010,Dodge,Nitro
+1D4PU2G_A,2010,Dodge,Nitro
+1D4PT2G_B,2011,Dodge,Nitro
+1D4PT4G_B,2011,Dodge,Nitro
+1B7FD14_G,1986,Dodge,Ram 150
+1B7HF13_T,1996,Dodge,Ram 1500
+1B7HF16_T,1996,Dodge,Ram 1500
+3B7HC13_V,1997,Dodge,Ram 1500
+1B7HC13_W,1998,Dodge,Ram 1500
+1B7HC16_W,1998,Dodge,Ram 1500
+3B7HF13_W,1998,Dodge,Ram 1500
+1B7HC16_X,1999,Dodge,Ram 1500
+3B7HC13_X,1999,Dodge,Ram 1500
+1B7HC13_Y,2000,Dodge,Ram 1500
+1B7HC16_1,2001,Dodge,Ram 1500
+3B7HF13_1,2001,Dodge,Ram 1500
+1B7HU18_2,2002,Dodge,Ram 1500
+1D3HU18_2,2002,Dodge,Ram 1500
+1D7HA16_2,2002,Dodge,Ram 1500
+1D7HA18_2,2002,Dodge,Ram 1500
+1D7HU16_2,2002,Dodge,Ram 1500
+3D7HA18_2,2002,Dodge,Ram 1500
+3D7HU18_2,2002,Dodge,Ram 1500
+1D7HA16_3,2003,Dodge,Ram 1500
+1D7HA18_3,2003,Dodge,Ram 1500
+1D7HU18_3,2003,Dodge,Ram 1500
+1D7HA16_4,2004,Dodge,Ram 1500
+1D7HA18_4,2004,Dodge,Ram 1500
+1D7HU18_4,2004,Dodge,Ram 1500
+1D7HA16_5,2005,Dodge,Ram 1500
+1D7HU16_5,2005,Dodge,Ram 1500
+1D7HU18_5,2005,Dodge,Ram 1500
+3D7HA18_5,2005,Dodge,Ram 1500
+1D7HA16_6,2006,Dodge,Ram 1500
+1D7HA18_6,2006,Dodge,Ram 1500
+1D7HU16_6,2006,Dodge,Ram 1500
+1D7HU18_6,2006,Dodge,Ram 1500
+1D7HA16_7,2007,Dodge,Ram 1500
+1D7HA18_7,2007,Dodge,Ram 1500
+1D7HU16_7,2007,Dodge,Ram 1500
+1D7HA18_8,2008,Dodge,Ram 1500
+1D7HU18_8,2008,Dodge,Ram 1500
+1D3HB13_9,2009,Dodge,Ram 1500
+1D3HB16_9,2009,Dodge,Ram 1500
+1D3HV18_9,2009,Dodge,Ram 1500
+1D7RB1C_A,2010,Dodge,Ram 1500
+1D7RB1G_A,2010,Dodge,Ram 1500
+1D7RV1C_A,2010,Dodge,Ram 1500
+1D7RV1G_A,2010,Dodge,Ram 1500
+3B7KF23_V,1997,Dodge,Ram 2500
+1B7KF23_X,1999,Dodge,Ram 2500
+1B7KF23_1,2001,Dodge,Ram 2500
+3D7KU28_3,2003,Dodge,Ram 2500
+3D7KU28_4,2004,Dodge,Ram 2500
+3D7KR28_5,2005,Dodge,Ram 2500
+3D7KS28_5,2005,Dodge,Ram 2500
+1D7KS28_6,2006,Dodge,Ram 2500
+3D7KR29_6,2006,Dodge,Ram 2500
+3D7KS28_6,2006,Dodge,Ram 2500
+1D7KS28_7,2007,Dodge,Ram 2500
+3D7KS28_7,2007,Dodge,Ram 2500
+3D7KS29_7,2007,Dodge,Ram 2500
+3D7KS28_8,2008,Dodge,Ram 2500
+3B7MF33_T,1996,Dodge,Ram 3500
+3D7MU48_3,2003,Dodge,Ram 3500
+3D7MR48_5,2005,Dodge,Ram 3500
+3D7ML49_6,2006,Dodge,Ram 3500
+3D7MX48_6,2006,Dodge,Ram 3500
+3D7MX48_7,2007,Dodge,Ram 3500
+3D7MX49_9,2009,Dodge,Ram 3500
+2B6LB31_X,1999,Dodge,Ram Van
+2D6WB11_3,2003,Dodge,Ram Van
+WD5PD64_4,2004,Dodge,Sprinter
+WD0PD74_6,2006,Dodge,Sprinter
+1B3EJ46_1,2001,Dodge,Stratus
+1B3EL46_2,2002,Dodge,Stratus
+1B3EL46_5,2005,Dodge,Stratus
+1B3EL46_6,2006,Dodge,Stratus
+4E3CT64_M,1991,Eagle,Talon
+ZFFYT53_3,2003,Ferrari,360
+ZFFUC15_F,1985,Ferrari,Mondial
+3C3CFFA_C,2012,Fiat,500
+3C3CFFA_D,2013,Fiat,500
+YH4K14A_C,2012,Fisker,Karma
+1FMEU15_R,1994,Ford,Bronco
+1FMEU15_S,1995,Ford,Bronco
+1FADP5B_F,2015,Ford,C-Max
+2FAFP71_W,1998,Ford,Crown Victoria
+2FAFP71_X,1999,Ford,Crown Victoria
+2FAFP74_X,1999,Ford,Crown Victoria
+2FAFP71_Y,2000,Ford,Crown Victoria
+2FAFP74_Y,2000,Ford,Crown Victoria
+2FAFP71_2,2002,Ford,Crown Victoria
+2FAFP74_2,2002,Ford,Crown Victoria
+2FAFP71_4,2004,Ford,Crown Victoria
+2FAFP74_4,2004,Ford,Crown Victoria
+2FAFP71_7,2007,Ford,Crown Victoria
+2FAFP71_8,2008,Ford,Crown Victoria
+2FAHP71_8,2008,Ford,Crown Victoria
+2FAHP71_9,2009,Ford,Crown Victoria
+2FABP7B_B,2011,Ford,Crown Victoria
+1FDKE37_J,1988,Ford,Econoline
+1FDEE14_S,1995,Ford,Econoline
+1FTJE34_V,1997,Ford,Econoline
+1FTRE14_X,1999,Ford,Econoline
+1FTNE24_Y,2000,Ford,Econoline
+1FDWE35_5,2005,Ford,Econoline
+1FBNE31_7,2007,Ford,Econoline
+1FTNS2E_B,2011,Ford,Econoline
+1FTNE1E_D,2013,Ford,Econoline
+1FTSS3E_D,2013,Ford,Econoline
+1FBSS3B_E,2014,Ford,Econoline
+2FMDK36_7,2007,Ford,Edge
+2FMDK39_7,2007,Ford,Edge
+2FMDK46_7,2007,Ford,Edge
+2FMDK48_7,2007,Ford,Edge
+2FMDK38_8,2008,Ford,Edge
+2FMDK39_8,2008,Ford,Edge
+2FMDK49_8,2008,Ford,Edge
+2FMDK49_9,2009,Ford,Edge
+2FMDK3A_A,2010,Ford,Edge
+2FMDK3G_A,2010,Ford,Edge
+2FMDK4K_A,2010,Ford,Edge
+2FMDK3J_B,2011,Ford,Edge
+2FMDK3K_B,2011,Ford,Edge
+2FMDK4K_B,2011,Ford,Edge
+2FMDK3A_D,2013,Ford,Edge
+2FMDK3G_D,2013,Ford,Edge
+2FMDK3J_D,2013,Ford,Edge
+2FMDK3K_D,2013,Ford,Edge
+2FMDK4K_D,2013,Ford,Edge
+2FMDK3J_E,2014,Ford,Edge
+2FMPK3K_G,2016,Ford,Edge
+2FMPK4J_G,2016,Ford,Edge
+1FMCU04_1,2001,Ford,Escape
+1FMYU04_1,2001,Ford,Escape
+1FMCU03_2,2002,Ford,Escape
+1FMCU04_3,2003,Ford,Escape
+1FMYU93_3,2003,Ford,Escape
+1FMYU93_4,2004,Ford,Escape
+1FMCU94_5,2005,Ford,Escape
+1FMYU02_5,2005,Ford,Escape
+1FMYU03_5,2005,Ford,Escape
+1FMYU93_5,2005,Ford,Escape
+1FMCU02_6,2006,Ford,Escape
+1FMCU93_6,2006,Ford,Escape
+1FMCU96_6,2006,Ford,Escape
+1FMYU03_6,2006,Ford,Escape
+1FMYU93_6,2006,Ford,Escape
+1FMYU94_6,2006,Ford,Escape
+1FMYU95_6,2006,Ford,Escape
+1FMCU93_7,2007,Ford,Escape
+1FMCU02_8,2008,Ford,Escape
+1FMCU03_8,2008,Ford,Escape
+1FMCU04_8,2008,Ford,Escape
+1FMCU49_8,2008,Ford,Escape
+1FMCU93_8,2008,Ford,Escape
+1FMCU94_8,2008,Ford,Escape
+1FMCU03_9,2009,Ford,Escape
+1FMCU04_9,2009,Ford,Escape
+1FMCU59_9,2009,Ford,Escape
+1FMCU93_9,2009,Ford,Escape
+1FMCU0C_A,2010,Ford,Escape
+1FMCU0D_A,2010,Ford,Escape
+1FMCU0E_A,2010,Ford,Escape
+1FMCU4K_A,2010,Ford,Escape
+1FMCU0D_B,2011,Ford,Escape
+1FMCU0E_B,2011,Ford,Escape
+1FMCU0C_C,2012,Ford,Escape
+1FMCU0D_C,2012,Ford,Escape
+1FMCU0E_C,2012,Ford,Escape
+1FMCU9D_C,2012,Ford,Escape
+1FMCU0F_D,2013,Ford,Escape
+1FMCU0G_D,2013,Ford,Escape
+1FMCU9G_D,2013,Ford,Escape
+1FMCU9H_D,2013,Ford,Escape
+1FMCU0G_E,2014,Ford,Escape
+1FMCU0J_E,2014,Ford,Escape
+1FMCU9J_E,2014,Ford,Escape
+1FMCU0F_F,2015,Ford,Escape
+1FMCU0G_F,2015,Ford,Escape
+1FMCU0J_F,2015,Ford,Escape
+1FMCU9G_F,2015,Ford,Escape
+1FMCU0G_G,2016,Ford,Escape
+1FALP13_V,1997,Ford,Escort
+3FAKP11_X,1999,Ford,Escort
+1FMNU41_Y,2000,Ford,Excursion
+1FMNU43_Y,2000,Ford,Excursion
+1FMSU43_Y,2000,Ford,Excursion
+1FMNU40_1,2001,Ford,Excursion
+1FMNU41_1,2001,Ford,Excursion
+1FMNU40_3,2003,Ford,Excursion
+1FMNU41_3,2003,Ford,Excursion
+1FMSU43_5,2005,Ford,Excursion
+1FMPU18_W,1998,Ford,Expedition
+1FMRU17_W,1998,Ford,Expedition
+1FMRU17_X,1999,Ford,Expedition
+1FMPU16_Y,2000,Ford,Expedition
+1FMRU15_1,2001,Ford,Expedition
+1FMPU18_2,2002,Ford,Expedition
+1FMRU15_2,2002,Ford,Expedition
+1FMFU17_3,2003,Ford,Expedition
+1FMFU18_3,2003,Ford,Expedition
+1FMRU15_3,2003,Ford,Expedition
+1FMEU15_4,2004,Ford,Expedition
+1FMEU17_4,2004,Ford,Expedition
+1FMFU17_4,2004,Ford,Expedition
+1FMRU15_4,2004,Ford,Expedition
+1FMFU19_5,2005,Ford,Expedition
+1FMPU15_5,2005,Ford,Expedition
+1FMPU17_5,2005,Ford,Expedition
+1FMFU15_6,2006,Ford,Expedition
+1FMFU17_6,2006,Ford,Expedition
+1FMPU13_6,2006,Ford,Expedition
+1FMPU15_6,2006,Ford,Expedition
+1FMPU17_6,2006,Ford,Expedition
+1FMPU20_6,2006,Ford,Expedition
+1FMFU15_7,2007,Ford,Expedition
+1FMFU17_7,2007,Ford,Expedition
+1FMFU19_7,2007,Ford,Expedition
+1FMFU17_8,2008,Ford,Expedition
+1FMFU20_8,2008,Ford,Expedition
+1FMFU16_9,2009,Ford,Expedition
+1FMFU17_9,2009,Ford,Expedition
+1FMJU1J_A,2010,Ford,Expedition
+1FMJU1H_B,2011,Ford,Expedition
+1FMJU1H_D,2013,Ford,Expedition
+1FMJU1J_F,2015,Ford,Expedition
+1FMFK17_7,2007,Ford,Expedition EL
+1FMFK18_7,2007,Ford,Expedition EL
+1FMFK17_8,2008,Ford,Expedition EL
+1FMFK19_8,2008,Ford,Expedition EL
+1FMFK19_9,2009,Ford,Expedition EL
+1FMJK2A_A,2010,Ford,Expedition EL
+1FMJK1H_B,2011,Ford,Expedition EL
+1FMJK1K_B,2011,Ford,Expedition EL
+1FMJK1G_D,2013,Ford,Expedition EL
+1FMJK1J_F,2015,Ford,Expedition EL
+1FMJK1M_F,2015,Ford,Expedition EL
+1FMDU34_S,1995,Ford,Explorer
+1FMDU34_T,1996,Ford,Explorer
+1FMDU35_T,1996,Ford,Explorer
+1FMDU34_V,1997,Ford,Explorer
+1FMZU34_W,1998,Ford,Explorer
+1FMZU32_X,1999,Ford,Explorer
+1FMDU64_Y,2000,Ford,Explorer
+1FMDU74_Y,2000,Ford,Explorer
+1FMZU63_Y,2000,Ford,Explorer
+1FMZU84_Y,2000,Ford,Explorer
+1FMYU60_1,2001,Ford,Explorer
+1FMZU63_2,2002,Ford,Explorer
+1FMZU73_2,2002,Ford,Explorer
+1FMZU74_2,2002,Ford,Explorer
+1FMDU75_3,2003,Ford,Explorer
+1FMYU60_3,2003,Ford,Explorer
+1FMZU62_3,2003,Ford,Explorer
+1FMZU63_3,2003,Ford,Explorer
+1FMZU64_3,2003,Ford,Explorer
+1FMZU73_3,2003,Ford,Explorer
+1FMDU73_4,2004,Ford,Explorer
+1FMDU75_4,2004,Ford,Explorer
+1FMZU62_4,2004,Ford,Explorer
+1FMZU63_4,2004,Ford,Explorer
+1FMZU64_4,2004,Ford,Explorer
+1FMZU65_4,2004,Ford,Explorer
+1FMZU73_4,2004,Ford,Explorer
+1FMDU74_5,2005,Ford,Explorer
+1FMZU62_5,2005,Ford,Explorer
+1FMZU64_5,2005,Ford,Explorer
+1FMZU73_5,2005,Ford,Explorer
+1FMEU62_6,2006,Ford,Explorer
+1FMEU63_6,2006,Ford,Explorer
+1FMEU73_6,2006,Ford,Explorer
+1FMEU75_6,2006,Ford,Explorer
+1FMEU63_7,2007,Ford,Explorer
+1FMEU64_7,2007,Ford,Explorer
+1FMEU65_7,2007,Ford,Explorer
+1FMEU73_7,2007,Ford,Explorer
+1FMEU74_7,2007,Ford,Explorer
+1FMEU63_8,2008,Ford,Explorer
+1FMEU64_8,2008,Ford,Explorer
+1FMEU73_8,2008,Ford,Explorer
+1FMEU75_9,2009,Ford,Explorer
+1FMEU6E_A,2010,Ford,Explorer
+1FMEU7D_A,2010,Ford,Explorer
+1FMHK7D_B,2011,Ford,Explorer
+1FM5K7D_D,2013,Ford,Explorer
+1FM5K7F_D,2013,Ford,Explorer
+1FM5K8B_D,2013,Ford,Explorer
+1FM5K8D_D,2013,Ford,Explorer
+1FM5K8G_D,2013,Ford,Explorer
+1FM5K8D_E,2014,Ford,Explorer
+1FM5K7D_F,2015,Ford,Explorer
+1FM5K7F_F,2015,Ford,Explorer
+1FM5K7F_G,2016,Ford,Explorer
+1FM5K8D_G,2016,Ford,Explorer
+1FM5K8F_G,2016,Ford,Explorer
+1FMZU67_2,2002,Ford,Explorer Sport Trac
+1FMZU77_2,2002,Ford,Explorer Sport Trac
+1FMZU77_3,2003,Ford,Explorer Sport Trac
+1FMDU77_4,2004,Ford,Explorer Sport Trac
+1FMZU67_4,2004,Ford,Explorer Sport Trac
+1FMZU77_4,2004,Ford,Explorer Sport Trac
+1FMDU67_5,2005,Ford,Explorer Sport Trac
+1FMZU67_5,2005,Ford,Explorer Sport Trac
+1FMEU31_7,2007,Ford,Explorer Sport Trac
+1FMEU33_7,2007,Ford,Explorer Sport Trac
+1FMEU51_7,2007,Ford,Explorer Sport Trac
+1FMEU53_7,2007,Ford,Explorer Sport Trac
+1FMEU31_8,2008,Ford,Explorer Sport Trac
+1FMEU33_8,2008,Ford,Explorer Sport Trac
+1FMEU3B_A,2010,Ford,Explorer Sport Trac
+1FTEF14_J,1988,Ford,F-150
+1FTEF15_J,1988,Ford,F-150
+1FTDF15_K,1989,Ford,F-150
+1FTDF15_R,1994,Ford,F-150
+1FTEF15_R,1994,Ford,F-150
+1FTEF15_S,1995,Ford,F-150
+1FTEX15_S,1995,Ford,F-150
+1FTEX15_T,1996,Ford,F-150
+1FTDX08_V,1997,Ford,F-150
+1FTEF18_V,1997,Ford,F-150
+1FTZF17_W,1998,Ford,F-150
+1FTZX17_W,1998,Ford,F-150
+1FTZX18_W,1998,Ford,F-150
+1FTRF18_X,1999,Ford,F-150
+1FTRX17_X,1999,Ford,F-150
+1FTRX18_X,1999,Ford,F-150
+1FTZF17_X,1999,Ford,F-150
+1FTZF18_X,1999,Ford,F-150
+2FTRX17_X,1999,Ford,F-150
+2FTZX07_X,1999,Ford,F-150
+2FTRX17_Y,2000,Ford,F-150
+1FTRF08_1,2001,Ford,F-150
+1FTRW07_1,2001,Ford,F-150
+1FTRW08_1,2001,Ford,F-150
+1FTRW07_2,2002,Ford,F-150
+1FTRW08_2,2002,Ford,F-150
+1FTRX17_2,2002,Ford,F-150
+1FTRX18_2,2002,Ford,F-150
+2FTRX08_2,2002,Ford,F-150
+1FTRF17_3,2003,Ford,F-150
+1FTRW07_3,2003,Ford,F-150
+1FTRW08_3,2003,Ford,F-150
+1FTRX17_3,2003,Ford,F-150
+1FTRX18_3,2003,Ford,F-150
+2FTRF07_3,2003,Ford,F-150
+2FTRX18_3,2003,Ford,F-150
+1FTPW12_4,2004,Ford,F-150
+1FTPW14_4,2004,Ford,F-150
+1FTPX12_4,2004,Ford,F-150
+1FTPX14_4,2004,Ford,F-150
+1FTRF12_4,2004,Ford,F-150
+1FTRW12_4,2004,Ford,F-150
+1FTRX12_4,2004,Ford,F-150
+1FTRX14_4,2004,Ford,F-150
+2FTRF07_4,2004,Ford,F-150
+2FTRF17_4,2004,Ford,F-150
+1FTPW12_5,2005,Ford,F-150
+1FTPW14_5,2005,Ford,F-150
+1FTPX04_5,2005,Ford,F-150
+1FTPX12_5,2005,Ford,F-150
+1FTPX14_5,2005,Ford,F-150
+1FTRF02_5,2005,Ford,F-150
+1FTRF04_5,2005,Ford,F-150
+1FTRF12_5,2005,Ford,F-150
+1FTRX12_5,2005,Ford,F-150
+1FTPW12_6,2006,Ford,F-150
+1FTPW14_6,2006,Ford,F-150
+1FTPX02_6,2006,Ford,F-150
+1FTPX04_6,2006,Ford,F-150
+1FTPX12_6,2006,Ford,F-150
+1FTPX14_6,2006,Ford,F-150
+1FTRF12_6,2006,Ford,F-150
+1FTRF14_6,2006,Ford,F-150
+1FTRX12_6,2006,Ford,F-150
+1FTVX14_6,2006,Ford,F-150
+1FTPW12_7,2007,Ford,F-150
+1FTPW14_7,2007,Ford,F-150
+1FTPX12_7,2007,Ford,F-150
+1FTPX14_7,2007,Ford,F-150
+1FTRF02_7,2007,Ford,F-150
+1FTRF12_7,2007,Ford,F-150
+1FTRX12_7,2007,Ford,F-150
+1FTPW12_8,2008,Ford,F-150
+1FTPW14_8,2008,Ford,F-150
+1FTPX14_8,2008,Ford,F-150
+1FTRF12_8,2008,Ford,F-150
+1FTRW12_8,2008,Ford,F-150
+1FTRX12_8,2008,Ford,F-150
+1FTVF12_8,2008,Ford,F-150
+1FTPW12_9,2009,Ford,F-150
+1FTPW14_9,2009,Ford,F-150
+1FTRF12_9,2009,Ford,F-150
+1FTRX12_9,2009,Ford,F-150
+1FTRX14_9,2009,Ford,F-150
+1FTEW1C_A,2010,Ford,F-150
+1FTEX1C_A,2010,Ford,F-150
+1FTEX1E_A,2010,Ford,F-150
+1FTFW1C_A,2010,Ford,F-150
+1FTFW1E_A,2010,Ford,F-150
+1FTNF1C_A,2010,Ford,F-150
+1FTEW1C_B,2011,Ford,F-150
+1FTEX1C_B,2011,Ford,F-150
+1FTFW1C_B,2011,Ford,F-150
+1FTFW1E_B,2011,Ford,F-150
+1FTFX1C_B,2011,Ford,F-150
+1FTFX1E_B,2011,Ford,F-150
+1FTEW1C_C,2012,Ford,F-150
+1FTEX1C_C,2012,Ford,F-150
+1FTFW1C_C,2012,Ford,F-150
+1FTFW1E_C,2012,Ford,F-150
+1FTFX1C_C,2012,Ford,F-150
+1FTFX1E_C,2012,Ford,F-150
+1FTNF1E_C,2012,Ford,F-150
+1FTEW1C_D,2013,Ford,F-150
+1FTFW1C_D,2013,Ford,F-150
+1FTFW1E_D,2013,Ford,F-150
+1FTFW1R_D,2013,Ford,F-150
+1FTFX1C_D,2013,Ford,F-150
+1FTFX1E_D,2013,Ford,F-150
+1FTMF1C_D,2013,Ford,F-150
+1FTEW1C_E,2014,Ford,F-150
+1FTEX1E_E,2014,Ford,F-150
+1FTFW1C_E,2014,Ford,F-150
+1FTFW1E_E,2014,Ford,F-150
+1FTEW1C_F,2015,Ford,F-150
+1FTEW1E_F,2015,Ford,F-150
+1FTFW1E_F,2015,Ford,F-150
+1FTEW1C_G,2016,Ford,F-150
+1FTEW1E_G,2016,Ford,F-150
+1FTEX1C_G,2016,Ford,F-150
+1FTHX25_G,1986,Ford,F-250
+1FTNF20_X,1999,Ford,F-250
+1FTNX21_X,1999,Ford,F-250
+1FTNW21_Y,2000,Ford,F-250
+1FTNX21_Y,2000,Ford,F-250
+1FTNW21_1,2001,Ford,F-250
+1FTNX21_1,2001,Ford,F-250
+1FTNX21_2,2002,Ford,F-250
+1FTNW20_3,2003,Ford,F-250
+1FTNW21_3,2003,Ford,F-250
+1FTNX20_3,2003,Ford,F-250
+1FTNW21_4,2004,Ford,F-250
+1FTNX21_4,2004,Ford,F-250
+1FTSW20_5,2005,Ford,F-250
+1FTSW21_5,2005,Ford,F-250
+1FTSW20_6,2006,Ford,F-250
+1FTSW21_6,2006,Ford,F-250
+1FTSX21_6,2006,Ford,F-250
+1FTNF21_7,2007,Ford,F-250
+1FTSW21_7,2007,Ford,F-250
+1FTNF20_8,2008,Ford,F-250
+1FTSW21_8,2008,Ford,F-250
+1FTSX21_8,2008,Ford,F-250
+1FTSW21_9,2009,Ford,F-250
+1FTSW2B_A,2010,Ford,F-250
+1FT7W2B_B,2011,Ford,F-250
+1FT7X2B_B,2011,Ford,F-250
+1FDBF2A_C,2012,Ford,F-250
+1FT7W2B_C,2012,Ford,F-250
+1FT7X2A_C,2012,Ford,F-250
+1FTBF2A_C,2012,Ford,F-250
+1FT7W2B_D,2013,Ford,F-250
+1FT7W2B_E,2014,Ford,F-250
+1FT7X2B_E,2014,Ford,F-250
+1FT7W2B_F,2015,Ford,F-250
+1FT7W2B_G,2016,Ford,F-250
+1FTJX35_J,1988,Ford,F-350
+2FDKF37_L,1990,Ford,F-350
+1FDKF37_M,1991,Ford,F-350
+1FTJW36_V,1997,Ford,F-350
+1FTSW30_X,1999,Ford,F-350
+1FTSW30_2,2002,Ford,F-350
+1FDWX36_3,2003,Ford,F-350
+1FTWW32_4,2004,Ford,F-350
+1FTWW33_4,2004,Ford,F-350
+1FTWW32_5,2005,Ford,F-350
+1FTWW31_6,2006,Ford,F-350
+1FTWW33_6,2006,Ford,F-350
+1FTWX31_6,2006,Ford,F-350
+1FDWF36_7,2007,Ford,F-350
+1FDWW32_8,2008,Ford,F-350
+1FTSW31_8,2008,Ford,F-350
+1FTWW31_8,2008,Ford,F-350
+1FT8W3D_B,2011,Ford,F-350
+1FT8W3B_D,2013,Ford,F-350
+1FT8W3B_F,2015,Ford,F-350
+1FT8W3B_G,2016,Ford,F-350
+1FTXW43_8,2008,Ford,F-450
+3FADP4E_B,2011,Ford,Fiesta
+3FADP4B_C,2012,Ford,Fiesta
+3FADP4B_D,2013,Ford,Fiesta
+3FADP4T_D,2013,Ford,Fiesta
+3FADP4B_F,2015,Ford,Fiesta
+3FADP4B_G,2016,Ford,Fiesta
+1FAFP23_5,2005,Ford,Five Hundred
+1FAFP24_5,2005,Ford,Five Hundred
+1FAFP24_6,2006,Ford,Five Hundred
+1FAFP25_6,2006,Ford,Five Hundred
+1FAHP24_7,2007,Ford,Five Hundred
+2FMDK51_9,2009,Ford,Flex
+2FMDK52_9,2009,Ford,Flex
+2FMDK53_9,2009,Ford,Flex
+2FMHK6D_B,2011,Ford,Flex
+2FMGK5C_C,2012,Ford,Flex
+2FMHK6C_D,2013,Ford,Flex
+2FMGK5B_E,2014,Ford,Flex
+2FMGK5C_E,2014,Ford,Flex
+1FAFP33_Y,2000,Ford,Focus
+1FAFP38_Y,2000,Ford,Focus
+3FAFP31_1,2001,Ford,Focus
+1FAFP34_2,2002,Ford,Focus
+1FAHP36_2,2002,Ford,Focus
+3FAFP31_2,2002,Ford,Focus
+1FAFP34_3,2003,Ford,Focus
+1FAHP34_3,2003,Ford,Focus
+3FAFP31_3,2003,Ford,Focus
+1FAFP34_5,2005,Ford,Focus
+1FAHP38_5,2005,Ford,Focus
+1FAFP34_6,2006,Ford,Focus
+1FAHP34_6,2006,Ford,Focus
+1FAFP31_7,2007,Ford,Focus
+1FAFP34_7,2007,Ford,Focus
+1FAHP34_7,2007,Ford,Focus
+1FAHP34_8,2008,Ford,Focus
+1FAHP35_8,2008,Ford,Focus
+1FAHP35_9,2009,Ford,Focus
+1FAHP3F_A,2010,Ford,Focus
+1FAHP3H_A,2010,Ford,Focus
+1FAHP3E_B,2011,Ford,Focus
+1FAHP3F_B,2011,Ford,Focus
+1FAHP3G_B,2011,Ford,Focus
+1FAHP3E_C,2012,Ford,Focus
+1FAHP3F_C,2012,Ford,Focus
+1FAHP3H_C,2012,Ford,Focus
+1FAHP3K_C,2012,Ford,Focus
+1FAHP3M_C,2012,Ford,Focus
+1FADP3F_D,2013,Ford,Focus
+1FADP3K_D,2013,Ford,Focus
+1FADP3E_E,2014,Ford,Focus
+1FADP3F_E,2014,Ford,Focus
+1FADP3K_E,2014,Ford,Focus
+1FADP3F_F,2015,Ford,Focus
+1FADP3J_F,2015,Ford,Focus
+1FADP3F_G,2016,Ford,Focus
+2FMZA51_4,2004,Ford,Freestar
+2FMZA51_5,2005,Ford,Freestar
+2FTZA54_5,2005,Ford,Freestar
+1FMDK02_7,2007,Ford,Freestyle
+1FMZK02_7,2007,Ford,Freestyle
+3FAFP06_6,2006,Ford,Fusion
+3FAFP07_6,2006,Ford,Fusion
+3FAFP08_6,2006,Ford,Fusion
+3FAHP08_6,2006,Ford,Fusion
+3FAHP06_7,2007,Ford,Fusion
+3FAHP07_7,2007,Ford,Fusion
+3FAHP08_7,2007,Ford,Fusion
+3FAHP06_8,2008,Ford,Fusion
+3FAHP07_8,2008,Ford,Fusion
+3FAHP08_8,2008,Ford,Fusion
+3FAHP02_9,2009,Ford,Fusion
+3FAHP06_9,2009,Ford,Fusion
+3FAHP07_9,2009,Ford,Fusion
+3FAHP08_9,2009,Ford,Fusion
+3FAHP0G_A,2010,Ford,Fusion
+3FAHP0H_A,2010,Ford,Fusion
+3FAHP0J_A,2010,Ford,Fusion
+3FAHP0H_B,2011,Ford,Fusion
+3FAHP0J_B,2011,Ford,Fusion
+3FAHP0C_C,2012,Ford,Fusion
+3FAHP0H_C,2012,Ford,Fusion
+3FAHP0J_C,2012,Ford,Fusion
+3FAHP0K_C,2012,Ford,Fusion
+3FA6P0G_D,2013,Ford,Fusion
+3FA6P0H_D,2013,Ford,Fusion
+3FA6P0K_D,2013,Ford,Fusion
+3FA6P0L_D,2013,Ford,Fusion
+1FA6P0H_E,2014,Ford,Fusion
+3FA6P0G_E,2014,Ford,Fusion
+3FA6P0H_E,2014,Ford,Fusion
+3FA6P0K_E,2014,Ford,Fusion
+3FA6P0G_F,2015,Ford,Fusion
+3FA6P0H_F,2015,Ford,Fusion
+1FA6P0H_G,2016,Ford,Fusion
+3FA6P0H_G,2016,Ford,Fusion
+1FABP28_F,1985,Ford,Mustang
+1FABP45_H,1987,Ford,Mustang
+1FALP44_R,1994,Ford,Mustang
+1FALP45_R,1994,Ford,Mustang
+1FALP45_S,1995,Ford,Mustang
+1FALP40_V,1997,Ford,Mustang
+1FAFP42_W,1998,Ford,Mustang
+1FAFP45_W,1998,Ford,Mustang
+1FAFP44_X,1999,Ford,Mustang
+1FAFP45_X,1999,Ford,Mustang
+1FAFP42_Y,2000,Ford,Mustang
+1FAFP44_1,2001,Ford,Mustang
+1FAFP40_2,2002,Ford,Mustang
+1FAFP42_2,2002,Ford,Mustang
+1FAFP44_2,2002,Ford,Mustang
+1FAFP40_3,2003,Ford,Mustang
+1FAFP42_3,2003,Ford,Mustang
+1FAFP45_3,2003,Ford,Mustang
+1FAFP40_4,2004,Ford,Mustang
+1FAFP42_4,2004,Ford,Mustang
+1FAFP45_4,2004,Ford,Mustang
+1ZVFT80_5,2005,Ford,Mustang
+1ZVFT82_5,2005,Ford,Mustang
+1ZVFT84_5,2005,Ford,Mustang
+1ZVHT80_5,2005,Ford,Mustang
+1ZVHT85_5,2005,Ford,Mustang
+1ZVFT80_6,2006,Ford,Mustang
+1ZVFT82_6,2006,Ford,Mustang
+1ZVFT84_6,2006,Ford,Mustang
+1ZVHT80_6,2006,Ford,Mustang
+1ZVHT82_6,2006,Ford,Mustang
+1ZVHT85_6,2006,Ford,Mustang
+1ZVFT80_7,2007,Ford,Mustang
+1ZVFT82_7,2007,Ford,Mustang
+1ZVHT82_7,2007,Ford,Mustang
+1ZVHT80_8,2008,Ford,Mustang
+1ZVHT82_8,2008,Ford,Mustang
+1ZVHT84_8,2008,Ford,Mustang
+1ZVHT80_9,2009,Ford,Mustang
+1ZVBP8E_A,2010,Ford,Mustang
+1ZVBP8F_A,2010,Ford,Mustang
+1ZVBP8C_B,2011,Ford,Mustang
+1ZVBP8F_B,2011,Ford,Mustang
+1ZVBP8A_C,2012,Ford,Mustang
+1ZVBP8E_C,2012,Ford,Mustang
+1ZVBP8A_D,2013,Ford,Mustang
+1ZVBP8C_D,2013,Ford,Mustang
+1ZVBP8E_D,2013,Ford,Mustang
+1ZVBP8J_D,2013,Ford,Mustang
+1ZVBP8C_E,2014,Ford,Mustang
+1ZVBP8E_E,2014,Ford,Mustang
+1FA6P8C_F,2015,Ford,Mustang
+1FA6P8T_F,2015,Ford,Mustang
+1FA6P8A_G,2016,Ford,Mustang
+1FA6P8C_G,2016,Ford,Mustang
+1FA6P8T_G,2016,Ford,Mustang
+1FATP8E_G,2016,Ford,Mustang
+1FTCR14_R,1994,Ford,Ranger
+1FTCR10_T,1996,Ford,Ranger
+1FTCR14_T,1996,Ford,Ranger
+1FTCR10_V,1997,Ford,Ranger
+1FTDR15_V,1997,Ford,Ranger
+1FTYR10_X,1999,Ford,Ranger
+1FTYR14_X,1999,Ford,Ranger
+1FTYR10_Y,2000,Ford,Ranger
+1FTYR14_Y,2000,Ford,Ranger
+1FTZR15_Y,2000,Ford,Ranger
+1FTYR10_1,2001,Ford,Ranger
+1FTYR14_1,2001,Ford,Ranger
+1FTYR10_2,2002,Ford,Ranger
+1FTYR44_2,2002,Ford,Ranger
+1FTZR45_2,2002,Ford,Ranger
+1FTYR10_3,2003,Ford,Ranger
+1FTYR14_3,2003,Ford,Ranger
+1FTYR44_3,2003,Ford,Ranger
+1FTZR45_3,2003,Ford,Ranger
+1FTYR10_4,2004,Ford,Ranger
+1FTYR14_4,2004,Ford,Ranger
+1FTYR15_4,2004,Ford,Ranger
+1FTYR44_4,2004,Ford,Ranger
+1FTZR45_4,2004,Ford,Ranger
+1FTYR10_5,2005,Ford,Ranger
+1FTYR14_5,2005,Ford,Ranger
+1FTYR44_5,2005,Ford,Ranger
+1FTZR45_5,2005,Ford,Ranger
+1FTYR10_6,2006,Ford,Ranger
+1FTZR15_6,2006,Ford,Ranger
+1FTYR14_7,2007,Ford,Ranger
+1FTYR44_7,2007,Ford,Ranger
+1FTYR14_8,2008,Ford,Ranger
+1FTYR44_8,2008,Ford,Ranger
+1FTYR10_9,2009,Ford,Ranger
+1FTZR15_9,2009,Ford,Ranger
+1FTZR45_9,2009,Ford,Ranger
+1FTKR1E_A,2010,Ford,Ranger
+1FTKR1A_B,2011,Ford,Ranger
+1FALP54_V,1997,Ford,Taurus
+1FALP57_V,1997,Ford,Taurus
+1FAFP52_W,1998,Ford,Taurus
+1FAFP55_Y,2000,Ford,Taurus
+1FAFP55_1,2001,Ford,Taurus
+1FAHP53_1,2001,Ford,Taurus
+1FAFP52_2,2002,Ford,Taurus
+1FAFP55_2,2002,Ford,Taurus
+1FAFP56_2,2002,Ford,Taurus
+1FAFP53_3,2003,Ford,Taurus
+1FAFP55_3,2003,Ford,Taurus
+1FAHP56_3,2003,Ford,Taurus
+1FAFP53_4,2004,Ford,Taurus
+1FAFP55_4,2004,Ford,Taurus
+1FAFP58_4,2004,Ford,Taurus
+1FAFP56_5,2005,Ford,Taurus
+1FAHP53_5,2005,Ford,Taurus
+1FAFP53_6,2006,Ford,Taurus
+1FAFP56_6,2006,Ford,Taurus
+1FAHP53_6,2006,Ford,Taurus
+1FAFP53_7,2007,Ford,Taurus
+1FAFP56_7,2007,Ford,Taurus
+1FAHP24_8,2008,Ford,Taurus
+1FAHP28_8,2008,Ford,Taurus
+1FAHP2E_A,2010,Ford,Taurus
+1FAHP2F_A,2010,Ford,Taurus
+1FAHP2E_D,2013,Ford,Taurus
+1FAHP2F_D,2013,Ford,Taurus
+1FMDK02_8,2008,Ford,Taurus X
+1FABP64_H,1987,Ford,Thunderbird
+1FALP62_V,1997,Ford,Thunderbird
+1FAHP60_2,2002,Ford,Thunderbird
+1FAHP60_3,2003,Ford,Thunderbird
+1FTNR1Z_F,2015,Ford,Transit
+1FTSW2X_F,2015,Ford,Transit
+1FTYR1C_G,2016,Ford,Transit
+NM0LS6A_A,2010,Ford,Transit Connect
+NM0LS7C_A,2010,Ford,Transit Connect
+NM0LS7B_B,2011,Ford,Transit Connect
+NM0LS7A_C,2012,Ford,Transit Connect
+2FMDA51_Y,2000,Ford,Windstar
+2FMZA51_1,2001,Ford,Windstar
+WDYPE74_7,2007,Freightliner,Sprinter
+1GKER13_7,2007,GMC,Acadia
+1GKER23_7,2007,GMC,Acadia
+1GKER33_7,2007,GMC,Acadia
+1GKEV13_7,2007,GMC,Acadia
+1GKEV23_7,2007,GMC,Acadia
+1GKEV33_7,2007,GMC,Acadia
+1GKER13_8,2008,GMC,Acadia
+1GKER23_8,2008,GMC,Acadia
+1GKER33_8,2008,GMC,Acadia
+1GKEV33_8,2008,GMC,Acadia
+1GKER33_9,2009,GMC,Acadia
+1GKLRME_A,2010,GMC,Acadia
+1GKLVNE_A,2010,GMC,Acadia
+1GKKRNE_B,2011,GMC,Acadia
+1GKKRPE_B,2011,GMC,Acadia
+1GKKRRE_B,2011,GMC,Acadia
+1GKKVSE_B,2011,GMC,Acadia
+1GKKVTE_B,2011,GMC,Acadia
+1GKKRTE_C,2012,GMC,Acadia
+1GKKRRK_D,2013,GMC,Acadia
+1GKKRTK_D,2013,GMC,Acadia
+1GKKVTK_D,2013,GMC,Acadia
+1GKKRRK_E,2014,GMC,Acadia
+1GKKRSK_E,2014,GMC,Acadia
+1GKKRPK_F,2015,GMC,Acadia
+1GKKRRK_F,2015,GMC,Acadia
+1GKKRRK_G,2016,GMC,Acadia
+1GKKVNE_G,2016,GMC,Acadia
+1GKKVRK_G,2016,GMC,Acadia
+1GTDT19_4,2004,GMC,Canyon
+1GTCS14_6,2006,GMC,Canyon
+1GTCS19_6,2006,GMC,Canyon
+1GTJSCD_A,2010,GMC,Canyon
+1GTD5MF_B,2011,GMC,Canyon
+1GTJ6LF_C,2012,GMC,Canyon
+1GTG5BE_F,2015,GMC,Canyon
+1GKDS13_2,2002,GMC,Envoy
+1GKES16_2,2002,GMC,Envoy
+1GKDS13_3,2003,GMC,Envoy
+1GKET16_3,2003,GMC,Envoy
+1GKDT13_4,2004,GMC,Envoy
+1GKES16_4,2004,GMC,Envoy
+1GKES16_5,2005,GMC,Envoy
+1GKET16_5,2005,GMC,Envoy
+1GKDS13_6,2006,GMC,Envoy
+1GKES16_6,2006,GMC,Envoy
+1GKET66_6,2006,GMC,Envoy
+1GKDS13_7,2007,GMC,Envoy
+1GKDT13_7,2007,GMC,Envoy
+1GKET63_7,2007,GMC,Envoy
+1GKES63_8,2008,GMC,Envoy
+1GKET63_8,2008,GMC,Envoy
+1GKCS13_T,1996,GMC,Jimmy
+1GDDM19_X,1999,GMC,Safari
+1GDHG31_W,1998,GMC,Savana
+1GJZGPD_A,2010,GMC,Savana
+1GTEK14_X,1999,GMC,Sierra 1500
+1GTEC14_Y,2000,GMC,Sierra 1500
+1GTEK14_Y,2000,GMC,Sierra 1500
+1GTEK19_Y,2000,GMC,Sierra 1500
+2GTEK19_Y,2000,GMC,Sierra 1500
+2GTEC19_1,2001,GMC,Sierra 1500
+2GTEK19_1,2001,GMC,Sierra 1500
+1GTEK19_2,2002,GMC,Sierra 1500
+1GTEC19_3,2003,GMC,Sierra 1500
+1GTEK19_3,2003,GMC,Sierra 1500
+2GTEC19_4,2004,GMC,Sierra 1500
+2GTEK13_4,2004,GMC,Sierra 1500
+2GTEK19_4,2004,GMC,Sierra 1500
+1GTEK19_5,2005,GMC,Sierra 1500
+2GTEK13_5,2005,GMC,Sierra 1500
+2GTEK19_5,2005,GMC,Sierra 1500
+1GTEC14_6,2006,GMC,Sierra 1500
+1GTEC19_6,2006,GMC,Sierra 1500
+2GTEC13_6,2006,GMC,Sierra 1500
+2GTEK19_6,2006,GMC,Sierra 1500
+1GTEC14_7,2007,GMC,Sierra 1500
+1GTEC19_7,2007,GMC,Sierra 1500
+2GTEC13_7,2007,GMC,Sierra 1500
+2GTEK19_7,2007,GMC,Sierra 1500
+2GTFK13_7,2007,GMC,Sierra 1500
+1GTEC14_8,2008,GMC,Sierra 1500
+1GTEC19_8,2008,GMC,Sierra 1500
+1GTEK19_8,2008,GMC,Sierra 1500
+2GTEC13_8,2008,GMC,Sierra 1500
+2GTEK19_8,2008,GMC,Sierra 1500
+3GTEC13_8,2008,GMC,Sierra 1500
+3GTEK13_8,2008,GMC,Sierra 1500
+1GTEK19_9,2009,GMC,Sierra 1500
+3GTEC23_9,2009,GMC,Sierra 1500
+3GTEK23_9,2009,GMC,Sierra 1500
+1GTSCVE_A,2010,GMC,Sierra 1500
+3GTRKUE_A,2010,GMC,Sierra 1500
+3GTRKVE_A,2010,GMC,Sierra 1500
+3GTRKWE_A,2010,GMC,Sierra 1500
+1GTR1VE_B,2011,GMC,Sierra 1500
+1GTR2TE_B,2011,GMC,Sierra 1500
+3GTP1VE_B,2011,GMC,Sierra 1500
+3GTP2WE_B,2011,GMC,Sierra 1500
+3GTP1VE_C,2012,GMC,Sierra 1500
+3GTP2XE_C,2012,GMC,Sierra 1500
+1GTR1VE_D,2013,GMC,Sierra 1500
+3GTP1VE_D,2013,GMC,Sierra 1500
+3GTP2VE_D,2013,GMC,Sierra 1500
+1GTV2UE_E,2014,GMC,Sierra 1500
+1GTV2VE_E,2014,GMC,Sierra 1500
+3GTP1VE_E,2014,GMC,Sierra 1500
+3GTU2VE_E,2014,GMC,Sierra 1500
+1GTN1TE_F,2015,GMC,Sierra 1500
+1GTR1UE_F,2015,GMC,Sierra 1500
+3GTU2UE_F,2015,GMC,Sierra 1500
+3GTU2WE_F,2015,GMC,Sierra 1500
+3GTU2ME_G,2016,GMC,Sierra 1500
+1GTGK13_3,2003,GMC,Sierra 1500HD
+1GTGK13_6,2006,GMC,Sierra 1500HD
+1GTHK23_2,2002,GMC,Sierra 2500HD
+1GTHC23_3,2003,GMC,Sierra 2500HD
+1GTHC29_4,2004,GMC,Sierra 2500HD
+1GTHC23_5,2005,GMC,Sierra 2500HD
+1GTHK23_5,2005,GMC,Sierra 2500HD
+1GTHK23_6,2006,GMC,Sierra 2500HD
+1GTHK53_9,2009,GMC,Sierra 2500HD
+1GT120C_B,2011,GMC,Sierra 2500HD
+1GT121E_C,2012,GMC,Sierra 2500HD
+1GT125E_D,2013,GMC,Sierra 2500HD
+1GTHC33_W,1998,GMC,Sierra 3500
+1GTJK33_7,2007,GMC,Sierra 3500
+1GTHK33_8,2008,GMC,Sierra 3500HD
+1GTCT19_1,2001,GMC,Sonoma
+1GKFK16_X,1999,GMC,Suburban
+2CTALBE_A,2010,GMC,Terrain
+2CTALFE_A,2010,GMC,Terrain
+2CTFLFE_A,2010,GMC,Terrain
+2CTFLXE_B,2011,GMC,Terrain
+2GKALME_C,2012,GMC,Terrain
+2GKALUE_C,2012,GMC,Terrain
+2GKALWE_C,2012,GMC,Terrain
+2GKALME_D,2013,GMC,Terrain
+2GKALSE_D,2013,GMC,Terrain
+2GKALWE_D,2013,GMC,Terrain
+2GKFLVE_D,2013,GMC,Terrain
+2GKFLZE_D,2013,GMC,Terrain
+2GKALSE_E,2014,GMC,Terrain
+2GKALME_F,2015,GMC,Terrain
+2GKFLTE_F,2015,GMC,Terrain
+2GKALPE_G,2016,GMC,Terrain
+2GKFLPE_G,2016,GMC,Terrain
+2GKFLUE_G,2016,GMC,Terrain
+1GKEC13_1,2001,GMC,Yukon
+1GKEK13_1,2001,GMC,Yukon
+1GKEK63_3,2003,GMC,Yukon
+1GKEC13_4,2004,GMC,Yukon
+1GKEK13_4,2004,GMC,Yukon
+1GKEK63_4,2004,GMC,Yukon
+1GKEC13_5,2005,GMC,Yukon
+1GKEK63_6,2006,GMC,Yukon
+1GKFC13_7,2007,GMC,Yukon
+1GKFK13_7,2007,GMC,Yukon
+1GKFK63_7,2007,GMC,Yukon
+1GKFK13_8,2008,GMC,Yukon
+1GKUCEE_A,2010,GMC,Yukon
+1GKUKEE_A,2010,GMC,Yukon
+1GKS2AE_B,2011,GMC,Yukon
+1GKS1AE_C,2012,GMC,Yukon
+1GKS2EE_D,2013,GMC,Yukon
+1GKS1BK_F,2015,GMC,Yukon
+3GKFK16_2,2002,GMC,Yukon XL
+1GKFK66_3,2003,GMC,Yukon XL
+3GKFK16_3,2003,GMC,Yukon XL
+3GKEC16_4,2004,GMC,Yukon XL
+1GKFK16_5,2005,GMC,Yukon XL
+1GKFK66_5,2005,GMC,Yukon XL
+1GKEC16_6,2006,GMC,Yukon XL
+1GKFC16_7,2007,GMC,Yukon XL
+1GKFK66_7,2007,GMC,Yukon XL
+1GKFC66_8,2008,GMC,Yukon XL
+1GKFK66_8,2008,GMC,Yukon XL
+1GKUKKE_A,2010,GMC,Yukon XL
+1GKS2LE_C,2012,GMC,Yukon XL
+1HGCD56_S,1995,Honda,Accord
+1HGCD56_T,1996,Honda,Accord
+1HGCG16_W,1998,Honda,Accord
+1HGCG56_W,1998,Honda,Accord
+1HGCG56_X,1999,Honda,Accord
+1HGCG16_Y,2000,Honda,Accord
+1HGCG16_2,2002,Honda,Accord
+1HGCG56_2,2002,Honda,Accord
+1HGCG66_2,2002,Honda,Accord
+1HGCM55_3,2003,Honda,Accord
+1HGCM56_3,2003,Honda,Accord
+1HGCM66_3,2003,Honda,Accord
+1HGCM82_3,2003,Honda,Accord
+3HGCM56_3,2003,Honda,Accord
+1HGCM55_4,2004,Honda,Accord
+1HGCM56_4,2004,Honda,Accord
+1HGCM66_4,2004,Honda,Accord
+1HGCM72_4,2004,Honda,Accord
+1HGCM81_4,2004,Honda,Accord
+3HGCM56_4,2004,Honda,Accord
+1HGCM55_5,2005,Honda,Accord
+1HGCM56_5,2005,Honda,Accord
+1HGCM66_5,2005,Honda,Accord
+1HGCM72_5,2005,Honda,Accord
+1HGCM82_5,2005,Honda,Accord
+1HGCM56_6,2006,Honda,Accord
+1HGCM66_6,2006,Honda,Accord
+1HGCM72_6,2006,Honda,Accord
+1HGCM82_6,2006,Honda,Accord
+3HGCM56_6,2006,Honda,Accord
+JHMCM56_6,2006,Honda,Accord
+JHMCN36_6,2006,Honda,Accord
+1HGCM56_7,2007,Honda,Accord
+1HGCM66_7,2007,Honda,Accord
+1HGCM72_7,2007,Honda,Accord
+1HGCM82_7,2007,Honda,Accord
+3HGCM56_7,2007,Honda,Accord
+JHMCM56_7,2007,Honda,Accord
+JHMCN36_7,2007,Honda,Accord
+1HGCP26_8,2008,Honda,Accord
+1HGCP36_8,2008,Honda,Accord
+1HGCS11_8,2008,Honda,Accord
+1HGCS12_8,2008,Honda,Accord
+JHMCP26_8,2008,Honda,Accord
+1HGCP26_9,2009,Honda,Accord
+1HGCP36_9,2009,Honda,Accord
+1HGCS12_9,2009,Honda,Accord
+1HGCS22_9,2009,Honda,Accord
+1HGCP2F_A,2010,Honda,Accord
+1HGCS1B_A,2010,Honda,Accord
+1HGCS2A_A,2010,Honda,Accord
+5KBCP3F_A,2010,Honda,Accord
+1HGCP2F_B,2011,Honda,Accord
+1HGCP3F_B,2011,Honda,Accord
+1HGCS1B_B,2011,Honda,Accord
+1HGCP2F_C,2012,Honda,Accord
+1HGCS1A_C,2012,Honda,Accord
+1HGCS1B_C,2012,Honda,Accord
+1HGCR2F_D,2013,Honda,Accord
+1HGCR3F_D,2013,Honda,Accord
+1HGCR2F_E,2014,Honda,Accord
+1HGCR3F_E,2014,Honda,Accord
+1HGCR2F_F,2015,Honda,Accord
+1HGCR2F_G,2016,Honda,Accord
+5J6TF1H_A,2010,Honda,Accord Crosstour
+5J6TF1H_C,2012,Honda,Accord Crosstour
+5J6TF3H_C,2012,Honda,Accord Crosstour
+5J6TF2H_D,2013,Honda,Accord Crosstour
+5J6TF2H_E,2014,Honda,Accord Crosstour
+JHLRD18_V,1997,Honda,CR-V
+JHLRD18_W,1998,Honda,CR-V
+JHLRD28_X,1999,Honda,CR-V
+JHLRD18_Y,2000,Honda,CR-V
+JHLRD18_1,2001,Honda,CR-V
+JHLRD28_1,2001,Honda,CR-V
+JHLRD68_2,2002,Honda,CR-V
+JHLRD78_2,2002,Honda,CR-V
+SHSRD68_3,2003,Honda,CR-V
+SHSRD78_3,2003,Honda,CR-V
+SHSRD68_4,2004,Honda,CR-V
+SHSRD78_4,2004,Honda,CR-V
+JHLRD68_5,2005,Honda,CR-V
+JHLRD68_6,2006,Honda,CR-V
+JHLRD78_6,2006,Honda,CR-V
+5J6RE48_7,2007,Honda,CR-V
+JHLRE38_7,2007,Honda,CR-V
+JHLRE48_7,2007,Honda,CR-V
+3CZRE38_8,2008,Honda,CR-V
+5J6RE38_8,2008,Honda,CR-V
+5J6RE48_8,2008,Honda,CR-V
+JHLRE48_8,2008,Honda,CR-V
+5J6RE38_9,2009,Honda,CR-V
+5J6RE48_9,2009,Honda,CR-V
+JHLRE38_9,2009,Honda,CR-V
+3CZRE3H_A,2010,Honda,CR-V
+5J6RE4H_A,2010,Honda,CR-V
+JHLRE3H_A,2010,Honda,CR-V
+3CZRE3H_B,2011,Honda,CR-V
+3CZRE4H_B,2011,Honda,CR-V
+5J6RE3H_B,2011,Honda,CR-V
+5J6RE4H_B,2011,Honda,CR-V
+JHLRE3H_B,2011,Honda,CR-V
+JHLRE4H_B,2011,Honda,CR-V
+5J6RM3H_C,2012,Honda,CR-V
+5J6RM4H_C,2012,Honda,CR-V
+JHLRM3H_C,2012,Honda,CR-V
+2HKRM4H_D,2013,Honda,CR-V
+5J6RM3H_D,2013,Honda,CR-V
+5J6RM4H_D,2013,Honda,CR-V
+2HKRM4H_E,2014,Honda,CR-V
+3CZRM3H_E,2014,Honda,CR-V
+5J6RM3H_E,2014,Honda,CR-V
+5J6RM4H_E,2014,Honda,CR-V
+3CZRM3H_F,2015,Honda,CR-V
+5J6RM4H_F,2015,Honda,CR-V
+2HKRM3H_G,2016,Honda,CR-V
+JHMEC46_H,1987,Honda,Civic
+1HGEJ82_T,1996,Honda,Civic
+1HGEJ66_Y,2000,Honda,Civic
+2HGEJ66_Y,2000,Honda,Civic
+1HGEM21_1,2001,Honda,Civic
+1HGEM22_1,2001,Honda,Civic
+1HGES16_1,2001,Honda,Civic
+1HGES25_1,2001,Honda,Civic
+2HGES26_1,2001,Honda,Civic
+JHMES16_1,2001,Honda,Civic
+1HGEM21_2,2002,Honda,Civic
+1HGEM22_2,2002,Honda,Civic
+1HGES26_2,2002,Honda,Civic
+2HGES15_2,2002,Honda,Civic
+2HGES16_2,2002,Honda,Civic
+2HGES26_2,2002,Honda,Civic
+1HGEM21_3,2003,Honda,Civic
+1HGEM22_3,2003,Honda,Civic
+1HGES25_3,2003,Honda,Civic
+1HGES26_3,2003,Honda,Civic
+2HGES16_3,2003,Honda,Civic
+2HGES26_3,2003,Honda,Civic
+JHMES96_3,2003,Honda,Civic
+1HGEM21_4,2004,Honda,Civic
+1HGEM22_4,2004,Honda,Civic
+1HGES16_4,2004,Honda,Civic
+2HGES16_4,2004,Honda,Civic
+2HGES26_4,2004,Honda,Civic
+1HGES16_5,2005,Honda,Civic
+2HGES16_5,2005,Honda,Civic
+JHMES96_5,2005,Honda,Civic
+1HGFA16_6,2006,Honda,Civic
+2HGFG11_6,2006,Honda,Civic
+2HGFG12_6,2006,Honda,Civic
+1HGFA16_7,2007,Honda,Civic
+2HGFG12_7,2007,Honda,Civic
+2HGFG21_7,2007,Honda,Civic
+JHMFA36_7,2007,Honda,Civic
+1HGFA16_8,2008,Honda,Civic
+2HGFA15_8,2008,Honda,Civic
+2HGFA16_8,2008,Honda,Civic
+2HGFA55_8,2008,Honda,Civic
+2HGFG11_8,2008,Honda,Civic
+2HGFG12_8,2008,Honda,Civic
+JHMFA36_8,2008,Honda,Civic
+19XFA16_9,2009,Honda,Civic
+1HGFA16_9,2009,Honda,Civic
+2HGFA16_9,2009,Honda,Civic
+2HGFG12_9,2009,Honda,Civic
+JHMFA36_9,2009,Honda,Civic
+19XFA1F_A,2010,Honda,Civic
+2HGFA1F_A,2010,Honda,Civic
+2HGFG1B_A,2010,Honda,Civic
+2HGFG1B_B,2011,Honda,Civic
+19XFB2F_C,2012,Honda,Civic
+2HGFB2F_C,2012,Honda,Civic
+2HGFG3B_C,2012,Honda,Civic
+19XFB2F_D,2013,Honda,Civic
+2HGFB2F_D,2013,Honda,Civic
+2HGFB6E_D,2013,Honda,Civic
+19XFB2F_E,2014,Honda,Civic
+2HGFB6E_E,2014,Honda,Civic
+2HGFG3B_E,2014,Honda,Civic
+19XFB2F_F,2015,Honda,Civic
+19XFB4F_F,2015,Honda,Civic
+2HGFB2F_F,2015,Honda,Civic
+2HGFG3B_F,2015,Honda,Civic
+5J6YH28_3,2003,Honda,Element
+5J6YH28_4,2004,Honda,Element
+5J6YH18_5,2005,Honda,Element
+5J6YH28_5,2005,Honda,Element
+5J6YH18_6,2006,Honda,Element
+5J6YH28_6,2006,Honda,Element
+5J6YH18_7,2007,Honda,Element
+5J6YH28_9,2009,Honda,Element
+5J6YH1H_A,2010,Honda,Element
+5J6YH2H_B,2011,Honda,Element
+JHMGD38_7,2007,Honda,Fit
+JHMGD38_8,2008,Honda,Fit
+JHMGE8H_A,2010,Honda,Fit
+JHMGE8H_D,2013,Honda,Fit
+JHMZE2H_C,2012,Honda,Insight
+2HKRL18_X,1999,Honda,Odyssey
+2HKRL18_Y,2000,Honda,Odyssey
+5FNRL18_3,2003,Honda,Odyssey
+5FNRL18_4,2004,Honda,Odyssey
+5FNRL38_5,2005,Honda,Odyssey
+5FNRL38_6,2006,Honda,Odyssey
+5FNRL38_7,2007,Honda,Odyssey
+5FNRL38_8,2008,Honda,Odyssey
+5FNRL3H_A,2010,Honda,Odyssey
+5FNRL5H_B,2011,Honda,Odyssey
+5FNRL5H_C,2012,Honda,Odyssey
+5FNRL5H_D,2013,Honda,Odyssey
+5FNRL5H_E,2014,Honda,Odyssey
+2HKYF18_3,2003,Honda,Pilot
+2HKYF18_4,2004,Honda,Pilot
+2HKYF18_5,2005,Honda,Pilot
+5FNYF18_5,2005,Honda,Pilot
+2HKYF18_6,2006,Honda,Pilot
+5FNYF18_6,2006,Honda,Pilot
+5FNYF28_6,2006,Honda,Pilot
+5FNYF18_7,2007,Honda,Pilot
+5FNYF28_7,2007,Honda,Pilot
+5FNYF18_8,2008,Honda,Pilot
+5FNYF28_8,2008,Honda,Pilot
+5FNYF38_9,2009,Honda,Pilot
+5FNYF3H_A,2010,Honda,Pilot
+5FNYF3H_B,2011,Honda,Pilot
+5FNYF4H_B,2011,Honda,Pilot
+5FNYF4H_C,2012,Honda,Pilot
+5FNYF4H_E,2014,Honda,Pilot
+5FNYF3H_F,2015,Honda,Pilot
+5FNYF4H_F,2015,Honda,Pilot
+2HJYK16_6,2006,Honda,Ridgeline
+2HJYK16_7,2007,Honda,Ridgeline
+2HJYK16_8,2008,Honda,Ridgeline
+5FPYK2F_H,2017,Honda,Ridgeline
+JHMAP11_2,2002,Honda,S2000
+5GRGN23_3,2003,Hummer,H2
+5GRGN23_4,2004,Hummer,H2
+5GRGN23_5,2005,Hummer,H2
+5GTDN13_6,2006,Hummer,H3
+5GTDN13_7,2007,Hummer,H3
+5GTEN13_8,2008,Hummer,H3
+5GTEN13_9,2009,Hummer,H3
+KMHCF35_2,2002,Hyundai,Accent
+KMHCG45_3,2003,Hyundai,Accent
+KMHCG35_5,2005,Hyundai,Accent
+KMHCM36_7,2007,Hyundai,Accent
+KMHCM36_9,2009,Hyundai,Accent
+KMHCM46_9,2009,Hyundai,Accent
+KMHCN46_9,2009,Hyundai,Accent
+KMHCN4A_A,2010,Hyundai,Accent
+KMHCU4A_C,2012,Hyundai,Accent
+KMHCT4A_D,2013,Hyundai,Accent
+KMHCU5A_D,2013,Hyundai,Accent
+KMHCT4A_E,2014,Hyundai,Accent
+KMHCT4A_G,2016,Hyundai,Accent
+KMHDN45_2,2002,Hyundai,Elantra
+KMHDN46_4,2004,Hyundai,Elantra
+KMHDN46_5,2005,Hyundai,Elantra
+KMHDU46_7,2007,Hyundai,Elantra
+KMHDU46_8,2008,Hyundai,Elantra
+KMHDU46_9,2009,Hyundai,Elantra
+KMHDB8A_A,2010,Hyundai,Elantra
+KMHDB8A_B,2011,Hyundai,Elantra
+KMHDH4A_B,2011,Hyundai,Elantra
+5NPDH4A_D,2013,Hyundai,Elantra
+KMHDH4A_D,2013,Hyundai,Elantra
+KMHDH6A_D,2013,Hyundai,Elantra
+KMHD35L_E,2014,Hyundai,Elantra
+5NPDH4A_F,2015,Hyundai,Elantra
+KMHD35L_F,2015,Hyundai,Elantra
+5NPDH4A_G,2016,Hyundai,Elantra
+KMHD35L_G,2016,Hyundai,Elantra
+KMHDH4A_G,2016,Hyundai,Elantra
+KNDMC23_7,2007,Hyundai,Entourage
+KMHGH4J_E,2014,Hyundai,Equus
+KMHHT6K_A,2010,Hyundai,Genesis
+KMHHU6K_A,2010,Hyundai,Genesis
+KMHGC4D_B,2011,Hyundai,Genesis
+KMHGC4D_C,2012,Hyundai,Genesis
+KMHHT6K_C,2012,Hyundai,Genesis
+KMHGC4D_D,2013,Hyundai,Genesis
+KMHHT6K_D,2013,Hyundai,Genesis
+KMHGC4D_E,2014,Hyundai,Genesis
+KM8SC13_2,2002,Hyundai,Santa Fe
+KM8SB12_3,2003,Hyundai,Santa Fe
+KM8SC13_3,2003,Hyundai,Santa Fe
+KM8SB12_4,2004,Hyundai,Santa Fe
+KM8SC73_6,2006,Hyundai,Santa Fe
+5NMSG13_7,2007,Hyundai,Santa Fe
+5NMSG73_7,2007,Hyundai,Santa Fe
+5NMSH13_7,2007,Hyundai,Santa Fe
+KM8SG73_7,2007,Hyundai,Santa Fe
+5NMSG13_8,2008,Hyundai,Santa Fe
+5NMSG13_9,2009,Hyundai,Santa Fe
+5NMSH73_9,2009,Hyundai,Santa Fe
+5NMSG3A_A,2010,Hyundai,Santa Fe
+5NMSHDA_A,2010,Hyundai,Santa Fe
+5NMSK3A_A,2010,Hyundai,Santa Fe
+5XYZK4A_B,2011,Hyundai,Santa Fe
+5XYZG3A_C,2012,Hyundai,Santa Fe
+KM8SN4H_D,2013,Hyundai,Santa Fe
+5XYZT3L_E,2014,Hyundai,Santa Fe
+5XYZT3L_F,2015,Hyundai,Santa Fe
+5XYZTDL_G,2016,Hyundai,Santa Fe
+KMHWF35_Y,2000,Hyundai,Sonata
+KMHWF35_1,2001,Hyundai,Sonata
+KMHWF25_3,2003,Hyundai,Sonata
+KMHWF35_4,2004,Hyundai,Sonata
+KMHWF25_5,2005,Hyundai,Sonata
+KMHWF35_5,2005,Hyundai,Sonata
+5NPEU46_6,2006,Hyundai,Sonata
+KMHEU46_6,2006,Hyundai,Sonata
+5NPET46_7,2007,Hyundai,Sonata
+5NPET46_9,2009,Hyundai,Sonata
+5NPEU46_9,2009,Hyundai,Sonata
+5NPET4A_A,2010,Hyundai,Sonata
+5NPEB4A_B,2011,Hyundai,Sonata
+5NPEC4A_B,2011,Hyundai,Sonata
+5NPEB4A_C,2012,Hyundai,Sonata
+5NPEC4A_C,2012,Hyundai,Sonata
+5NPEB4A_D,2013,Hyundai,Sonata
+5NPEC4A_D,2013,Hyundai,Sonata
+5NPEB4A_E,2014,Hyundai,Sonata
+5NPE24A_F,2015,Hyundai,Sonata
+5NPE34A_F,2015,Hyundai,Sonata
+5NPE24A_G,2016,Hyundai,Sonata
+KMHHN65_6,2006,Hyundai,Tiburon
+KMHHM66_7,2007,Hyundai,Tiburon
+KMHHM66_8,2008,Hyundai,Tiburon
+KM8JU3A_B,2011,Hyundai,Tucson
+KM8JUCA_B,2011,Hyundai,Tucson
+KM8JU3A_D,2013,Hyundai,Tucson
+KM8JU3A_E,2014,Hyundai,Tucson
+KM8JU3A_F,2015,Hyundai,Tucson
+KMHTC6A_D,2013,Hyundai,Veloster
+KMHTC6A_F,2015,Hyundai,Veloster
+KMHTC6A_G,2016,Hyundai,Veloster
+KMHFU45_2,2002,Hyundai,XG350
+KMHFU45_4,2004,Hyundai,XG350
+KMHFU45_5,2005,Hyundai,XG350
+JNKAJ09_8,2008,Infiniti,EX35
+JN1AJ0H_B,2011,Infiniti,EX35
+JNRAS08_4,2004,Infiniti,FX35
+JNRAS08_5,2005,Infiniti,FX35
+JNRAS08_6,2006,Infiniti,FX35
+JNRAS08_7,2007,Infiniti,FX35
+JNRBS08_8,2008,Infiniti,FX45
+JNKCV64_8,2008,Infiniti,G
+JN1CV6A_C,2012,Infiniti,G
+JNKCV51_3,2003,Infiniti,G35
+JNKCV54_3,2003,Infiniti,G35
+JNKCV51_4,2004,Infiniti,G35
+JNKCV54_4,2004,Infiniti,G35
+JNKCV51_5,2005,Infiniti,G35
+JNKCV54_5,2005,Infiniti,G35
+JNKCV51_6,2006,Infiniti,G35
+JNKCV54_6,2006,Infiniti,G35
+JNKBV61_7,2007,Infiniti,G35
+JNKCV54_7,2007,Infiniti,G35
+JNKBV61_8,2008,Infiniti,G35
+JNKCV64_8,2008,Infiniti,G37
+JNKCV61_9,2009,Infiniti,G37
+JN1CV6A_A,2010,Infiniti,G37
+JN1CV6E_A,2010,Infiniti,G37
+JN1CV6A_C,2012,Infiniti,G37
+JNKDA31_3,2003,Infiniti,I
+JNKDA31_2,2002,Infiniti,I35
+JNKAY01_6,2006,Infiniti,M35
+JNKAY01_7,2007,Infiniti,M35
+JNKAY01_8,2008,Infiniti,M35
+JN1BY1A_C,2012,Infiniti,M37
+JN1BV7A_E,2014,Infiniti,Q50
+5N3AA08_5,2005,Infiniti,QX56
+5N3AA08_8,2008,Infiniti,QX56
+JN8AZ2N_B,2011,Infiniti,QX56
+JN8AZ2N_C,2012,Infiniti,QX56
+5N1AL0M_E,2014,Infiniti,QX60
+5N1AL0M_F,2015,Infiniti,QX60
+JN8CS1M_F,2015,Infiniti,QX70
+JN8CS1M_G,2016,Infiniti,QX70
+JN8AZ2N_E,2014,Infiniti,QX80
+JN8AZ2N_F,2015,Infiniti,QX80
+4S2CK58_1,2001,Isuzu,Rodeo
+4S2CK58_2,2002,Isuzu,Rodeo
+4S2CK58_3,2003,Isuzu,Rodeo
+4S2CK57_2,2002,Isuzu,Rodeo Sport
+JACDJ58_1,2001,Isuzu,Trooper
+SAJWA6F_E,2014,Jaguar,F-Type
+SAJDA01_Y,2000,Jaguar,S-Type
+SAJDA01_1,2001,Jaguar,S-Type
+SAJEA01_3,2003,Jaguar,S-Type
+SAJEA01_4,2004,Jaguar,S-Type
+SAJWA01_5,2005,Jaguar,S-Type
+SAJEA51_2,2002,Jaguar,X-Type
+SAJEA51_4,2004,Jaguar,X-Type
+SAJWA51_6,2006,Jaguar,X-Type
+SAJWA05_9,2009,Jaguar,XF
+SAJWA06_9,2009,Jaguar,XF
+SAJWA0F_A,2010,Jaguar,XF
+SAJWA0E_D,2013,Jaguar,XF
+SAJAV13_H,1987,Jaguar,XJ
+SAJHY17_M,1991,Jaguar,XJ
+SAJNX27_S,1995,Jaguar,XJ
+SAJKX62_V,1997,Jaguar,XJ
+SAJPX18_X,1999,Jaguar,XJ
+SAJDA14_Y,2000,Jaguar,XJ
+SAJDA14_1,2001,Jaguar,XJ
+SAJDA24_1,2001,Jaguar,XJ
+SAJDA14_3,2003,Jaguar,XJ
+SAJWA71_4,2004,Jaguar,XJ
+SAJWA2G_D,2013,Jaguar,XJ
+SAJGX20_X,1999,Jaguar,XK
+SAJGX50_X,1999,Jaguar,XK
+SAJDA42_2,2002,Jaguar,XK
+SAJDA42_5,2005,Jaguar,XK
+SAJDA44_7,2007,Jaguar,XK
+1JCCF87_G,1986,Jeep,CJ
+1J4FJ28_L,1990,Jeep,Cherokee
+1J4FJ68_T,1996,Jeep,Cherokee
+1J4FT27_T,1996,Jeep,Cherokee
+1J4FF68_X,1999,Jeep,Cherokee
+1J4FF48_Y,2000,Jeep,Cherokee
+1J4FF48_1,2001,Jeep,Cherokee
+1J4FT48_1,2001,Jeep,Cherokee
+1C4PJLD_E,2014,Jeep,Cherokee
+1C4PJMB_E,2014,Jeep,Cherokee
+1C4PJMD_E,2014,Jeep,Cherokee
+1C4PJLC_F,2015,Jeep,Cherokee
+1C4PJLD_F,2015,Jeep,Cherokee
+1C4PJMC_F,2015,Jeep,Cherokee
+1C4PJLD_G,2016,Jeep,Cherokee
+1J8HG48_6,2006,Jeep,Commander
+1J8HG58_6,2006,Jeep,Commander
+1J8HH48_6,2006,Jeep,Commander
+1J8HG48_8,2008,Jeep,Commander
+1J8HH58_9,2009,Jeep,Commander
+1J8FF47_7,2007,Jeep,Compass
+1J8FT47_7,2007,Jeep,Compass
+1J8FT47_8,2008,Jeep,Compass
+1J4FT47_9,2009,Jeep,Compass
+1C4NJCB_E,2014,Jeep,Compass
+1C4NJCB_F,2015,Jeep,Compass
+1C4NJDB_F,2015,Jeep,Compass
+1C4NJCB_G,2016,Jeep,Compass
+1J4GZ58_T,1996,Jeep,Grand Cherokee
+1J4FX78_V,1997,Jeep,Grand Cherokee
+1J4G258_X,1999,Jeep,Grand Cherokee
+1J4GW58_X,1999,Jeep,Grand Cherokee
+1J4GW68_X,1999,Jeep,Grand Cherokee
+1J4G248_Y,2000,Jeep,Grand Cherokee
+1J4GW48_Y,2000,Jeep,Grand Cherokee
+1J4GW48_1,2001,Jeep,Grand Cherokee
+1J4GW58_1,2001,Jeep,Grand Cherokee
+1J4GX48_1,2001,Jeep,Grand Cherokee
+1J4GX58_1,2001,Jeep,Grand Cherokee
+1J4GW48_2,2002,Jeep,Grand Cherokee
+1J4GW58_2,2002,Jeep,Grand Cherokee
+1J4GX48_2,2002,Jeep,Grand Cherokee
+1J4GX58_2,2002,Jeep,Grand Cherokee
+1J8GW48_2,2002,Jeep,Grand Cherokee
+1J4GW48_3,2003,Jeep,Grand Cherokee
+1J4GX48_3,2003,Jeep,Grand Cherokee
+1J8GW68_3,2003,Jeep,Grand Cherokee
+1J4GW48_4,2004,Jeep,Grand Cherokee
+1J4GW58_4,2004,Jeep,Grand Cherokee
+1J4GX48_4,2004,Jeep,Grand Cherokee
+1J4GX58_4,2004,Jeep,Grand Cherokee
+1J8GW68_4,2004,Jeep,Grand Cherokee
+1J4GR48_5,2005,Jeep,Grand Cherokee
+1J4GS48_5,2005,Jeep,Grand Cherokee
+1J4HR58_5,2005,Jeep,Grand Cherokee
+1J4HS58_5,2005,Jeep,Grand Cherokee
+1J8HR58_5,2005,Jeep,Grand Cherokee
+1J4GR48_6,2006,Jeep,Grand Cherokee
+1J4GS48_6,2006,Jeep,Grand Cherokee
+1J4HR48_6,2006,Jeep,Grand Cherokee
+1J4HR58_6,2006,Jeep,Grand Cherokee
+1J8HR58_6,2006,Jeep,Grand Cherokee
+1J8HR68_6,2006,Jeep,Grand Cherokee
+1J8GS48_7,2007,Jeep,Grand Cherokee
+1J8HR48_7,2007,Jeep,Grand Cherokee
+1J8GS48_8,2008,Jeep,Grand Cherokee
+1J8HR58_8,2008,Jeep,Grand Cherokee
+1J8HR78_9,2009,Jeep,Grand Cherokee
+1J4PR4G_A,2010,Jeep,Grand Cherokee
+1J4PS4G_A,2010,Jeep,Grand Cherokee
+1J4RR5G_A,2010,Jeep,Grand Cherokee
+1J4RR5G_B,2011,Jeep,Grand Cherokee
+1J4RR6G_B,2011,Jeep,Grand Cherokee
+1J4RS4G_B,2011,Jeep,Grand Cherokee
+1C4RJEA_C,2012,Jeep,Grand Cherokee
+1C4RJFA_C,2012,Jeep,Grand Cherokee
+1C4RJEB_D,2013,Jeep,Grand Cherokee
+1C4RJFA_E,2014,Jeep,Grand Cherokee
+1C4RJFB_E,2014,Jeep,Grand Cherokee
+1C4RJFC_E,2014,Jeep,Grand Cherokee
+1C4RJEB_F,2015,Jeep,Grand Cherokee
+1C4RJFB_F,2015,Jeep,Grand Cherokee
+1C4RJFC_F,2015,Jeep,Grand Cherokee
+1C4RJFJ_F,2015,Jeep,Grand Cherokee
+1C4RJEB_G,2016,Jeep,Grand Cherokee
+1C4RJFB_G,2016,Jeep,Grand Cherokee
+1J4GL48_2,2002,Jeep,Liberty
+1J4GK48_3,2003,Jeep,Liberty
+1J4GK58_3,2003,Jeep,Liberty
+1J4GL38_3,2003,Jeep,Liberty
+1J4GL48_3,2003,Jeep,Liberty
+1J4GL58_3,2003,Jeep,Liberty
+1J8GL48_3,2003,Jeep,Liberty
+1J4GK48_4,2004,Jeep,Liberty
+1J4GK58_4,2004,Jeep,Liberty
+1J4GL48_4,2004,Jeep,Liberty
+1J4GK48_5,2005,Jeep,Liberty
+1J4GK58_5,2005,Jeep,Liberty
+1J4GL38_5,2005,Jeep,Liberty
+1J4GL58_5,2005,Jeep,Liberty
+1J4GL48_6,2006,Jeep,Liberty
+1J4GK48_7,2007,Jeep,Liberty
+1J4GL48_7,2007,Jeep,Liberty
+1J8GN28_8,2008,Jeep,Liberty
+1J8GN58_8,2008,Jeep,Liberty
+1J8GP28_8,2008,Jeep,Liberty
+1J4PN2G_A,2010,Jeep,Liberty
+1J4PP2G_A,2010,Jeep,Liberty
+1J4PN2G_B,2011,Jeep,Liberty
+1C4PJLA_C,2012,Jeep,Liberty
+1J8FF28_8,2008,Jeep,Patriot
+1J8FF48_8,2008,Jeep,Patriot
+1J8FT48_8,2008,Jeep,Patriot
+1J4FT28_9,2009,Jeep,Patriot
+1J4NT2G_A,2010,Jeep,Patriot
+1J4NF1G_B,2011,Jeep,Patriot
+1J4NT1G_B,2011,Jeep,Patriot
+1C4NJPF_C,2012,Jeep,Patriot
+1C4NJRB_C,2012,Jeep,Patriot
+1C4NJPB_E,2014,Jeep,Patriot
+1C4NJPC_E,2014,Jeep,Patriot
+1C4NJPF_E,2014,Jeep,Patriot
+1C4NJRB_E,2014,Jeep,Patriot
+1C4NJRB_F,2015,Jeep,Patriot
+1C4NJPB_G,2016,Jeep,Patriot
+1C4NJRB_G,2016,Jeep,Patriot
+ZACCJAA_F,2015,Jeep,Renegade
+ZACCJAD_G,2016,Jeep,Renegade
+ZACCJBC_G,2016,Jeep,Renegade
+2J4FY49_K,1989,Jeep,Wrangler
+1J4FY19_P,1993,Jeep,Wrangler
+1J4FY19_S,1995,Jeep,Wrangler
+1J4FY29_S,1995,Jeep,Wrangler
+1J4FY19_V,1997,Jeep,Wrangler
+1J4FY29_V,1997,Jeep,Wrangler
+1J4FY19_W,1998,Jeep,Wrangler
+1J4FY49_W,1998,Jeep,Wrangler
+1J4FA29_Y,2000,Jeep,Wrangler
+1J4FA49_Y,2000,Jeep,Wrangler
+1J4FA59_Y,2000,Jeep,Wrangler
+1J4FA39_2,2002,Jeep,Wrangler
+1J4FA49_2,2002,Jeep,Wrangler
+1J4FA59_2,2002,Jeep,Wrangler
+1J4FA59_3,2003,Jeep,Wrangler
+1J4FA69_3,2003,Jeep,Wrangler
+1J4FA39_4,2004,Jeep,Wrangler
+1J4FA49_4,2004,Jeep,Wrangler
+1J4FA59_4,2004,Jeep,Wrangler
+1J4FA29_5,2005,Jeep,Wrangler
+1J4FA39_5,2005,Jeep,Wrangler
+1J4FA49_5,2005,Jeep,Wrangler
+1J4FA69_5,2005,Jeep,Wrangler
+1J4FA39_6,2006,Jeep,Wrangler
+1J4FA44_6,2006,Jeep,Wrangler
+1J4FA49_6,2006,Jeep,Wrangler
+1J4FA64_6,2006,Jeep,Wrangler
+1J4FA24_7,2007,Jeep,Wrangler
+1J4FA54_7,2007,Jeep,Wrangler
+1J4GA59_7,2007,Jeep,Wrangler
+1J4GB39_7,2007,Jeep,Wrangler
+1J4GB59_7,2007,Jeep,Wrangler
+1J4GA39_8,2008,Jeep,Wrangler
+1J4GA59_8,2008,Jeep,Wrangler
+1J8GB59_8,2008,Jeep,Wrangler
+1J4FA24_9,2009,Jeep,Wrangler
+1J8FA54_9,2009,Jeep,Wrangler
+1J8GA59_9,2009,Jeep,Wrangler
+1J4AA2D_A,2010,Jeep,Wrangler
+1J4BA3H_A,2010,Jeep,Wrangler
+1J4AA2D_B,2011,Jeep,Wrangler
+1J4BA3H_B,2011,Jeep,Wrangler
+1J4BA5H_B,2011,Jeep,Wrangler
+1J4BA6H_B,2011,Jeep,Wrangler
+1C4AJWB_C,2012,Jeep,Wrangler
+1C4BJWD_C,2012,Jeep,Wrangler
+1C4BJWE_C,2012,Jeep,Wrangler
+1C4BJWK_C,2012,Jeep,Wrangler
+1C4BJWD_D,2013,Jeep,Wrangler
+1C4BJWE_D,2013,Jeep,Wrangler
+1C4BJWD_E,2014,Jeep,Wrangler
+1C4BJWE_E,2014,Jeep,Wrangler
+1C4GJWA_E,2014,Jeep,Wrangler
+1C4HJWD_E,2014,Jeep,Wrangler
+1C4HJWE_E,2014,Jeep,Wrangler
+1C4BJWD_F,2015,Jeep,Wrangler
+1C4BJWE_F,2015,Jeep,Wrangler
+1C4BJWC_G,2016,Jeep,Wrangler
+1C4BJWD_G,2016,Jeep,Wrangler
+1C4BJWF_G,2016,Jeep,Wrangler
+KNALD12_5,2005,Kia,Amanti
+KNDJJ74_9,2009,Kia,Borrego
+KNAFU4A_A,2010,Kia,Forte
+KNAFU4A_B,2011,Kia,Forte
+KNAFU6A_B,2011,Kia,Forte
+KNAFU4A_C,2012,Kia,Forte
+KNAFU4A_D,2013,Kia,Forte
+KNAFK4A_F,2015,Kia,Forte
+KNAFX4A_F,2015,Kia,Forte
+KNAFK4A_G,2016,Kia,Forte
+KNAGD12_4,2004,Kia,Optima
+KNAGD12_6,2006,Kia,Optima
+KNAGE12_6,2006,Kia,Optima
+KNAGE12_7,2007,Kia,Optima
+KNAGE12_8,2008,Kia,Optima
+KNAGE22_9,2009,Kia,Optima
+KNAGG4A_A,2010,Kia,Optima
+KNAGH4A_A,2010,Kia,Optima
+KNAGM4A_B,2011,Kia,Optima
+KNAGR4A_B,2011,Kia,Optima
+5XXGM4A_C,2012,Kia,Optima
+5XXGN4A_C,2012,Kia,Optima
+5XXGR4A_C,2012,Kia,Optima
+KNAGM4A_C,2012,Kia,Optima
+5XXGM4A_D,2013,Kia,Optima
+5XXGN4A_D,2013,Kia,Optima
+5XXGR4A_D,2013,Kia,Optima
+5XXGM4A_E,2014,Kia,Optima
+5XXGM4A_F,2015,Kia,Optima
+KNADC12_5,2005,Kia,Rio
+KNADE12_6,2006,Kia,Rio
+KNADE12_7,2007,Kia,Rio
+KNADE12_8,2008,Kia,Rio
+KNADH4A_B,2011,Kia,Rio
+KNADM4A_C,2012,Kia,Rio
+KNADM4A_D,2013,Kia,Rio
+KNADM5A_D,2013,Kia,Rio
+KNADM4A_F,2015,Kia,Rio
+KNADE16_7,2007,Kia,Rio5
+KNAFG52_8,2008,Kia,Rondo
+KNDUP13_4,2004,Kia,Sedona
+KNDUP13_5,2005,Kia,Sedona
+KNDMB23_6,2006,Kia,Sedona
+KNDMG4C_B,2011,Kia,Sedona
+KNDMH4C_B,2011,Kia,Sedona
+KNDMG4C_C,2012,Kia,Sedona
+KNDJD73_4,2004,Kia,Sorento
+KNDJD73_5,2005,Kia,Sorento
+KNDJC73_6,2006,Kia,Sorento
+KNDJD73_6,2006,Kia,Sorento
+KNDJD73_8,2008,Kia,Sorento
+5XYKT3A_B,2011,Kia,Sorento
+5XYKT3A_C,2012,Kia,Sorento
+5XYKT4A_C,2012,Kia,Sorento
+5XYKU3A_C,2012,Kia,Sorento
+5XYKT3A_E,2014,Kia,Sorento
+5XYKTCA_E,2014,Kia,Sorento
+5XYKTDA_E,2014,Kia,Sorento
+5XYKT3A_F,2015,Kia,Sorento
+KNDJT2A_A,2010,Kia,Soul
+KNDJT2A_B,2011,Kia,Soul
+KNDJT2A_C,2012,Kia,Soul
+KNDJN2A_E,2014,Kia,Soul
+KNDJN2A_F,2015,Kia,Soul
+KNDJP3A_F,2015,Kia,Soul
+KNAFB16_Y,2000,Kia,Spectra
+KNAFE12_6,2006,Kia,Spectra
+KNAFE12_7,2007,Kia,Spectra
+KNAFE12_8,2008,Kia,Spectra
+KNAFE22_9,2009,Kia,Spectra
+KNAFE16_6,2006,Kia,Spectra5
+KNDJF72_5,2005,Kia,Sportage
+KNDJF72_6,2006,Kia,Sportage
+KNDJE72_7,2007,Kia,Sportage
+KNDJF72_7,2007,Kia,Sportage
+KNDJF72_8,2008,Kia,Sportage
+KNDJF72_9,2009,Kia,Sportage
+KNDPBCA_B,2011,Kia,Sportage
+KNDPB3A_C,2012,Kia,Sportage
+KNDPB3A_E,2014,Kia,Sportage
+ZHWGU11_4,2004,Lamborghini,Gallardo
+ZHWGU22_8,2008,Lamborghini,Gallardo
+SALTY15_1,2001,Land Rover,Discovery
+SALNM22_3,2003,Land Rover,Freelander
+SALNY22_5,2005,Land Rover,Freelander
+SALFR24_8,2008,Land Rover,LR2
+SALFS24_8,2008,Land Rover,LR2
+SALAA25_5,2005,Land Rover,LR3
+SALAE25_6,2006,Land Rover,LR3
+SALAE25_8,2008,Land Rover,LR3
+SALAK2D_A,2010,Land Rover,LR4
+SALPV14_W,1998,Land Rover,Range Rover
+SALPM16_2,2002,Land Rover,Range Rover
+SALME11_3,2003,Land Rover,Range Rover
+SALME11_4,2004,Land Rover,Range Rover
+SALME11_5,2005,Land Rover,Range Rover
+SALME15_6,2006,Land Rover,Range Rover
+SALMF15_6,2006,Land Rover,Range Rover
+SALMF13_8,2008,Land Rover,Range Rover
+SALMF13_9,2009,Land Rover,Range Rover
+SALMF1E_A,2010,Land Rover,Range Rover
+SALMF1E_C,2012,Land Rover,Range Rover
+SALVP2B_D,2013,Land Rover,Range Rover Evoque
+SALVR2B_D,2013,Land Rover,Range Rover Evoque
+SALSF25_6,2006,Land Rover,Range Rover Sport
+SALSH23_6,2006,Land Rover,Range Rover Sport
+SALSF25_7,2007,Land Rover,Range Rover Sport
+SALSH23_7,2007,Land Rover,Range Rover Sport
+SALSF25_8,2008,Land Rover,Range Rover Sport
+SALSH23_8,2008,Land Rover,Range Rover Sport
+SALSK25_8,2008,Land Rover,Range Rover Sport
+SALSP2E_D,2013,Land Rover,Range Rover Sport
+JTHKD5B_F,2015,Lexus,CT
+JT8BF28_X,1999,Lexus,ES
+JTHBF30_2,2002,Lexus,ES
+JTHBA30_4,2004,Lexus,ES
+JTHBA30_5,2005,Lexus,ES
+JTHBA30_6,2006,Lexus,ES
+JTHBJ46_7,2007,Lexus,ES
+JTHBJ46_8,2008,Lexus,ES
+JTHBJ46_9,2009,Lexus,ES
+JTHBK1E_A,2010,Lexus,ES
+JTHBK1E_B,2011,Lexus,ES
+JTHBK1E_C,2012,Lexus,ES
+JTHBK1G_D,2013,Lexus,ES
+JTHBW1G_D,2013,Lexus,ES
+JTHBK1G_E,2014,Lexus,ES
+JTHBW1G_E,2014,Lexus,ES
+JTHBK1G_F,2015,Lexus,ES
+JTHBK1G_G,2016,Lexus,ES
+JT8BD68_Y,2000,Lexus,GS
+JT8BH68_Y,2000,Lexus,GS
+JT8BD69_2,2002,Lexus,GS
+JT8BD69_3,2003,Lexus,GS
+JT8BD69_4,2004,Lexus,GS
+JTHBH96_6,2006,Lexus,GS
+JTHCH96_6,2006,Lexus,GS
+JTHBE96_7,2007,Lexus,GS
+JTHCE1B_D,2013,Lexus,GS
+JTHBE1B_E,2014,Lexus,GS
+JTHCE1B_E,2014,Lexus,GS
+JTJBT20_3,2003,Lexus,GX
+JTJBT20_4,2004,Lexus,GX
+JTJBT20_6,2006,Lexus,GX
+JTJBT20_8,2008,Lexus,GX
+JTJBM7F_B,2011,Lexus,GX
+JTJBM7F_C,2012,Lexus,GX
+JTJBM7F_D,2013,Lexus,GX
+JTJBM7F_E,2014,Lexus,GX
+JTJJM7F_E,2014,Lexus,GX
+JTJJM7F_F,2015,Lexus,GX
+JTHBB1B_A,2010,Lexus,HS
+JTHBB1B_B,2011,Lexus,HS
+JTHBD19_2,2002,Lexus,IS
+JTHBD19_5,2005,Lexus,IS
+JTHBE26_6,2006,Lexus,IS
+JTHBK26_6,2006,Lexus,IS
+JTHCK26_6,2006,Lexus,IS
+JTHBK26_7,2007,Lexus,IS
+JTHBK26_8,2008,Lexus,IS
+JTHCK26_8,2008,Lexus,IS
+JTHBK26_9,2009,Lexus,IS
+JTHBE5C_A,2010,Lexus,IS
+JTHBF5C_B,2011,Lexus,IS
+JTHFF2C_B,2011,Lexus,IS
+JTHBF5C_C,2012,Lexus,IS
+JTHCF5C_C,2012,Lexus,IS
+JTHBF1D_E,2014,Lexus,IS
+JTHCF1D_E,2014,Lexus,IS
+JTHBE1D_F,2015,Lexus,IS
+JTHCF1D_F,2015,Lexus,IS
+JTHFF2C_F,2015,Lexus,IS
+JT8BH28_X,1999,Lexus,LS
+JTHBN30_1,2001,Lexus,LS
+JTHBN30_2,2002,Lexus,LS
+JTHBN36_4,2004,Lexus,LS
+JTHBN36_5,2005,Lexus,LS
+JTHBL46_7,2007,Lexus,LS
+JTHBL46_8,2008,Lexus,LS
+JTHGL46_8,2008,Lexus,LS
+JTHBL46_9,2009,Lexus,LS
+JTJHT00_1,2001,Lexus,LX
+JTJHT00_3,2003,Lexus,LX
+JTJBARB_F,2015,Lexus,NX
+JTJBARB_G,2016,Lexus,NX
+JTHHP5B_F,2015,Lexus,RC
+JT6HF10_X,1999,Lexus,RX
+JT6GF10_Y,2000,Lexus,RX
+JT6HF10_Y,2000,Lexus,RX
+JTJGF10_1,2001,Lexus,RX
+JTJGF10_2,2002,Lexus,RX
+JTJHF10_3,2003,Lexus,RX
+2T2GA31_4,2004,Lexus,RX
+2T2HA31_4,2004,Lexus,RX
+JTJGA31_4,2004,Lexus,RX
+JTJHA31_4,2004,Lexus,RX
+2T2GA31_5,2005,Lexus,RX
+2T2HA31_5,2005,Lexus,RX
+JTJGA31_5,2005,Lexus,RX
+2T2GA31_6,2006,Lexus,RX
+JTJGW31_6,2006,Lexus,RX
+2T2GK31_7,2007,Lexus,RX
+JTJGK31_7,2007,Lexus,RX
+2T2HK31_8,2008,Lexus,RX
+2T2GK31_9,2009,Lexus,RX
+2T2BK1B_A,2010,Lexus,RX
+2T2ZK1B_A,2010,Lexus,RX
+JTJBC1B_B,2011,Lexus,RX
+2T2BK1B_C,2012,Lexus,RX
+JTJBC1B_C,2012,Lexus,RX
+2T2BK1B_D,2013,Lexus,RX
+2T2ZK1B_D,2013,Lexus,RX
+JTJBK1B_D,2013,Lexus,RX
+2T2BK1B_E,2014,Lexus,RX
+2T2ZK1B_E,2014,Lexus,RX
+JTJBC1B_E,2014,Lexus,RX
+2T2BK1B_F,2015,Lexus,RX
+2T2ZK1B_F,2015,Lexus,RX
+JTJBK1B_F,2015,Lexus,RX
+JT8JZ31_N,1992,Lexus,SC
+JT8JZ31_S,1995,Lexus,SC
+JTHFN48_3,2003,Lexus,SC
+5LMEU68_3,2003,Lincoln,Aviator
+5LMEU78_3,2003,Lincoln,Aviator
+5LMEU68_4,2004,Lincoln,Aviator
+5LMEU88_4,2004,Lincoln,Aviator
+5LMEU68_5,2005,Lincoln,Aviator
+1LNHM97_2,2002,Lincoln,Continental
+1LNHM87_3,2003,Lincoln,LS
+1LNHM86_5,2005,Lincoln,LS
+1LNHM87_6,2006,Lincoln,LS
+1LNHM94_9,2009,Lincoln,MKS
+1LNHL9E_A,2010,Lincoln,MKS
+1LNHL9E_B,2011,Lincoln,MKS
+1LNHL9D_C,2012,Lincoln,MKS
+1LNHL9D_F,2015,Lincoln,MKS
+2LMDU68_8,2008,Lincoln,MKX
+2LMDU88_8,2008,Lincoln,MKX
+2LMDJ6J_B,2011,Lincoln,MKX
+2LMDJ6J_E,2014,Lincoln,MKX
+2LMDJ6J_F,2015,Lincoln,MKX
+3LNHM26_7,2007,Lincoln,MKZ
+3LNHL2G_A,2010,Lincoln,MKZ
+3LN6L2G_D,2013,Lincoln,MKZ
+3LN6L2G_F,2015,Lincoln,MKZ
+5LTPW18_6,2006,Lincoln,Mark LT
+5LTPW18_7,2007,Lincoln,Mark LT
+5LMRU27_X,1999,Lincoln,Navigator
+5LMEU27_Y,2000,Lincoln,Navigator
+5LMFU28_2,2002,Lincoln,Navigator
+5LMFU28_4,2004,Lincoln,Navigator
+5LMFU27_5,2005,Lincoln,Navigator
+5LMFU28_5,2005,Lincoln,Navigator
+5LMFU27_6,2006,Lincoln,Navigator
+5LMFU28_9,2009,Lincoln,Navigator
+5LMJJ2H_D,2013,Lincoln,Navigator
+1LNLM82_T,1996,Lincoln,Town Car
+1LNHM83_1,2001,Lincoln,Town Car
+1LNHM82_3,2003,Lincoln,Town Car
+1LNHM81_4,2004,Lincoln,Town Car
+1LNHM83_4,2004,Lincoln,Town Car
+1LNHM81_5,2005,Lincoln,Town Car
+1LNHM82_5,2005,Lincoln,Town Car
+1LNHM82_7,2007,Lincoln,Town Car
+2LNHM82_8,2008,Lincoln,Town Car
+2LNBL8C_B,2011,Lincoln,Town Car
+ZAMCE39_5,2005,Maserati,Quattroporte
+JM1HD46_P,1993,Mazda,929
+4F4ZR17_W,1998,Mazda,B-Series
+4F4ZR17_Y,2000,Mazda,B-Series
+4F4YR16_1,2001,Mazda,B-Series
+JM1DKDC_G,2016,Mazda,CX-3
+JM3KE2C_D,2013,Mazda,CX-5
+JM3KE4D_D,2013,Mazda,CX-5
+JM3KE2B_E,2014,Mazda,CX-5
+JM3KE2C_E,2014,Mazda,CX-5
+JM3KE2D_E,2014,Mazda,CX-5
+JM3KE4B_E,2014,Mazda,CX-5
+JM3KE4C_E,2014,Mazda,CX-5
+JM3KE2C_G,2016,Mazda,CX-5
+JM3KE2D_G,2016,Mazda,CX-5
+JM3ER29_7,2007,Mazda,CX-7
+JM3ER29_8,2008,Mazda,CX-7
+JM3ER29_9,2009,Mazda,CX-7
+JM3ER2W_A,2010,Mazda,CX-7
+JM3TB28_7,2007,Mazda,CX-9
+JM3TB38_8,2008,Mazda,CX-9
+JM3TB28_9,2009,Mazda,CX-9
+JM3TB38_9,2009,Mazda,CX-9
+JM3TB3C_B,2011,Mazda,CX-9
+JM3TB2C_D,2013,Mazda,CX-9
+JM3TB2D_D,2013,Mazda,CX-9
+JM3TB3D_E,2014,Mazda,CX-9
+JM1NB35_5,2005,Mazda,MAZDASPEED MX-5 Miata
+JM1BK34_8,2008,Mazda,MAZDASPEED3
+JM1GG12_6,2006,Mazda,MAZDASPEED6
+JM3LW28_Y,2000,Mazda,MPV
+JM3LW28_5,2005,Mazda,MPV
+JM1DE1K_D,2013,Mazda,Mazda2
+JM1DE1L_D,2013,Mazda,Mazda2
+JM1DE1K_E,2014,Mazda,Mazda2
+JM1BK14_4,2004,Mazda,Mazda3
+JM1BK14_5,2005,Mazda,Mazda3
+JM1BK32_5,2005,Mazda,Mazda3
+JM1BK32_6,2006,Mazda,Mazda3
+JM1BK32_7,2007,Mazda,Mazda3
+JM1BK12_8,2008,Mazda,Mazda3
+JM1BK34_8,2008,Mazda,Mazda3
+JM1BK32_9,2009,Mazda,Mazda3
+JM1BK34_9,2009,Mazda,Mazda3
+JM1BL1H_A,2010,Mazda,Mazda3
+JM1BL1S_A,2010,Mazda,Mazda3
+JM1BL1K_B,2011,Mazda,Mazda3
+JM1BL1U_B,2011,Mazda,Mazda3
+JM1BL1L_C,2012,Mazda,Mazda3
+JM1BL1U_C,2012,Mazda,Mazda3
+JM1BL1V_C,2012,Mazda,Mazda3
+JM1BL1L_D,2013,Mazda,Mazda3
+JM1BL1T_D,2013,Mazda,Mazda3
+JM1BL1U_D,2013,Mazda,Mazda3
+JM1BM1M_E,2014,Mazda,Mazda3
+JM1BM1U_E,2014,Mazda,Mazda3
+JM1BM1V_E,2014,Mazda,Mazda3
+3MZBM1L_F,2015,Mazda,Mazda3
+3MZBM1M_F,2015,Mazda,Mazda3
+3MZBM1U_F,2015,Mazda,Mazda3
+3MZBM1V_F,2015,Mazda,Mazda3
+JM1BM1M_F,2015,Mazda,Mazda3
+JM1BM1V_F,2015,Mazda,Mazda3
+3MZBM1K_G,2016,Mazda,Mazda3
+3MZBM1U_G,2016,Mazda,Mazda3
+JM1CR29_7,2007,Mazda,Mazda5
+JM1CR29_8,2008,Mazda,Mazda5
+JM1CR29_9,2009,Mazda,Mazda5
+1YVFP80_3,2003,Mazda,Mazda6
+1YVFP80_4,2004,Mazda,Mazda6
+1YVHP80_5,2005,Mazda,Mazda6
+1YVFP80_6,2006,Mazda,Mazda6
+1YVHP80_6,2006,Mazda,Mazda6
+1YVHP80_7,2007,Mazda,Mazda6
+1YVHP82_7,2007,Mazda,Mazda6
+1YVHP80_8,2008,Mazda,Mazda6
+1YVHZ8B_B,2011,Mazda,Mazda6
+1YVHZ8C_B,2011,Mazda,Mazda6
+1YVHZ8D_C,2012,Mazda,Mazda6
+1YVHZ8C_D,2013,Mazda,Mazda6
+JM1GJ1T_E,2014,Mazda,Mazda6
+JM1GJ1U_E,2014,Mazda,Mazda6
+JM1GJ1V_E,2014,Mazda,Mazda6
+JM1GJ1W_E,2014,Mazda,Mazda6
+JM1GJ1V_F,2015,Mazda,Mazda6
+JM1GJ1W_F,2015,Mazda,Mazda6
+JM1GJ1U_G,2016,Mazda,Mazda6
+JM1GJ1V_G,2016,Mazda,Mazda6
+JM1NA35_L,1990,Mazda,Miata
+JM1NA35_T,1996,Mazda,Miata
+JM1NB35_X,1999,Mazda,Miata
+JM1NB35_1,2001,Mazda,Miata
+JM1NB35_3,2003,Mazda,Miata
+JM1NC25_6,2006,Mazda,Miata
+JM1NC2E_A,2010,Mazda,Miata
+JM1NC2F_A,2010,Mazda,Miata
+JM1NC2N_B,2011,Mazda,Miata
+JM1NC2P_C,2012,Mazda,Miata
+JM1NC2J_D,2013,Mazda,Miata
+JM1NDAB_G,2016,Mazda,Miata
+JM1NDAC_G,2016,Mazda,Miata
+JM1NDAD_G,2016,Mazda,Miata
+JM1TA22_X,1999,Mazda,Millenia
+JM1BJ22_2,2002,Mazda,Protege
+JM1FC35_J,1988,Mazda,RX-7
+JM1FE17_4,2004,Mazda,RX-8
+JM1FE17_5,2005,Mazda,RX-8
+JM1FE17_6,2006,Mazda,RX-8
+JM1FE17_7,2007,Mazda,RX-8
+4F2YU07_1,2001,Mazda,Tribute
+4F2YU08_1,2001,Mazda,Tribute
+4F2CZ96_3,2003,Mazda,Tribute
+4F2CZ06_4,2004,Mazda,Tribute
+4F2CZ04_5,2005,Mazda,Tribute
+4F2YZ06_5,2005,Mazda,Tribute
+4F2YZ92_5,2005,Mazda,Tribute
+4F2CZ02_8,2008,Mazda,Tribute
+4F2CY0C_A,2010,Mazda,Tribute
+WDBDA29_L,1990,Mercedes-Benz,190
+WDBCB25_G,1986,Mercedes-Benz,300
+WDBCA24_M,1991,Mercedes-Benz,300
+WDBEB28_P,1993,Mercedes-Benz,300
+WDBCA35_M,1991,Mercedes-Benz,420
+WDBBA48_H,1987,Mercedes-Benz,560
+WDBHA28_R,1994,Mercedes-Benz,C
+WDBRN47_2,2002,Mercedes-Benz,C
+WDBRF40_3,2003,Mercedes-Benz,C
+WDBRF61_3,2003,Mercedes-Benz,C
+WDBRN40_3,2003,Mercedes-Benz,C
+WDBRF64_4,2004,Mercedes-Benz,C
+WDBRF40_5,2005,Mercedes-Benz,C
+WDBRF52_6,2006,Mercedes-Benz,C
+WDBRF54_6,2006,Mercedes-Benz,C
+WDBRF52_7,2007,Mercedes-Benz,C
+WDBRF54_7,2007,Mercedes-Benz,C
+WDBRF92_7,2007,Mercedes-Benz,C
+WDDGF54_8,2008,Mercedes-Benz,C
+WDDGF56_8,2008,Mercedes-Benz,C
+WDDGF54_9,2009,Mercedes-Benz,C
+WDDGF77_9,2009,Mercedes-Benz,C
+WDDGF5E_A,2010,Mercedes-Benz,C
+WDDGF5E_B,2011,Mercedes-Benz,C
+WDDGF4H_C,2012,Mercedes-Benz,C
+WDDGF4H_D,2013,Mercedes-Benz,C
+WDDGF7H_D,2013,Mercedes-Benz,C
+WDDGF4H_E,2014,Mercedes-Benz,C
+WDBPJ75_3,2003,Mercedes-Benz,CL
+WDDEJ71_7,2007,Mercedes-Benz,CL
+WDDEJ79_8,2008,Mercedes-Benz,CL
+WDDEJ7H_A,2010,Mercedes-Benz,CL
+WDDSJ4E_E,2014,Mercedes-Benz,CLA
+WDBLJ65_X,1999,Mercedes-Benz,CLK
+WDBLJ70_2,2002,Mercedes-Benz,CLK
+WDBLK65_3,2003,Mercedes-Benz,CLK
+WDBTJ75_5,2005,Mercedes-Benz,CLK
+WDBTK75_6,2006,Mercedes-Benz,CLK
+WDBTJ72_7,2007,Mercedes-Benz,CLK
+WDBTK77_7,2007,Mercedes-Benz,CLK
+WDBTK56_8,2008,Mercedes-Benz,CLK
+WDDDJ75_6,2006,Mercedes-Benz,CLS
+WDDDJ72_7,2007,Mercedes-Benz,CLS
+WDBJF65_W,1998,Mercedes-Benz,E
+WDBJH65_Y,2000,Mercedes-Benz,E
+WDBUF65_3,2003,Mercedes-Benz,E
+WDBUF76_4,2004,Mercedes-Benz,E
+WDBUF70_5,2005,Mercedes-Benz,E
+WDBUF76_5,2005,Mercedes-Benz,E
+WDBUF83_5,2005,Mercedes-Benz,E
+WDBUF56_6,2006,Mercedes-Benz,E
+WDBUF87_6,2006,Mercedes-Benz,E
+WDBUF56_7,2007,Mercedes-Benz,E
+WDBUF87_7,2007,Mercedes-Benz,E
+WDBUF56_8,2008,Mercedes-Benz,E
+WDBUF87_8,2008,Mercedes-Benz,E
+WDBUF87_9,2009,Mercedes-Benz,E
+WDDHF5G_A,2010,Mercedes-Benz,E
+WDDHF7H_A,2010,Mercedes-Benz,E
+WDDHF8H_A,2010,Mercedes-Benz,E
+WDDKJ7C_A,2010,Mercedes-Benz,E
+WDDKK5G_B,2011,Mercedes-Benz,E
+WDDHF5K_C,2012,Mercedes-Benz,E
+WDDHF8J_E,2014,Mercedes-Benz,E
+WDCYR49_4,2004,Mercedes-Benz,G
+4JGBF71_7,2007,Mercedes-Benz,GL
+4JGBF71_9,2009,Mercedes-Benz,GL
+4JGBF7B_A,2010,Mercedes-Benz,GL
+4JGBF8G_B,2011,Mercedes-Benz,GL
+4JGBF7B_C,2012,Mercedes-Benz,GL
+4JGDF6E_F,2015,Mercedes-Benz,GL
+WDCGG5G_A,2010,Mercedes-Benz,GLK
+WDCGG8H_A,2010,Mercedes-Benz,GLK
+WDCGG5G_B,2011,Mercedes-Benz,GLK
+WDCGG8H_C,2012,Mercedes-Benz,GLK
+WDCGG8J_E,2014,Mercedes-Benz,GLK
+4JGAB54_Y,2000,Mercedes-Benz,ML
+4JGAB75_5,2005,Mercedes-Benz,ML
+4JGBB86_6,2006,Mercedes-Benz,ML
+4JGBB86_8,2008,Mercedes-Benz,ML
+4JGBB5G_A,2010,Mercedes-Benz,ML
+4JGBB8G_A,2010,Mercedes-Benz,ML
+4JGBB8G_B,2011,Mercedes-Benz,ML
+4JGDA2E_C,2012,Mercedes-Benz,ML
+4JGDA5H_D,2013,Mercedes-Benz,ML
+4JGDA5J_D,2013,Mercedes-Benz,ML
+4JGCB65_6,2006,Mercedes-Benz,R
+WDBGA33_X,1999,Mercedes-Benz,S
+WDBNG75_Y,2000,Mercedes-Benz,S
+WDBNG75_1,2001,Mercedes-Benz,S
+WDBNG70_3,2003,Mercedes-Benz,S
+WDBNG74_3,2003,Mercedes-Benz,S
+WDBNG70_4,2004,Mercedes-Benz,S
+WDDNG86_7,2007,Mercedes-Benz,S
+WDDNG71_8,2008,Mercedes-Benz,S
+WDDNG86_8,2008,Mercedes-Benz,S
+WDDNG86_9,2009,Mercedes-Benz,S
+WDDUG7J_E,2014,Mercedes-Benz,S
+WDBFA76_W,1998,Mercedes-Benz,SL
+WDBFA68_X,1999,Mercedes-Benz,SL
+WDBSK74_3,2003,Mercedes-Benz,SL
+WDBSK75_3,2003,Mercedes-Benz,SL
+WDBSK75_4,2004,Mercedes-Benz,SL
+WDBSK75_5,2005,Mercedes-Benz,SL
+WDBSK71_8,2008,Mercedes-Benz,SL
+WDBSK70_9,2009,Mercedes-Benz,SL
+WDBKK65_1,2001,Mercedes-Benz,SLK
+WDBWK56_5,2005,Mercedes-Benz,SLK
+WDBWK54_7,2007,Mercedes-Benz,SLK
+WDDPK5H_D,2013,Mercedes-Benz,SLK
+1MELM62_T,1996,Mercury,Cougar
+2MEFM74_X,1999,Mercury,Grand Marquis
+2MEFM75_X,1999,Mercury,Grand Marquis
+2MEFM74_Y,2000,Mercury,Grand Marquis
+2MEFM75_Y,2000,Mercury,Grand Marquis
+2MEHM75_3,2003,Mercury,Grand Marquis
+2MEFM74_4,2004,Mercury,Grand Marquis
+2MEFM74_5,2005,Mercury,Grand Marquis
+2MEFM75_5,2005,Mercury,Grand Marquis
+2MEFM74_6,2006,Mercury,Grand Marquis
+2MEFM75_8,2008,Mercury,Grand Marquis
+4M2YU57_5,2005,Mercury,Mariner
+4M2CU97_8,2008,Mercury,Mariner
+3MEHM08_8,2008,Mercury,Milan
+3MEHM0H_A,2010,Mercury,Milan
+3MEHM0J_A,2010,Mercury,Milan
+4M2ZU66_Y,2000,Mercury,Mountaineer
+4M2DU66_5,2005,Mercury,Mountaineer
+4M2EU48_7,2007,Mercury,Mountaineer
+1MEFM53_1,2001,Mercury,Sable
+2MEPM36_N,1992,Mercury,Topaz
+4M2DV11_V,1997,Mercury,Villager
+WMWRC33_3,2003,Mini,Cooper
+WMWRE33_3,2003,Mini,Cooper
+WMWRC33_4,2004,Mini,Cooper
+WMWRE33_4,2004,Mini,Cooper
+WMWRC33_5,2005,Mini,Cooper
+WMWRE33_5,2005,Mini,Cooper
+WMWRH33_5,2005,Mini,Cooper
+WMWRC33_6,2006,Mini,Cooper
+WMWRH33_6,2006,Mini,Cooper
+WMWMF33_7,2007,Mini,Cooper
+WMWMF73_7,2007,Mini,Cooper
+WMWMF33_8,2008,Mini,Cooper
+WMWMF73_8,2008,Mini,Cooper
+WMWMF73_9,2009,Mini,Cooper
+WMWMF7C_A,2010,Mini,Cooper
+WMWSV3C_B,2011,Mini,Cooper
+WMWML33_8,2008,Mini,Cooper Clubman
+WMWMM33_8,2008,Mini,Cooper Clubman
+WMWMM33_9,2009,Mini,Cooper Clubman
+WMWMM93_9,2009,Mini,Cooper Clubman
+WMWZC3C_B,2011,Mini,Cooper Countryman
+WMWZB3C_C,2012,Mini,Cooper Countryman
+WMWZC3C_D,2013,Mini,Cooper Countryman
+4A3AX55_W,1998,Mitsubishi,Eclipse
+4A3AE85_1,2001,Mitsubishi,Eclipse
+4A3AC74_3,2003,Mitsubishi,Eclipse
+4A3AE55_3,2003,Mitsubishi,Eclipse
+4A3AE45_5,2005,Mitsubishi,Eclipse
+4A3AK24_6,2006,Mitsubishi,Eclipse
+4A3AK24_7,2007,Mitsubishi,Eclipse
+4A3AL25_8,2008,Mitsubishi,Eclipse
+4A4MM31_4,2004,Mitsubishi,Endeavor
+4A4MM41_4,2004,Mitsubishi,Endeavor
+4A4JN2A_B,2011,Mitsubishi,Endeavor
+4A3AA46_Y,2000,Mitsubishi,Galant
+4A3AA46_3,2003,Mitsubishi,Galant
+4A3AB26_7,2007,Mitsubishi,Galant
+4A3AB36_7,2007,Mitsubishi,Galant
+4A32B2F_B,2011,Mitsubishi,Galant
+4A32B3F_C,2012,Mitsubishi,Galant
+JA3AJ26_2,2002,Mitsubishi,Lancer
+JA3AJ26_3,2003,Mitsubishi,Lancer
+JA3AJ26_4,2004,Mitsubishi,Lancer
+JA3AU26_9,2009,Mitsubishi,Lancer
+JA32U2F_B,2011,Mitsubishi,Lancer
+JA32U2F_F,2015,Mitsubishi,Lancer
+JA3AH86_3,2003,Mitsubishi,Lancer Evolution
+JA3AW86_8,2008,Mitsubishi,Lancer Evolution
+JA4LS31_Y,2000,Mitsubishi,Montero Sport
+JA4LS31_2,2002,Mitsubishi,Montero Sport
+JA4MT21_3,2003,Mitsubishi,Montero Sport
+JA4LS21_4,2004,Mitsubishi,Montero Sport
+JA4LS21_9,2009,Mitsubishi,Outlander
+JA4AT2A_A,2010,Mitsubishi,Outlander
+JA4JT3A_D,2013,Mitsubishi,Outlander
+JA4AD3A_G,2016,Mitsubishi,Outlander
+1Z7HT32_6,2006,Mitsubishi,Raider
+1Z7HC22_7,2007,Mitsubishi,Raider
+1N4DL01_W,1998,Nissan,Altima
+1N4DL01_X,1999,Nissan,Altima
+1N4DL01_1,2001,Nissan,Altima
+1N4AL11_2,2002,Nissan,Altima
+1N4AL11_3,2003,Nissan,Altima
+1N4AL11_4,2004,Nissan,Altima
+1N4BL11_4,2004,Nissan,Altima
+1N4AL11_5,2005,Nissan,Altima
+1N4BL11_5,2005,Nissan,Altima
+1N4AL11_6,2006,Nissan,Altima
+1N4BL11_6,2006,Nissan,Altima
+1N4AL21_7,2007,Nissan,Altima
+1N4AL21_8,2008,Nissan,Altima
+1N4AL24_8,2008,Nissan,Altima
+1N4BL21_8,2008,Nissan,Altima
+1N4BL24_8,2008,Nissan,Altima
+1N4AL21_9,2009,Nissan,Altima
+1N4BL21_9,2009,Nissan,Altima
+1N4AL2A_A,2010,Nissan,Altima
+1N4BL2A_A,2010,Nissan,Altima
+1N4AL2A_B,2011,Nissan,Altima
+1N4AL2E_B,2011,Nissan,Altima
+1N4AL2A_C,2012,Nissan,Altima
+1N4BL2A_C,2012,Nissan,Altima
+1N4AL3A_D,2013,Nissan,Altima
+1N4BL3A_D,2013,Nissan,Altima
+1N4AL3A_E,2014,Nissan,Altima
+1N4AL3A_F,2015,Nissan,Altima
+1N4AL3A_G,2016,Nissan,Altima
+1N4BL3A_G,2016,Nissan,Altima
+5N1AA08_4,2004,Nissan,Armada
+5N1AA08_5,2005,Nissan,Armada
+5N1AA08_6,2006,Nissan,Armada
+5N1BA08_7,2007,Nissan,Armada
+5N1AA08_8,2008,Nissan,Armada
+5N1BA08_8,2008,Nissan,Armada
+5N1BA0N_A,2010,Nissan,Armada
+5N1AA0N_C,2012,Nissan,Armada
+5N1BA0N_E,2014,Nissan,Armada
+JN8AZ28_9,2009,Nissan,Cube
+JN8AZ2K_A,2010,Nissan,Cube
+JN8AZ2K_B,2011,Nissan,Cube
+JN8AZ2K_C,2012,Nissan,Cube
+1N6DD26_Y,2000,Nissan,Frontier
+1N6ED27_Y,2000,Nissan,Frontier
+1N6ED27_1,2001,Nissan,Frontier
+1N6DD26_2,2002,Nissan,Frontier
+1N6ED26_2,2002,Nissan,Frontier
+1N6ED27_2,2002,Nissan,Frontier
+1N6ED29_3,2003,Nissan,Frontier
+1N6ED27_4,2004,Nissan,Frontier
+1N6ED29_4,2004,Nissan,Frontier
+1N6AD06_5,2005,Nissan,Frontier
+1N6AD07_5,2005,Nissan,Frontier
+1N6AD07_6,2006,Nissan,Frontier
+1N6AD06_7,2007,Nissan,Frontier
+1N6AD06_8,2008,Nissan,Frontier
+1N6AD0E_A,2010,Nissan,Frontier
+1N6AD0E_B,2011,Nissan,Frontier
+1N6AD0E_C,2012,Nissan,Frontier
+1N6AD0E_D,2013,Nissan,Frontier
+1N6AD0E_E,2014,Nissan,Frontier
+1N6AD0E_F,2015,Nissan,Frontier
+1N6AD0E_G,2016,Nissan,Frontier
+1N6AD0F_G,2016,Nissan,Frontier
+JN8AF5M_B,2011,Nissan,Juke
+JN8AF5M_C,2012,Nissan,Juke
+JN1AZ0C_C,2012,Nissan,Leaf
+1N4AZ0C_D,2013,Nissan,Leaf
+1N4AZ0C_E,2014,Nissan,Leaf
+JN1HJ01_N,1992,Nissan,Maxima
+JN1CA21_X,1999,Nissan,Maxima
+JN1CA31_Y,2000,Nissan,Maxima
+JN1DA31_2,2002,Nissan,Maxima
+1N4BA41_4,2004,Nissan,Maxima
+1N4BA41_5,2005,Nissan,Maxima
+1N4BA41_6,2006,Nissan,Maxima
+1N4BA41_7,2007,Nissan,Maxima
+1N4BA41_8,2008,Nissan,Maxima
+1N4AA51_9,2009,Nissan,Maxima
+1N4AA5A_A,2010,Nissan,Maxima
+1N4AA5A_B,2011,Nissan,Maxima
+1N4AA5A_C,2012,Nissan,Maxima
+1N4AA5A_D,2013,Nissan,Maxima
+1N4AA5A_E,2014,Nissan,Maxima
+1N4AA6A_G,2016,Nissan,Maxima
+JN8AZ08_3,2003,Nissan,Murano
+JN8AZ08_4,2004,Nissan,Murano
+JN8AZ08_5,2005,Nissan,Murano
+JN8AZ08_6,2006,Nissan,Murano
+JN8AZ08_7,2007,Nissan,Murano
+JN8AZ18_9,2009,Nissan,Murano
+JN8AZ1M_A,2010,Nissan,Murano
+JN8AZ1M_B,2011,Nissan,Murano
+JN8AZ1M_C,2012,Nissan,Murano
+JN8AZ1M_E,2014,Nissan,Murano
+5N1AZ2M_F,2015,Nissan,Murano
+5N1AZ2M_G,2016,Nissan,Murano
+JN8AR05_X,1999,Nissan,Pathfinder
+JN8AR07_Y,2000,Nissan,Pathfinder
+JN8DR07_1,2001,Nissan,Pathfinder
+JN8DR09_1,2001,Nissan,Pathfinder
+JN8DR09_2,2002,Nissan,Pathfinder
+JN8DR09_3,2003,Nissan,Pathfinder
+5N1AR18_5,2005,Nissan,Pathfinder
+5N1AR18_6,2006,Nissan,Pathfinder
+5N1AR18_7,2007,Nissan,Pathfinder
+5N1AR18_8,2008,Nissan,Pathfinder
+5N1BR18_8,2008,Nissan,Pathfinder
+5N1AR2M_D,2013,Nissan,Pathfinder
+5N1AR2M_F,2015,Nissan,Pathfinder
+1N6SD16_V,1997,Nissan,Pickup
+5N1BV28_7,2007,Nissan,Quest
+5N1BV28_9,2009,Nissan,Quest
+JN8AE2K_C,2012,Nissan,Quest
+JN8AS58_8,2008,Nissan,Rogue
+JN8AS58_9,2009,Nissan,Rogue
+JN8AS5M_A,2010,Nissan,Rogue
+JN8AS5M_B,2011,Nissan,Rogue
+JN8AS5M_C,2012,Nissan,Rogue
+JN8AS5M_D,2013,Nissan,Rogue
+5N1AT2M_E,2014,Nissan,Rogue
+JN8AS5M_E,2014,Nissan,Rogue
+5N1AT2M_F,2015,Nissan,Rogue
+JN8AS5M_F,2015,Nissan,Rogue
+KNMAT2M_G,2016,Nissan,Rogue
+1N4AB41_X,1999,Nissan,Sentra
+3N1CB51_2,2002,Nissan,Sentra
+3N1CB51_4,2004,Nissan,Sentra
+3N1CB51_6,2006,Nissan,Sentra
+3N1AB61_7,2007,Nissan,Sentra
+3N1CB61_7,2007,Nissan,Sentra
+3N1AB61_8,2008,Nissan,Sentra
+3N1AB61_9,2009,Nissan,Sentra
+3N1AB6A_A,2010,Nissan,Sentra
+3N1AB6A_B,2011,Nissan,Sentra
+3N1AB6A_C,2012,Nissan,Sentra
+3N1AB7A_D,2013,Nissan,Sentra
+3N1AB7A_E,2014,Nissan,Sentra
+3N1AB7A_F,2015,Nissan,Sentra
+1N6AA06_4,2004,Nissan,Titan
+1N6AA07_4,2004,Nissan,Titan
+1N6BA06_5,2005,Nissan,Titan
+1N6BA06_6,2006,Nissan,Titan
+1N6BA07_6,2006,Nissan,Titan
+1N6AA07_7,2007,Nissan,Titan
+1N6BA06_7,2007,Nissan,Titan
+1N6AA06_8,2008,Nissan,Titan
+1N6AA07_8,2008,Nissan,Titan
+1N6BA06_8,2008,Nissan,Titan
+1N6BA07_8,2008,Nissan,Titan
+1N6AA07_9,2009,Nissan,Titan
+1N6BA07_9,2009,Nissan,Titan
+1N6BA0E_A,2010,Nissan,Titan
+1N6AA0E_C,2012,Nissan,Titan
+1N6BA0E_D,2013,Nissan,Titan
+3N1BC13_7,2007,Nissan,Versa
+3N1BC13_9,2009,Nissan,Versa
+3N1BC1C_A,2010,Nissan,Versa
+3N1BC1C_B,2011,Nissan,Versa
+3N1CC1A_B,2011,Nissan,Versa
+3N1BC1C_C,2012,Nissan,Versa
+3N1CN7A_D,2013,Nissan,Versa
+3N1CN7A_F,2015,Nissan,Versa
+3N1CE2C_E,2014,Nissan,Versa Note
+3N1CE2C_F,2015,Nissan,Versa Note
+5N1ED28_Y,2000,Nissan,Xterra
+5N1ED28_1,2001,Nissan,Xterra
+5N1ED28_2,2002,Nissan,Xterra
+5N1ED28_3,2003,Nissan,Xterra
+5N1ED28_4,2004,Nissan,Xterra
+5N1AN08_5,2005,Nissan,Xterra
+5N1AN08_6,2006,Nissan,Xterra
+5N1AN08_7,2007,Nissan,Xterra
+5N1AN08_8,2008,Nissan,Xterra
+5N1AN0N_F,2015,Nissan,Xterra
+JN1AZ34_4,2004,Nissan,Z
+JN1AZ34_5,2005,Nissan,Z
+JN1AZ36_5,2005,Nissan,Z
+JN1AZ34_6,2006,Nissan,Z
+JN1AZ44_9,2009,Nissan,Z
+JN1AZ4E_B,2011,Nissan,Z
+JN1AZ4E_C,2012,Nissan,Z
+JN1AZ4E_D,2013,Nissan,Z
+JN1AZ4E_E,2014,Nissan,Z
+JN1AZ4E_F,2015,Nissan,Z
+1G3NK52_Y,2000,Oldsmobile,Alero
+1G3GR62_S,1995,Oldsmobile,Aurora
+1GHDT13_3,2003,Oldsmobile,Bravada
+1G3WH52_W,1998,Oldsmobile,Intrigue
+1P4GP44_V,1997,Plymouth,Grand Voyager
+3G7DA03_1,2001,Pontiac,Aztek
+1G2HX54_Y,2000,Pontiac,Bonneville
+1G2HX52_4,2004,Pontiac,Bonneville
+1G2HZ54_4,2004,Pontiac,Bonneville
+1G2HZ54_5,2005,Pontiac,Bonneville
+2G2FV22_S,1995,Pontiac,Firebird
+2G2FV22_Y,2000,Pontiac,Firebird
+2G2FS22_1,2001,Pontiac,Firebird
+2G2FV22_1,2001,Pontiac,Firebird
+2G2FV22_2,2002,Pontiac,Firebird
+1G2AL15_7,2007,Pontiac,G5
+1G2AN18_9,2009,Pontiac,G5
+1G2ZF55_6,2006,Pontiac,G6
+1G2ZG55_6,2006,Pontiac,G6
+1G2ZH55_6,2006,Pontiac,G6
+1G2ZF58_7,2007,Pontiac,G6
+1G2ZG58_7,2007,Pontiac,G6
+1G2ZH35_7,2007,Pontiac,G6
+1G2ZH58_7,2007,Pontiac,G6
+1G2ZG57_8,2008,Pontiac,G6
+1G2ZH36_8,2008,Pontiac,G6
+1G2ZG57_9,2009,Pontiac,G6
+1G2ZK17_9,2009,Pontiac,G6
+6G2EC57_8,2008,Pontiac,G8
+6G2EP57_9,2009,Pontiac,G8
+6G2ER57_9,2009,Pontiac,G8
+6G2VX12_5,2005,Pontiac,GTO
+6G2VX12_6,2006,Pontiac,GTO
+1G2NE52_X,1999,Pontiac,Grand Am
+1G2NF52_Y,2000,Pontiac,Grand Am
+1G2NV52_2,2002,Pontiac,Grand Am
+1G2NW52_4,2004,Pontiac,Grand Am
+1G2WJ12_T,1996,Pontiac,Grand Prix
+1G2WP52_W,1998,Pontiac,Grand Prix
+1G2WP52_2,2002,Pontiac,Grand Prix
+2G2WP52_4,2004,Pontiac,Grand Prix
+2G2WR52_4,2004,Pontiac,Grand Prix
+2G2WS52_4,2004,Pontiac,Grand Prix
+2G2WP52_5,2005,Pontiac,Grand Prix
+2G2WP54_5,2005,Pontiac,Grand Prix
+2G2WP55_6,2006,Pontiac,Grand Prix
+2G2WP55_8,2008,Pontiac,Grand Prix
+1GMDX03_4,2004,Pontiac,Montana
+1G2MB33_6,2006,Pontiac,Solstice
+1G2MB35_7,2007,Pontiac,Solstice
+1G2JB12_3,2003,Pontiac,Sunfire
+3G2JB12_5,2005,Pontiac,Sunfire
+2CKDL73_6,2006,Pontiac,Torrent
+5Y2SN62_3,2003,Pontiac,Vibe
+5Y2SL62_4,2004,Pontiac,Vibe
+5Y2SL65_8,2008,Pontiac,Vibe
+5Y2SP67_9,2009,Pontiac,Vibe
+WP0AA29_X,1999,Porsche,911
+WP0AB29_2,2002,Porsche,911
+WP0AA29_3,2003,Porsche,911
+WP0AB2A_C,2012,Porsche,911
+WP0CA2A_D,2013,Porsche,911
+WP0CB2A_D,2013,Porsche,911
+WP0AA09_F,1985,Porsche,944
+WP0CA29_V,1997,Porsche,Boxster
+WP0CA29_W,1998,Porsche,Boxster
+WP0CA29_Y,2000,Porsche,Boxster
+WP0CB29_3,2003,Porsche,Boxster
+WP0CA29_4,2004,Porsche,Boxster
+WP0CA29_6,2006,Porsche,Boxster
+WP1AA29_5,2005,Porsche,Cayenne
+WP1AA29_6,2006,Porsche,Cayenne
+WP1AA29_8,2008,Porsche,Cayenne
+WP1AB29_8,2008,Porsche,Cayenne
+WP1AA29_9,2009,Porsche,Cayenne
+WP1AC29_9,2009,Porsche,Cayenne
+WP0AA29_8,2008,Porsche,Cayman
+WP1AB2A_F,2015,Porsche,Macan
+WP0AF2A_D,2013,Porsche,Panamera
+WP0AC2A_E,2014,Porsche,Panamera
+1D7RV1C_B,2011,Ram,1500
+1D7RV1G_B,2011,Ram,1500
+3D7JV1E_B,2011,Ram,1500
+1C6RD6F_C,2012,Ram,1500
+3C6JD6A_C,2012,Ram,1500
+3C6JD7A_C,2012,Ram,1500
+3C6JD7E_C,2012,Ram,1500
+1C6RR6L_D,2013,Ram,1500
+1C6RR6N_D,2013,Ram,1500
+1C6RR7F_D,2013,Ram,1500
+1C6RR7K_D,2013,Ram,1500
+1C6RR7M_D,2013,Ram,1500
+1C6RR7N_D,2013,Ram,1500
+1C6RR7P_D,2013,Ram,1500
+3C6JR6A_D,2013,Ram,1500
+1C6RR6K_E,2014,Ram,1500
+1C6RR7L_E,2014,Ram,1500
+1C6RR7N_E,2014,Ram,1500
+1C6RR7P_E,2014,Ram,1500
+3C6JR6A_E,2014,Ram,1500
+3C6RR6K_E,2014,Ram,1500
+1C6RR6G_F,2015,Ram,1500
+1C6RR7G_F,2015,Ram,1500
+1C6RR7L_F,2015,Ram,1500
+1C6RR6G_G,2016,Ram,1500
+1C6RR7G_G,2016,Ram,1500
+1C6RR7K_G,2016,Ram,1500
+3D7LP2E_B,2011,Ram,2500
+3D7UT2C_B,2011,Ram,2500
+3C6UD5D_C,2012,Ram,2500
+3C6UD5N_C,2012,Ram,2500
+3C6TR5J_E,2014,Ram,2500
+3C6UR5C_E,2014,Ram,2500
+3C6TR5D_F,2015,Ram,2500
+3C6UR5D_F,2015,Ram,2500
+3C6UR5F_F,2015,Ram,2500
+3C6UR5N_F,2015,Ram,2500
+3C6TR5D_G,2016,Ram,2500
+3C6TR5F_G,2016,Ram,2500
+3C6UR5D_G,2016,Ram,2500
+3C6UR5F_G,2016,Ram,2500
+3C63DPK_C,2012,Ram,3500
+3C63R3J_G,2016,Ram,3500
+2C4JDGA_C,2012,Ram,C/V
+2C4JRGA_D,2013,Ram,C/V
+3C6TRVA_G,2016,Ram,ProMaster
+YS3DF78_1,2001,Saab,9-3
+YS3FD49_5,2005,Saab,9-3
+YS3FD79_5,2005,Saab,9-3
+YS3FD75_6,2006,Saab,9-3
+YS3FH71_6,2006,Saab,9-3
+YS3FH41_7,2007,Saab,9-3
+YS3EH49_3,2003,Saab,9-5
+YS3ED55_4,2004,Saab,9-5
+YS3EH45_5,2005,Saab,9-5
+YS3GN4A_B,2011,Saab,9-5
+W08AT27_8,2008,Saturn,Astra
+W08AT67_8,2008,Saturn,Astra
+1G8ZS57_7,2007,Saturn,Aura
+1G8ZV57_7,2007,Saturn,Aura
+1G8ZS57_8,2008,Saturn,Aura
+1G8ZV57_8,2008,Saturn,Aura
+1G8ZS57_9,2009,Saturn,Aura
+1G8AK52_3,2003,Saturn,Ion
+1G8AL55_6,2006,Saturn,Ion
+1G8AJ55_7,2007,Saturn,Ion
+1G8JU52_Y,2000,Saturn,L-Series
+1G8JW54_1,2001,Saturn,L-Series
+1G8JU54_2,2002,Saturn,L-Series
+1G8JU54_3,2003,Saturn,L-Series
+1G8JL84_4,2004,Saturn,L-Series
+5GZER33_7,2007,Saturn,Outlook
+5GZEV23_7,2007,Saturn,Outlook
+5GZEV33_7,2007,Saturn,Outlook
+5GZER23_8,2008,Saturn,Outlook
+5GZER13_9,2009,Saturn,Outlook
+5GZEV13_9,2009,Saturn,Outlook
+5GZDV03_5,2005,Saturn,Relay
+5GZDV23_5,2005,Saturn,Relay
+1G8ZK55_P,1993,Saturn,S-Series
+1G8ZG52_T,1996,Saturn,S-Series
+1G8ZH52_2,2002,Saturn,S-Series
+1G8MB35_7,2007,Saturn,Sky
+1G8MG35_7,2007,Saturn,Sky
+5GZCZ33_4,2004,Saturn,VUE
+5GZCZ53_4,2004,Saturn,VUE
+5GZCZ33_5,2005,Saturn,VUE
+5GZCZ33_6,2006,Saturn,VUE
+5GZCZ53_6,2006,Saturn,VUE
+5GZCZ53_7,2007,Saturn,VUE
+3GSCL33_8,2008,Saturn,VUE
+JF1ZNAA_D,2013,Scion,FR-S
+JTKDE16_6,2006,Scion,tC
+JTKDE17_6,2006,Scion,tC
+JTKDE3B_A,2010,Scion,tC
+JTKJF5C_B,2011,Scion,tC
+JTKJF5C_C,2012,Scion,tC
+JTKJF5C_E,2014,Scion,tC
+JTKJF5C_F,2015,Scion,tC
+JTKKT62_4,2004,Scion,xA
+JTLKT32_5,2005,Scion,xB
+JTLKT32_6,2006,Scion,xB
+JTLKE50_8,2008,Scion,xB
+JTKKU10_8,2008,Scion,xD
+WMEEJ31_8,2008,Smart,Fortwo
+WMEEK31_8,2008,Smart,Fortwo
+WMEEJ3B_D,2013,Smart,Fortwo
+JF2GPAB_G,2016,Subaru,Crosstrek
+JF1SF63_X,1999,Subaru,Forester
+JF1SF63_Y,2000,Subaru,Forester
+JF1SF63_2,2002,Subaru,Forester
+JF1SG67_6,2006,Subaru,Forester
+JF1SG63_7,2007,Subaru,Forester
+JF1SG67_7,2007,Subaru,Forester
+JF2SH61_9,2009,Subaru,Forester
+JF2SH63_9,2009,Subaru,Forester
+JF2SH64_9,2009,Subaru,Forester
+JF2SHBB_B,2011,Subaru,Forester
+JF2SHAD_D,2013,Subaru,Forester
+JF2SJAA_E,2014,Subaru,Forester
+JF2SJGD_E,2014,Subaru,Forester
+JF2SJAD_F,2015,Subaru,Forester
+JF2SJAU_F,2015,Subaru,Forester
+JF2SJAD_G,2016,Subaru,Forester
+JF2SJAA_H,2017,Subaru,Forester
+JF2SJAG_H,2017,Subaru,Forester
+JF2SJAT_H,2017,Subaru,Forester
+JF2SJGW_H,2017,Subaru,Forester
+JF1GH63_8,2008,Subaru,Impreza
+JF1GH6B_B,2011,Subaru,Impreza
+JF1GH6D_B,2011,Subaru,Impreza
+JF1GJAA_C,2012,Subaru,Impreza
+JF1GPAA_D,2013,Subaru,Impreza
+JF1GV8J_D,2013,Subaru,Impreza
+4S3BL62_5,2005,Subaru,Legacy
+4S3BL61_7,2007,Subaru,Legacy
+4S3BL62_8,2008,Subaru,Legacy
+4S3BL62_9,2009,Subaru,Legacy
+4S3BMCA_A,2010,Subaru,Legacy
+4S3BMCG_A,2010,Subaru,Legacy
+4S3BMBL_C,2012,Subaru,Legacy
+4S3BMBD_E,2014,Subaru,Legacy
+4S3BNBL_F,2015,Subaru,Legacy
+4S3BNAN_H,2017,Subaru,Legacy
+4S3BG68_X,1999,Subaru,Outback
+4S3BH80_1,2001,Subaru,Outback
+4S3BH68_3,2003,Subaru,Outback
+4S3BH80_3,2003,Subaru,Outback
+4S3BH67_4,2004,Subaru,Outback
+4S4BP61_5,2005,Subaru,Outback
+4S4BP62_5,2005,Subaru,Outback
+4S4BP61_6,2006,Subaru,Outback
+4S4BP62_6,2006,Subaru,Outback
+4S4BP61_7,2007,Subaru,Outback
+4S4BP61_8,2008,Subaru,Outback
+4S4BP61_9,2009,Subaru,Outback
+4S4BRBE_A,2010,Subaru,Outback
+4S4BREK_B,2011,Subaru,Outback
+4S4BRCG_C,2012,Subaru,Outback
+4S4BRCC_D,2013,Subaru,Outback
+4S4BRBA_E,2014,Subaru,Outback
+4S4BRCC_E,2014,Subaru,Outback
+4S4BSAN_F,2015,Subaru,Outback
+4S4BSAN_H,2017,Subaru,Outback
+4S4WX82_6,2006,Subaru,Tribeca
+4S4WX86_7,2007,Subaru,Tribeca
+JF1VA2Y_H,2017,Subaru,WRX
+JF2GPAW_D,2013,Subaru,XV Crosstrek
+JF2GPBC_E,2014,Subaru,XV Crosstrek
+JF2GPAM_F,2015,Subaru,XV Crosstrek
+JF2GPBK_E,2014,Subaru,Xv Crosstrek
+JS2RC41_3,2003,Suzuki,Aerio
+JS2RC61_5,2005,Suzuki,Aerio
+5Z6BD06_9,2009,Suzuki,Equator
+KL5JD56_7,2007,Suzuki,Forenza
+KL5JD86_7,2007,Suzuki,Forenza
+KL5JD56_8,2008,Suzuki,Forenza
+JS3TE94_6,2006,Suzuki,Grand Vitara
+JS2RE9A_A,2010,Suzuki,Kizashi
+JS2RE9A_C,2012,Suzuki,Kizashi
+2S3TD62_4,2004,Suzuki,Vitara
+2S3TE62_4,2004,Suzuki,Vitara
+2S3DA51_7,2007,Suzuki,XL-7
+2S3DA41_8,2008,Suzuki,XL-7
+2S3DB11_8,2008,Suzuki,XL-7
+JT3VN39_M,1991,Toyota,4Runner
+JT3VN29_P,1993,Toyota,4Runner
+JT3VN29_S,1995,Toyota,4Runner
+JT3VN39_S,1995,Toyota,4Runner
+JT3GN86_T,1996,Toyota,4Runner
+JT3GN86_X,1999,Toyota,4Runner
+JT3HN87_X,1999,Toyota,4Runner
+JT3HN87_Y,2000,Toyota,4Runner
+JT3GN86_1,2001,Toyota,4Runner
+JT3GN86_2,2002,Toyota,4Runner
+JT3HN86_2,2002,Toyota,4Runner
+JTEBU14_3,2003,Toyota,4Runner
+JTEBU14_4,2004,Toyota,4Runner
+JTEBU17_4,2004,Toyota,4Runner
+JTEZU14_4,2004,Toyota,4Runner
+JTEBT17_5,2005,Toyota,4Runner
+JTEBU14_5,2005,Toyota,4Runner
+JTEBU17_5,2005,Toyota,4Runner
+JTEZT14_5,2005,Toyota,4Runner
+JTEZU14_5,2005,Toyota,4Runner
+JTEBT17_6,2006,Toyota,4Runner
+JTEBU14_6,2006,Toyota,4Runner
+JTEZU17_6,2006,Toyota,4Runner
+JTEBT14_7,2007,Toyota,4Runner
+JTEBU14_7,2007,Toyota,4Runner
+JTEZU14_7,2007,Toyota,4Runner
+JTEBT17_8,2008,Toyota,4Runner
+JTEBU14_8,2008,Toyota,4Runner
+JTEZU14_8,2008,Toyota,4Runner
+JTEZU14_9,2009,Toyota,4Runner
+JTEZU5J_A,2010,Toyota,4Runner
+JTEBU5J_B,2011,Toyota,4Runner
+JTEBU5J_C,2012,Toyota,4Runner
+JTEZU5J_C,2012,Toyota,4Runner
+JTEBU5J_D,2013,Toyota,4Runner
+JTEBU5J_G,2016,Toyota,4Runner
+4T1BF12_V,1997,Toyota,Avalon
+4T1BF18_X,1999,Toyota,Avalon
+4T1BF28_Y,2000,Toyota,Avalon
+4T1BF28_3,2003,Toyota,Avalon
+4T1BK36_5,2005,Toyota,Avalon
+4T1BK36_6,2006,Toyota,Avalon
+4T1BK36_7,2007,Toyota,Avalon
+4T1BK36_8,2008,Toyota,Avalon
+4T1BK3D_B,2011,Toyota,Avalon
+4T1BK3D_C,2012,Toyota,Avalon
+4T1BK1E_D,2013,Toyota,Avalon
+4T1BK1E_E,2014,Toyota,Avalon
+4T1BK1E_F,2015,Toyota,Avalon
+4T1GK12_R,1994,Toyota,Camry
+JT2SK12_S,1995,Toyota,Camry
+4T1BG12_T,1996,Toyota,Camry
+4T1BG22_V,1997,Toyota,Camry
+4T1BG22_W,1998,Toyota,Camry
+4T1BG22_X,1999,Toyota,Camry
+4T1BF28_Y,2000,Toyota,Camry
+4T1BG22_Y,2000,Toyota,Camry
+JT2BG22_Y,2000,Toyota,Camry
+4T1BG22_1,2001,Toyota,Camry
+4T1BE32_2,2002,Toyota,Camry
+4T1BF32_2,2002,Toyota,Camry
+JTDBE32_2,2002,Toyota,Camry
+4T1BE32_3,2003,Toyota,Camry
+4T1BF32_3,2003,Toyota,Camry
+4T1BE32_4,2004,Toyota,Camry
+4T1BE30_5,2005,Toyota,Camry
+4T1BE32_5,2005,Toyota,Camry
+4T1BE32_6,2006,Toyota,Camry
+4T1BF30_6,2006,Toyota,Camry
+JTDBE32_6,2006,Toyota,Camry
+4T1BE46_7,2007,Toyota,Camry
+4T1BK46_7,2007,Toyota,Camry
+JTNBE46_7,2007,Toyota,Camry
+JTNBK46_7,2007,Toyota,Camry
+4T1BB46_8,2008,Toyota,Camry
+4T1BE46_8,2008,Toyota,Camry
+4T1BK46_8,2008,Toyota,Camry
+4T1BB46_9,2009,Toyota,Camry
+4T1BE46_9,2009,Toyota,Camry
+4T1BK46_9,2009,Toyota,Camry
+4T4BE46_9,2009,Toyota,Camry
+4T1BF3E_A,2010,Toyota,Camry
+4T1BF3E_B,2011,Toyota,Camry
+4T1BF1F_C,2012,Toyota,Camry
+4T1BK1F_C,2012,Toyota,Camry
+4T4BF1F_C,2012,Toyota,Camry
+4T1BF1F_D,2013,Toyota,Camry
+4T1BK1F_D,2013,Toyota,Camry
+4T4BF1F_D,2013,Toyota,Camry
+4T1BF1F_E,2014,Toyota,Camry
+4T1BK1F_E,2014,Toyota,Camry
+4T1BF1F_F,2015,Toyota,Camry
+4T4BF1F_F,2015,Toyota,Camry
+4T1BF1F_G,2016,Toyota,Camry
+4T1BF1F_H,2017,Toyota,Camry
+2T1CF22_X,1999,Toyota,Camry Solara
+4T1CA30_4,2004,Toyota,Camry Solara
+4T1FA38_6,2006,Toyota,Camry Solara
+4T1FA38_7,2007,Toyota,Camry Solara
+4T1FA38_8,2008,Toyota,Camry Solara
+JTDDY32_1,2001,Toyota,Celica
+JTDDY38_1,2001,Toyota,Celica
+1NXBA02_T,1996,Toyota,Corolla
+1NXBR12_1,2001,Toyota,Corolla
+2T1BR12_2,2002,Toyota,Corolla
+1NXBR32_5,2005,Toyota,Corolla
+2T1BR30_5,2005,Toyota,Corolla
+2T1BR32_5,2005,Toyota,Corolla
+1NXBR32_6,2006,Toyota,Corolla
+2T1BR32_6,2006,Toyota,Corolla
+JTDBR32_6,2006,Toyota,Corolla
+1NXBR32_7,2007,Toyota,Corolla
+2T1BR32_7,2007,Toyota,Corolla
+1NXBR32_8,2008,Toyota,Corolla
+1NXBU40_9,2009,Toyota,Corolla
+JTDBL40_9,2009,Toyota,Corolla
+1NXBU4E_A,2010,Toyota,Corolla
+2T1BU4E_A,2010,Toyota,Corolla
+JTDBU4E_A,2010,Toyota,Corolla
+2T1BU4E_B,2011,Toyota,Corolla
+JTDBU4E_B,2011,Toyota,Corolla
+2T1BU4E_C,2012,Toyota,Corolla
+5YFBU4E_C,2012,Toyota,Corolla
+2T1BU4E_D,2013,Toyota,Corolla
+5YFBU4E_D,2013,Toyota,Corolla
+2T1BURH_E,2014,Toyota,Corolla
+5YFBURH_E,2014,Toyota,Corolla
+2T1BPRH_F,2015,Toyota,Corolla
+2T1BURH_F,2015,Toyota,Corolla
+5YFBURH_F,2015,Toyota,Corolla
+2T1BURH_G,2016,Toyota,Corolla
+5YFBURH_G,2016,Toyota,Corolla
+JTDAT12_1,2001,Toyota,Echo
+JTEBU11_7,2007,Toyota,FJ Cruiser
+JTEZU11_7,2007,Toyota,FJ Cruiser
+JTEGF21_1,2001,Toyota,Highlander
+JTEGF21_2,2002,Toyota,Highlander
+JTEEP21_4,2004,Toyota,Highlander
+JTEDP21_5,2005,Toyota,Highlander
+JTEEP21_5,2005,Toyota,Highlander
+JTEGD21_5,2005,Toyota,Highlander
+JTEDD21_6,2006,Toyota,Highlander
+JTEDW21_6,2006,Toyota,Highlander
+JTEEP21_6,2006,Toyota,Highlander
+JTEGP21_6,2006,Toyota,Highlander
+JTEHD21_6,2006,Toyota,Highlander
+JTEEP21_7,2007,Toyota,Highlander
+JTEGD21_7,2007,Toyota,Highlander
+JTEGP21_7,2007,Toyota,Highlander
+JTEHP21_7,2007,Toyota,Highlander
+JTEHW21_7,2007,Toyota,Highlander
+JTEDS41_8,2008,Toyota,Highlander
+JTEDS42_8,2008,Toyota,Highlander
+JTEDS43_8,2008,Toyota,Highlander
+JTEES42_8,2008,Toyota,Highlander
+JTEDS41_9,2009,Toyota,Highlander
+5TDDK3E_B,2011,Toyota,Highlander
+5TDYK3E_B,2011,Toyota,Highlander
+5TDZKRF_G,2016,Toyota,Highlander
+JTDFR32_1,2001,Toyota,MR2 Spyder
+JTDFR32_2,2002,Toyota,MR2 Spyder
+JTDFR32_5,2005,Toyota,MR2 Spyder
+2T1LR32_5,2005,Toyota,Matrix
+2T1KU40_9,2009,Toyota,Matrix
+2T1KU4E_A,2010,Toyota,Matrix
+JT4RN01_N,1992,Toyota,Pickup
+JT2BK18_3,2003,Toyota,Prius
+JTDKB22_4,2004,Toyota,Prius
+JTDKB20_5,2005,Toyota,Prius
+JTDKB20_6,2006,Toyota,Prius
+JTDKB20_7,2007,Toyota,Prius
+JTDKB20_8,2008,Toyota,Prius
+JTDKB20_9,2009,Toyota,Prius
+JTDKN3D_A,2010,Toyota,Prius
+JTDKN3D_B,2011,Toyota,Prius
+JTDKN3D_D,2013,Toyota,Prius
+JTDKN3D_E,2014,Toyota,Prius
+JTDZN3E_C,2012,Toyota,Prius v
+JTEHH20_1,2001,Toyota,RAV4
+JTEGH20_2,2002,Toyota,RAV4
+JTEGH20_3,2003,Toyota,RAV4
+JTEHH20_3,2003,Toyota,RAV4
+JTEGD20_4,2004,Toyota,RAV4
+JTEHD20_4,2004,Toyota,RAV4
+JTMBD32_6,2006,Toyota,RAV4
+JTMZD33_6,2006,Toyota,RAV4
+JTMBD33_7,2007,Toyota,RAV4
+JTMZD33_7,2007,Toyota,RAV4
+JTMBD33_8,2008,Toyota,RAV4
+JTMBK31_8,2008,Toyota,RAV4
+JTMZD31_8,2008,Toyota,RAV4
+JTMZD34_8,2008,Toyota,RAV4
+2T3ZF33_9,2009,Toyota,RAV4
+JTMDF4D_A,2010,Toyota,RAV4
+2T3DF4D_B,2011,Toyota,RAV4
+2T3ZF4D_B,2011,Toyota,RAV4
+2T3BF4D_C,2012,Toyota,RAV4
+2T3BFRE_D,2013,Toyota,RAV4
+2T3DFRE_D,2013,Toyota,RAV4
+2T3WFRE_D,2013,Toyota,RAV4
+2T3DFRE_E,2014,Toyota,RAV4
+JTMRFRE_F,2015,Toyota,RAV4
+2T3WFRE_G,2016,Toyota,RAV4
+5TDZT34_1,2001,Toyota,Sequoia
+5TDBT48_3,2003,Toyota,Sequoia
+5TDZT34_3,2003,Toyota,Sequoia
+5TDBT48_4,2004,Toyota,Sequoia
+5TDZT34_4,2004,Toyota,Sequoia
+5TDZT34_5,2005,Toyota,Sequoia
+5TDZM5G_A,2010,Toyota,Sequoia
+5TDBM5G_C,2012,Toyota,Sequoia
+5TDYY5G_F,2015,Toyota,Sequoia
+4T3ZF19_X,1999,Toyota,Sienna
+4T3ZF13_Y,2000,Toyota,Sienna
+4T3ZF13_2,2002,Toyota,Sienna
+5TDZA23_4,2004,Toyota,Sienna
+5TDBA23_6,2006,Toyota,Sienna
+5TDZA23_6,2006,Toyota,Sienna
+5TDZK23_7,2007,Toyota,Sienna
+5TDYK4C_A,2010,Toyota,Sienna
+5TDYK3D_D,2013,Toyota,Sienna
+5TDZK3D_E,2014,Toyota,Sienna
+4TANL42_X,1999,Toyota,Tacoma
+4TASN92_Y,2000,Toyota,Tacoma
+4TAWN72_Y,2000,Toyota,Tacoma
+5TESN92_Y,2000,Toyota,Tacoma
+5TEHN72_1,2001,Toyota,Tacoma
+5TEPM62_1,2001,Toyota,Tacoma
+5TEVL52_1,2001,Toyota,Tacoma
+5TEWN72_1,2001,Toyota,Tacoma
+5TEGM92_2,2002,Toyota,Tacoma
+5TESM92_2,2002,Toyota,Tacoma
+5TESN92_2,2002,Toyota,Tacoma
+5TEVL52_3,2003,Toyota,Tacoma
+5TEWN72_3,2003,Toyota,Tacoma
+5TEGN92_4,2004,Toyota,Tacoma
+3TMKU72_5,2005,Toyota,Tacoma
+5TEMU52_5,2005,Toyota,Tacoma
+5TENX22_5,2005,Toyota,Tacoma
+5TETU62_5,2005,Toyota,Tacoma
+3TMJU62_6,2006,Toyota,Tacoma
+5TEJU62_6,2006,Toyota,Tacoma
+5TELU42_6,2006,Toyota,Tacoma
+5TENX22_6,2006,Toyota,Tacoma
+5TETU62_6,2006,Toyota,Tacoma
+3TMMU52_7,2007,Toyota,Tacoma
+5TELU42_7,2007,Toyota,Tacoma
+5TENX22_7,2007,Toyota,Tacoma
+5TEUU42_7,2007,Toyota,Tacoma
+3TMJU62_8,2008,Toyota,Tacoma
+3TMKU72_8,2008,Toyota,Tacoma
+5TELU42_8,2008,Toyota,Tacoma
+5TEMU52_8,2008,Toyota,Tacoma
+3TMJU62_9,2009,Toyota,Tacoma
+3TMJU4G_A,2010,Toyota,Tacoma
+3TMJU4G_B,2011,Toyota,Tacoma
+5TFLU4E_C,2012,Toyota,Tacoma
+5TFUU4E_C,2012,Toyota,Tacoma
+5TFJU4G_D,2013,Toyota,Tacoma
+5TFJU4G_E,2014,Toyota,Tacoma
+5TFCZ5A_G,2016,Toyota,Tacoma
+5TFGZ5A_G,2016,Toyota,Tacoma
+5TBBT44_Y,2000,Toyota,Tundra
+5TBBT44_1,2001,Toyota,Tundra
+5TBRT34_1,2001,Toyota,Tundra
+5TBRN34_2,2002,Toyota,Tundra
+5TBBT44_3,2003,Toyota,Tundra
+5TBRN34_3,2003,Toyota,Tundra
+5TBRT34_3,2003,Toyota,Tundra
+5TBBT44_4,2004,Toyota,Tundra
+5TBDT48_4,2004,Toyota,Tundra
+5TBET34_4,2004,Toyota,Tundra
+5TBET38_4,2004,Toyota,Tundra
+5TBDT44_5,2005,Toyota,Tundra
+5TBET34_6,2006,Toyota,Tundra
+5TBET38_6,2006,Toyota,Tundra
+5TBEV54_7,2007,Toyota,Tundra
+5TBRV54_7,2007,Toyota,Tundra
+5TFBV58_7,2007,Toyota,Tundra
+5TBBV58_8,2008,Toyota,Tundra
+5TBDV58_8,2008,Toyota,Tundra
+5TBRV54_8,2008,Toyota,Tundra
+5TFBV54_8,2008,Toyota,Tundra
+5TFDV54_8,2008,Toyota,Tundra
+5TFEV54_8,2008,Toyota,Tundra
+5TFBV54_9,2009,Toyota,Tundra
+5TFRT54_9,2009,Toyota,Tundra
+5TFDW5F_A,2010,Toyota,Tundra
+5TFEY5F_A,2010,Toyota,Tundra
+5TFHW5F_A,2010,Toyota,Tundra
+5TFRM5F_A,2010,Toyota,Tundra
+5TFBW5F_B,2011,Toyota,Tundra
+5TFDW5F_B,2011,Toyota,Tundra
+5TFFY5F_D,2013,Toyota,Tundra
+5TFRM5F_D,2013,Toyota,Tundra
+5TFEY5F_E,2014,Toyota,Tundra
+5TFRM5F_E,2014,Toyota,Tundra
+5TFSY5F_E,2014,Toyota,Tundra
+5TFFY5F_F,2015,Toyota,Tundra
+5TFUW5F_G,2016,Toyota,Tundra
+4T3BK11_9,2009,Toyota,Venza
+4T3ZA3B_A,2010,Toyota,Venza
+4T3ZK3B_B,2011,Toyota,Venza
+4T3ZK3B_D,2013,Toyota,Venza
+JTDJT92_7,2007,Toyota,Yaris
+JTDBT92_8,2008,Toyota,Yaris
+JTDJT92_8,2008,Toyota,Yaris
+JTDBT90_9,2009,Toyota,Yaris
+JTDKT4K_A,2010,Toyota,Yaris
+JTDKT4K_B,2011,Toyota,Yaris
+523MF1A_C,2012,VPG,MV-1
+3VWJX7A_C,2012,Volkswagen,Beetle
+3VWVA7A_C,2012,Volkswagen,Beetle
+3VW4A7A_D,2013,Volkswagen,Beetle
+3VW5P7A_D,2013,Volkswagen,Beetle
+3VW5X7A_D,2013,Volkswagen,Beetle
+3VW7T7A_D,2013,Volkswagen,Beetle
+3VW8T7A_D,2013,Volkswagen,Beetle
+3VWJP7A_D,2013,Volkswagen,Beetle
+3VWJX7A_D,2013,Volkswagen,Beetle
+3VW5P7A_E,2014,Volkswagen,Beetle
+3VWFP7A_E,2014,Volkswagen,Beetle
+3VWF17A_F,2015,Volkswagen,Beetle
+3VWJ07A_F,2015,Volkswagen,Beetle
+3VWVT7A_F,2015,Volkswagen,Beetle
+WVWHL73_9,2009,Volkswagen,CC
+WVWML9A_A,2010,Volkswagen,CC
+WVWMN7A_A,2010,Volkswagen,CC
+WVWMN7A_C,2012,Volkswagen,CC
+WVWMP7A_C,2012,Volkswagen,CC
+WVWNN7A_C,2012,Volkswagen,CC
+WVWBP7A_D,2013,Volkswagen,CC
+WVWGU7A_D,2013,Volkswagen,CC
+WVWBP7A_E,2014,Volkswagen,CC
+WVWAP7A_F,2015,Volkswagen,CC
+WVWBN7A_F,2015,Volkswagen,CC
+WVWBP7A_F,2015,Volkswagen,CC
+WVWBP7A_G,2016,Volkswagen,CC
+3VWCC21_1,2001,Volkswagen,Cabrio
+3VWDC21_2,2002,Volkswagen,Cabrio
+WVWBA71_8,2008,Volkswagen,Eos
+WVWBA71_9,2009,Volkswagen,Eos
+WVWFA71_9,2009,Volkswagen,Eos
+WVWBW8A_F,2015,Volkswagen,Eos
+WVWBW8A_G,2016,Volkswagen,Eos
+9BWDE61_5,2005,Volkswagen,GTI
+WVWED71_8,2008,Volkswagen,GTI
+WVWFV71_8,2008,Volkswagen,GTI
+WVWFV7A_B,2011,Volkswagen,GTI
+WVWHV7A_B,2011,Volkswagen,GTI
+WVWHD7A_D,2013,Volkswagen,GTI
+WVWHV7A_D,2013,Volkswagen,GTI
+WVWAA7A_A,2010,Volkswagen,Golf
+WVWBB7A_B,2011,Volkswagen,Golf
+WVWDA7A_D,2013,Volkswagen,Golf
+WVWPF7A_D,2013,Volkswagen,Golf
+3VW217A_F,2015,Volkswagen,Golf
+3VW447A_F,2015,Volkswagen,Golf
+3VW4T7A_F,2015,Volkswagen,Golf
+3VW817A_F,2015,Volkswagen,Golf
+3VW217A_G,2016,Volkswagen,Golf
+3VW4T7A_G,2016,Volkswagen,Golf
+3VWC17A_G,2016,Volkswagen,Golf
+WVWUF7A_G,2016,Volkswagen,Golf
+3VW117A_H,2017,Volkswagen,Golf
+3VW447A_H,2017,Volkswagen,Golf
+3VW547A_H,2017,Volkswagen,Golf
+WVWVF7A_H,2017,Volkswagen,Golf
+WVWWF7A_H,2017,Volkswagen,Golf
+3VWSC29_Y,2000,Volkswagen,Jetta
+3VWSB69_2,2002,Volkswagen,Jetta
+3VWSE69_2,2002,Volkswagen,Jetta
+3VWPE69_3,2003,Volkswagen,Jetta
+3VWRP69_3,2003,Volkswagen,Jetta
+3VWSE69_3,2003,Volkswagen,Jetta
+3VWTH69_3,2003,Volkswagen,Jetta
+3VWRK69_4,2004,Volkswagen,Jetta
+3VWSE69_4,2004,Volkswagen,Jetta
+3VWSF71_5,2005,Volkswagen,Jetta
+3VWSK69_5,2005,Volkswagen,Jetta
+3VWDF71_6,2006,Volkswagen,Jetta
+3VWPF71_6,2006,Volkswagen,Jetta
+3VWRT71_6,2006,Volkswagen,Jetta
+3VWSF71_6,2006,Volkswagen,Jetta
+3VWEF71_7,2007,Volkswagen,Jetta
+3VWRA71_8,2008,Volkswagen,Jetta
+3VWRM71_8,2008,Volkswagen,Jetta
+3VWRM71_9,2009,Volkswagen,Jetta
+3VWRZ71_9,2009,Volkswagen,Jetta
+3VWAZ7A_A,2010,Volkswagen,Jetta
+3VWHL7A_A,2010,Volkswagen,Jetta
+3VWJZ7A_A,2010,Volkswagen,Jetta
+3VWRX7A_A,2010,Volkswagen,Jetta
+3VW2K7A_B,2011,Volkswagen,Jetta
+3VWDX7A_B,2011,Volkswagen,Jetta
+3VW1K7A_C,2012,Volkswagen,Jetta
+3VW4A7A_C,2012,Volkswagen,Jetta
+3VW567A_C,2012,Volkswagen,Jetta
+3VW2K7A_D,2013,Volkswagen,Jetta
+3VW467A_D,2013,Volkswagen,Jetta
+3VW4A7A_D,2013,Volkswagen,Jetta
+3VWDP7A_D,2013,Volkswagen,Jetta
+3VWDX7A_D,2013,Volkswagen,Jetta
+3VWPP7A_D,2013,Volkswagen,Jetta
+3VW1K7A_E,2014,Volkswagen,Jetta
+3VW2K7A_E,2014,Volkswagen,Jetta
+3VW4S7A_E,2014,Volkswagen,Jetta
+3VWB17A_E,2014,Volkswagen,Jetta
+3VWD17A_E,2014,Volkswagen,Jetta
+3VW1K7A_F,2015,Volkswagen,Jetta
+3VW2K7A_F,2015,Volkswagen,Jetta
+3VWD07A_F,2015,Volkswagen,Jetta
+3VWD17A_F,2015,Volkswagen,Jetta
+3VW167A_G,2016,Volkswagen,Jetta
+3VW267A_G,2016,Volkswagen,Jetta
+3VW637A_G,2016,Volkswagen,Jetta
+3VWD17A_G,2016,Volkswagen,Jetta
+3VWL17A_G,2016,Volkswagen,Jetta
+3VW2B7A_H,2017,Volkswagen,Jetta
+3VW4T7A_H,2017,Volkswagen,Jetta
+3VWCD21_Y,2000,Volkswagen,New Beetle
+3VWDD21_Y,2000,Volkswagen,New Beetle
+3VWCS21_1,2001,Volkswagen,New Beetle
+3VWCB21_2,2002,Volkswagen,New Beetle
+3VWCD21_2,2002,Volkswagen,New Beetle
+3VWBK21_3,2003,Volkswagen,New Beetle
+3VWBP21_3,2003,Volkswagen,New Beetle
+3VWCK21_3,2003,Volkswagen,New Beetle
+3VWCP21_3,2003,Volkswagen,New Beetle
+3VWCM21_4,2004,Volkswagen,New Beetle
+3VWCM31_4,2004,Volkswagen,New Beetle
+3VWCM31_5,2005,Volkswagen,New Beetle
+3VWRF31_6,2006,Volkswagen,New Beetle
+3VWSF31_6,2006,Volkswagen,New Beetle
+3VWPW31_7,2007,Volkswagen,New Beetle
+3VWRG31_7,2007,Volkswagen,New Beetle
+3VWRW31_7,2007,Volkswagen,New Beetle
+3VWFW31_8,2008,Volkswagen,New Beetle
+3VWSG31_9,2009,Volkswagen,New Beetle
+3VWRW3A_A,2010,Volkswagen,New Beetle
+WVWNA63_W,1998,Volkswagen,Passat
+WVWRH63_1,2001,Volkswagen,Passat
+WVWVD63_3,2003,Volkswagen,Passat
+WVWND63_4,2004,Volkswagen,Passat
+WVWVD63_4,2004,Volkswagen,Passat
+WVWAK73_6,2006,Volkswagen,Passat
+WVWEK73_6,2006,Volkswagen,Passat
+WVWEU73_6,2006,Volkswagen,Passat
+WVWEU93_6,2006,Volkswagen,Passat
+WVWGK73_6,2006,Volkswagen,Passat
+WVWLK73_7,2007,Volkswagen,Passat
+WVWTK73_7,2007,Volkswagen,Passat
+WVWVU73_7,2007,Volkswagen,Passat
+WVWAK73_8,2008,Volkswagen,Passat
+WVWTK73_8,2008,Volkswagen,Passat
+WVWJK7A_A,2010,Volkswagen,Passat
+1VWBP7A_C,2012,Volkswagen,Passat
+1VWAH7A_D,2013,Volkswagen,Passat
+1VWAP7A_D,2013,Volkswagen,Passat
+1VWBP7A_D,2013,Volkswagen,Passat
+1VWAH7A_E,2014,Volkswagen,Passat
+1VWAT7A_E,2014,Volkswagen,Passat
+1VWBN7A_E,2014,Volkswagen,Passat
+1VWBP7A_E,2014,Volkswagen,Passat
+1VWBT7A_E,2014,Volkswagen,Passat
+1VWAS7A_F,2015,Volkswagen,Passat
+1VWAT7A_F,2015,Volkswagen,Passat
+1VWBS7A_F,2015,Volkswagen,Passat
+1VWBT7A_F,2015,Volkswagen,Passat
+1VWAT7A_G,2016,Volkswagen,Passat
+1VWBT7A_G,2016,Volkswagen,Passat
+1VWDT7A_H,2017,Volkswagen,Passat
+WVWKG61_4,2004,Volkswagen,R32
+WVWKC71_8,2008,Volkswagen,R32
+WVWBA71_9,2009,Volkswagen,Rabbit
+2C4RVAB_C,2012,Volkswagen,Routan
+WVGAV75_9,2009,Volkswagen,Tiguan
+WVGAV7A_A,2010,Volkswagen,Tiguan
+WVGAV7A_B,2011,Volkswagen,Tiguan
+WVGAV7A_C,2012,Volkswagen,Tiguan
+WVGAV3A_D,2013,Volkswagen,Tiguan
+WVGAV7A_D,2013,Volkswagen,Tiguan
+WVGBV3A_D,2013,Volkswagen,Tiguan
+WVGBV7A_D,2013,Volkswagen,Tiguan
+WVGAV3A_E,2014,Volkswagen,Tiguan
+WVGBV3A_E,2014,Volkswagen,Tiguan
+WVGAV7A_G,2016,Volkswagen,Tiguan
+WVGBV7A_G,2016,Volkswagen,Tiguan
+WVGBV7A_H,2017,Volkswagen,Tiguan
+WVGSV7A_H,2017,Volkswagen,Tiguan
+WVGFK7A_A,2010,Volkswagen,Touareg
+WVGEF9B_D,2013,Volkswagen,Touareg
+WVGEP9B_D,2013,Volkswagen,Touareg
+WVGEF9B_G,2016,Volkswagen,Touareg
+WVGRF7B_H,2017,Volkswagen,Touareg
+YV1MK67_8,2008,Volvo,C30
+YV1NC53_1,2001,Volvo,C70
+YV1MC67_8,2008,Volvo,C70
+YV1MC67_9,2009,Volvo,C70
+YV1MS38_4,2004,Volvo,S40
+YV1MS38_5,2005,Volvo,S40
+YV1MS38_7,2007,Volvo,S40
+YV1MS38_9,2009,Volvo,S40
+YV1RS61_1,2001,Volvo,S60
+YV1RS58_2,2002,Volvo,S60
+YV1RH59_4,2004,Volvo,S60
+YV1RS59_6,2006,Volvo,S60
+YV1RS59_8,2008,Volvo,S60
+YV1902F_C,2012,Volvo,S60
+YV1TS91_3,2003,Volvo,S80
+YV1TS91_4,2004,Volvo,S80
+YV1MJ68_7,2007,Volvo,V50
+YV1SW53_1,2001,Volvo,V70
+YV1SZ58_1,2001,Volvo,V70
+YV4982D_A,2010,Volvo,XC60
+YV4902D_C,2012,Volvo,XC60
+YV4612R_F,2015,Volvo,XC60
+YV4SZ59_6,2006,Volvo,XC70
+YV1CY59_4,2004,Volvo,XC90
+YV1CZ59_4,2004,Volvo,XC90
+YV1CZ91_4,2004,Volvo,XC90
+YV1CY59_5,2005,Volvo,XC90
+YV4CY59_6,2006,Volvo,XC90
+YV4CZ59_6,2006,Volvo,XC90
+YV4CZ85_6,2006,Volvo,XC90
+YV4CY98_7,2007,Volvo,XC90
+YV4852C_A,2010,Volvo,XC90
+YV4952C_B,2011,Volvo,XC90
